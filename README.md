@@ -1,2 +1,3 @@
-# newGPLesson
-Template repository for starting a new Galactic Polymath Lesson
+# guardianFrogs lesson
+### Sponsor: Johana Goyes, PhD
+
