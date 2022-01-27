@@ -1,0 +1,22 @@
+{
+  "id": "",
+  "TemplateVer": "0.2.6",
+  "galacticPubsVer": "",
+  "FirstPublicationDate": "",
+  "LastUpdated": "",
+  "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
+  "ShortTitle": "guardianFrogs",
+  "PublicationStatus": "Draft",
+  "RebuildAllMaterials": false,
+  "ReleaseDate": [],
+  "Title": "",
+  "Subtitle": "",
+  "SponsorName": "",
+  "SponsoredBy": "",
+  "SponsorImage": {
+    "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/"
+  },
+  "CoverImage": {
+    "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/"
+  }
+}

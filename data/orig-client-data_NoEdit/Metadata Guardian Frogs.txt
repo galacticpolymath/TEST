@@ -1,0 +1,17 @@
+#Limnonectes palavanensis data - JOHANA GOYES VALLEJOS
+########################################################
+#L.pa_male adv calls_acoustic parameters.csv
+#L.pa_male resp calls_acoustic parameters.csv
+#L.pa_Females_SUL_Dom.Freq.xlsx
+########################################################
+“FrogID”: individual identification number for each individual frog 
+“Weight”: mass of the frog in grams
+“SUL”: Snout-Urostyle Length in mm, the body length from snout to cloaca of each frog
+“Trill”: Trill number, they were numbers consecutively for each recording. If a frog only made three trill (i.e., advertisement calls), then it will have 1, 2, 3 represented in the data sheet
+“Pulses”: number of pulses for each of the trills
+“PulseRate”: calculated as the number of pulses minus 1 divided by call duration following Bee et al. 2013
+“CallDuration”: length of the call, from the onset of the first pulse to the offset of the last pulse in milliseconds
+“FundFreq”: measured in Hz
+“DomFreq”: measured in Hz
+“Call Num”: number of response calls produced by a male, numbered chronologically
+“RespTime_sec”: how many seconds passed until a male made a response call after hearing a female call

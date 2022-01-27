@@ -1,0 +1,15 @@
+{
+  "__component": "lesson-plan.overview",
+  "EstLessonTime": "2 x 45 min + 1 x 10 min",
+  "ForGrades": "5-8",
+  "TargetSubject": "Science",
+  "Text": null,
+  "Tags": "",
+  "SteamEpaulette": {
+    "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette.png"
+  },
+  "SteamEpaulette_vert": {
+    "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette_vert.png"
+  },
+  "Description": ""
+}
