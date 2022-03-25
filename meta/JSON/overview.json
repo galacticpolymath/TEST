@@ -1,12 +1,21 @@
 {
   "__component": "lesson-plan.overview",
-  "EstLessonTime": "2 x 45min + 1 x 10min",
+  "EstLessonTime": "2 x 45min + short debrief",
   "ForGrades": "5-8",
-  "TargetSubject": "Math",
-  "Text": null,
+  "TargetSubject": "Science",
+  "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Learning Objective(s):\n1. Explain how animal behavior facilitates in reproduction\n2. Understand the concepts of sexual selection and sex role reversal; understand the factors that contribute to sex role reversal\n3. Understand that biological data are variable; Use statistical language (e.g. mean, range) and data visualization to describe variation in biological data; Learn to test hypotheses by interpreting data that shows variability, using scatter plots of real biological data\n4. Cite textual evidence from a scientific text to support analysis of what the text says explicitly as well as inferences drawn from the text.\n5. Understand that there there are exceptions in biology by integrating evidence from scientific text and graphs of real biological data [and understand why it is important to study these exceptions in biology and other disciplines\n",
   "Tags": [
     {
-      "Value": ""
+      "Value": "sex differences"
+    },
+    {
+      "Value": "frogs"
+    },
+    {
+      "Value": "mating systems"
+    },
+    {
+      "Value": "animal behavior"
     }
   ],
   "SteamEpaulette": {

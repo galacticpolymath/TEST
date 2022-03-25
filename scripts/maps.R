@@ -22,7 +22,7 @@ gpsave("Borneo_map.png")
 
 #Zoom in for detail of 3 countries
 ggplot()+geom_abline(intercept=0,slope=0,linetype="dashed",size=1.1,color="#363636")+
-  annotate("text",x=145,hjust=1,y=1.5,label="Equator",family="Montserrat",size=10,color="#363636")+
+  annotate("text",x=145,hjust=0.95,y=2,label="Equator",family="Montserrat",size=7,color="#363636")+
   geom_sf(data=world)+xlim(95,145)+ylim(-20,20)+theme_void()+
   geom_sf(data=borneo,fill=gpColors("flare"),alpha=.4,color="transparent")
 
@@ -30,7 +30,7 @@ gpsave("Borneo_map_zoomed.png")
 
 
 
-## Make political map showing the 3 countries that claim borneo
+ ## Make political map showing the 3 countries that claim borneo
 countries<-rnaturalearth::ne_download(scale=50,type="countries", returnclass = "sf")
 Malaysia<-subset(countries,NAME=="Malaysia")
 Indonesia<-subset(countries,NAME=="Indonesia")
@@ -43,11 +43,11 @@ island<-geom_sf(data=borneo,color=gpColors("galactic black"),alpha=0,size=1)
 gpsave("Borneo_map_1-no-countries.png")
 
 #  Malaysia
-(b2<-b1+geom_sf(data=Malaysia,inherit.aes = F,fill=gpColors("hy"),color=gpColors("hy"),alpha=.7))+island
+(b2<-b1+geom_sf(data=Malaysia,inherit.aes = F,fill=gpColors("lightning purple"),color=gpColors("lightning purple"),alpha=.7))+island
 gpsave("Borneo_map_2-malaysia.png")
 
 #Indonesia
-(b3<-b2+geom_sf(data=Indonesia,inherit.aes = F,fill=gpColors("lightning purple"),color=gpColors("lightning purple"),alpha=.7))+island
+(b3<-b2+geom_sf(data=Indonesia,inherit.aes = F,fill=gpColors("hy"),color=gpColors("hy"),alpha=.7))+island
 gpsave("Borneo_map_3-malay+indo.png")
 
 ##Brunei
