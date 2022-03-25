@@ -3,7 +3,7 @@ ShortTitle: guardianFrogs
 TemplateVer: 0.2.7
 galacticPubsVer: 0.6.6
 FirstPublicationDate: 2022-02-10 18:39:03
-LastUpdated: 2022-03-25 15:01:53
+LastUpdated: 2022-03-25 15:23:27
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
 PublicationStatus: Live
@@ -46,7 +46,7 @@ Tags:
 - frogs
 - mating systems
 - animal behavior
-Description: ''
+Description: Testing.
 QuickPrep: |
   1. Watch Video(s) for Part 1
   2. Look over [Background](#background)
