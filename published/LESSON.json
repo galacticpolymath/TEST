@@ -4,12 +4,12 @@
   "TemplateVer": "0.2.7",
   "galacticPubsVer": "0.6.6",
   "FirstPublicationDate": "2022-02-10 18:39:03",
-  "LastUpdated": "2022-03-28 15:25:04",
+  "LastUpdated": "2022-03-28 15:27:32",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Live",
-  "RebuildAllMaterials": true,
-  "ReleaseDate": "2022-04-04",
+  "RebuildAllMaterials": false,
+  "ReleaseDate": "2022-04-01",
   "Title": "The Guardian Frogs of Borneo",
   "Subtitle": "Why Exceptions Matter in Biology and Everyday Life",
   "SponsorName": "Johana Goyes Vallejos",
@@ -18,7 +18,7 @@
     "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/"
   },
   "CoverImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/Banner+Title.png"
+    "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/banner.png"
   },
   "Section": {
     "overview": {
