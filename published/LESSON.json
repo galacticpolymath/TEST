@@ -4,11 +4,11 @@
   "TemplateVer": "0.2.7",
   "galacticPubsVer": "0.6.6",
   "FirstPublicationDate": "2022-02-10 18:39:03",
-  "LastUpdated": "2022-03-25 15:23:27",
+  "LastUpdated": "2022-03-28 11:24:13",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
-  "PublicationStatus": "Draft",
-  "RebuildAllMaterials": false,
+  "PublicationStatus": "Live",
+  "RebuildAllMaterials": true,
   "ReleaseDate": "2022-04-04",
   "Title": "The Guardian Frogs of Borneo",
   "Subtitle": "Why Exceptions Matter in Biology and Everyday Life",
@@ -47,7 +47,7 @@
       "SteamEpaulette_vert": {
         "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette_vert.png"
       },
-      "Description": ""
+      "Description": "Testing."
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -72,7 +72,7 @@
       "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 15 standards across US grade band(s): 5-6, 7-8.",
       "Footnote": "**Notes on Standards**\n\n*Standards are broken down into ***Target*** and ***Connected*** categories. Target standards are directly reinforced or taught; connected standards are not fully addressed in the lesson, but connected enough to provide a foundation for teachers to build upon.",
       "Badge": {
-        "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/.png"
+        "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Chart.png"
       }
     },
     "standards": {
