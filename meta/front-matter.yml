@@ -3,7 +3,7 @@ ShortTitle: guardianFrogs
 TemplateVer: 0.2.7
 galacticPubsVer: 0.6.6
 FirstPublicationDate: 2022-02-10 18:39:03
-LastUpdated: 2022-03-28 15:27:32
+LastUpdated: 2022-03-29 18:05:26
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
 PublicationStatus: Live
@@ -12,7 +12,7 @@ ReleaseDate: '2022-04-01'
 Title: The Guardian Frogs of Borneo
 Subtitle: Why Exceptions Matter in Biology and Everyday Life
 SponsorName: Johana Goyes Vallejos
-SponsoredBy: ''
+SponsoredBy: '- Johana Goyes Vallejos, PhD'
 SponsorLogo: []
 LessonBanner: assets/banners_etc/banner.png
 TargetSubject: Science
@@ -55,9 +55,26 @@ QuickPrep: |
   5. Repeat for each part and [tell us what you think.](#feedback)
 Bonus: ''
 Extensions: ''
-Background: ''
-ConnectionToResearch: ''
-Feedback: ''
-Credits: ''
+Background: |-
+  #### Research Background
+
+  #### Scientific Paper
+  ![Screenshot of scientific journal article](goyespaper.png)
+  [Link to study](https://d1wqtxts1xzle7.cloudfront.net/79427454/goyes_vallejos_et_al._-_2017_-_calling_behavior_of_males_and_females_of_a_bornean_frog_with_male_parental_care_and_possible_sex-role_rev-with-cover-page-v2.pdf?Expires=1648595545&Signature=f0ALZB0J0eBUPBsu-9CFXdf0LcrVGh58oZYDqBbpHA5u7GEdoW1yyYnWoRWt6Tvwa75UcRwad-ABn3MhybdqRtSOW5oMpcUdlWW5MgnAwFauVMvHa5X92uwqCrLrnfrOnKTpEfkf1xYi4o98WwbXLBdOzJgu8W8~abr4EjhidwFNs6QKHEy6DQ19RYpdUulv9qPSlAuDWLai2p4wzyriIHF-PUG4k~Y115Wd5Tshhjt-JiH3k3ssGJ2owJACRvJjVDnZqjO~mm3lbj5k9tVHGZldTV39FnApfvw~TUFzO4NLhXqcD1LDKKQGM9ppbBWsCakUZvPYrZHHvBgtWhJWSw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+ConnectionToResearch: |
+  #### Connection to Research
+Feedback: "### ### Please let us know how it went with your class! \n#### We want
+  to know what you (and/or your students) think!\nShare your feedback in < 5 min with
+  these forms:\n- [For teachers](https://forms.gle/bZeaTqPEedQMjMV59)\n- [For students](https://forms.gle/YnBorosBjWQHobgX7)\n"
+Credits: "#### Lead Author and Creative Director:\nMatt Wilkins, PhD\nIf you liked
+  this lesson, please help spread the word! Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio))
+  and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences
+  and student questions! \n\nAnd please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91)
+  to hear what’s coming up next!\n\n#### Sponsor and Producer\n[Johana Goyes Vallejos,
+  PhD](https://jogoyesvallejos.weebly.com/)\n\n#### \"Role with It\" Animal Diversity
+  Cards Illustrator\n[Anna Wilkins](https://akwilkins00.wixsite.com/mysite)"
 ScriptsToRun: ''
-ReadyToCompile: Front Matter
+ReadyToCompile:
+- Front Matter
+- Standards Alignment
+- Teaching Materials

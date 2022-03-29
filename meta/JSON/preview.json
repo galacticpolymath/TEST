@@ -1,7 +1,36 @@
 {
   "__component": "lesson-plan.lesson-preview",
   "SectionTitle": "Lesson Preview",
-  "Multimedia": null,
+  "Multimedia": [
+    {
+      "order": 2,
+      "type": null,
+      "title": null,
+      "description": null,
+      "lessonRelevance": "For Part 2: An atmospheric video plays as students enter the classroom, immediately immersing them in the lesson's sights, sounds, geographic location, and sense of mystery.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "keywords": null,
+      "mainLink": "https://www.youtube.com/embed/G7xvfIhL6bU",
+      "vimeoLink": null,
+      "filename": null,
+      "otherLink": null
+    },
+    {
+      "order": 1,
+      "type": null,
+      "title": null,
+      "description": null,
+      "lessonRelevance": "Part of a fun simulated data collection activity. Students \"introduce\" both sexes of a set of species (by vocalizing and dancing) and build a data table.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "keywords": null,
+      "mainLink": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/view?usp=sharing",
+      "vimeoLink": null,
+      "filename": "GuardianFrogs_P1_Role With It_Cards.pdf",
+      "otherLink": null
+    }
+  ],
   "QuickPrep": "1. Watch Video(s) for Part 1\n2. Look over <AnchorLink href=\"#background\"> Background <\/AnchorLink>\n3. Look over <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. <AnchorLink href=\"#teaching_materials\"> Teach it! <\/AnchorLink>\n5. Repeat for each part and <AnchorLink href=\"#feedback\"> tell us what you think. <\/AnchorLink>\n",
   "InitiallyExpanded": true
 }

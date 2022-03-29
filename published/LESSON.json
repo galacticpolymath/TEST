@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.7",
   "galacticPubsVer": "0.6.6",
   "FirstPublicationDate": "2022-02-10 18:39:03",
-  "LastUpdated": "2022-03-28 15:27:32",
+  "LastUpdated": "2022-03-29 18:05:26",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Live",
@@ -52,9 +52,172 @@
     "preview": {
       "__component": "lesson-plan.lesson-preview",
       "SectionTitle": "Lesson Preview",
-      "Multimedia": null,
+      "Multimedia": [
+        {
+          "order": 2,
+          "type": null,
+          "title": null,
+          "description": null,
+          "lessonRelevance": "For Part 2: An atmospheric video plays as students enter the classroom, immediately immersing them in the lesson's sights, sounds, geographic location, and sense of mystery.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "keywords": null,
+          "mainLink": "https://www.youtube.com/embed/G7xvfIhL6bU",
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
+        },
+        {
+          "order": 1,
+          "type": null,
+          "title": null,
+          "description": null,
+          "lessonRelevance": "Part of a fun simulated data collection activity. Students \"introduce\" both sexes of a set of species (by vocalizing and dancing) and build a data table.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "keywords": null,
+          "mainLink": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/view?usp=sharing",
+          "vimeoLink": null,
+          "filename": "GuardianFrogs_P1_Role With It_Cards.pdf",
+          "otherLink": null
+        }
+      ],
       "QuickPrep": "1. Watch Video(s) for Part 1\n2. Look over <AnchorLink href=\"#background\"> Background <\/AnchorLink>\n3. Look over <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. <AnchorLink href=\"#teaching_materials\"> Teach it! <\/AnchorLink>\n5. Repeat for each part and <AnchorLink href=\"#feedback\"> tell us what you think. <\/AnchorLink>\n",
       "InitiallyExpanded": true
+    },
+    "teaching-materials": {
+      "__component": "teaching-resources.teaching-resources",
+      "SectionTitle": "Teaching Materials",
+      "Data": {
+        "classroom": {
+          "resourceSummary": [
+            {
+              "nItems": null,
+              "itemCat": "Digital Items",
+              "itemsGroup": [
+                {
+                  "item": "Presentation",
+                  "itemExplanation": "x N Parts"
+                }
+              ]
+            },
+            {
+              "nItems": 1,
+              "itemCat": "Printed Items",
+              "itemsGroup": [
+                {
+                  "item": "Teacher Worksheet",
+                  "itemExplanation": null
+                }
+              ]
+            },
+            {
+              "nItems": 4,
+              "itemCat": "Other Requirements",
+              "itemsGroup": [
+                {
+                  "item": "Teacher's computer",
+                  "itemExplanation": null
+                },
+                {
+                  "item": "Internet Connection",
+                  "itemExplanation": null
+                },
+                {
+                  "item": "Projector",
+                  "itemExplanation": null
+                },
+                {
+                  "item": "Speakers",
+                  "itemExplanation": null
+                }
+              ]
+            }
+          ],
+          "gradeVariantNotes": {
+            "part": null,
+            "partGradeVarNotes": "Overall notes on content adaptions across different grade levels"
+          },
+          "resources": [
+            {
+              "grades": "Grades 5-6",
+              "gradePrefix": "G5-6",
+              "links": {
+                "linkText": "Download G5-6 Materials for All Parts",
+                "url": "https://drive.google.com/drive/folders/1tY4ukKZxi4QfjfFwfHJIrsqK02oBhjFm"
+              },
+              "parts": [
+                {
+                  "part": 1,
+                  "title": "Part Title. Leave Cols A:D blank if there's just 1 part.",
+                  "preface": "Blurb of what this lesson teaches to go before Step 1.",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1xbdlYA0wENBzUntjVrTTbD3arBFSrBhi5-gMCX5wmiA/present"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/presentation/d/1xbdlYA0wENBzUntjVrTTbD3arBFSrBhi5-gMCX5wmiA/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": null,
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "grades": "Grades 7-8",
+              "gradePrefix": "G7-8",
+              "links": {
+                "linkText": "Download G7-8 Materials for All Parts",
+                "url": "https://drive.google.com/drive/folders/1tFSSTsZ8LIIF5yPvU0ZF3LtDzRDpbRNu"
+              },
+              "parts": [
+                {
+                  "part": 1,
+                  "title": "Part Title. Leave Cols A:D blank if there's just 1 part.",
+                  "preface": "Blurb of what this lesson teaches to go before Step 1.",
+                  "itemList": [
+                    {
+                      "itemTitle": null,
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://drive.google.com/file/d/1LvafGRIHDiMtgmPxK5pElPaAuX_QNS7h/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://drive.google.com/file/d/1LvafGRIHDiMtgmPxK5pElPaAuX_QNS7h/"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
     },
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
