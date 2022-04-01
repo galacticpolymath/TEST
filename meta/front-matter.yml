@@ -3,7 +3,7 @@ ShortTitle: guardianFrogs
 TemplateVer: 0.2.7
 galacticPubsVer: 0.6.7
 FirstPublicationDate: 2022-02-10 18:39:03
-LastUpdated: 2022-04-01 12:03:11
+LastUpdated: 2022-04-01 13:59:30
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
 PublicationStatus: Live
@@ -29,7 +29,7 @@ LearningChart: assets/learning-plots/GP-Learning-Chart.png
 LearningChart_params_centralText: grades\n5-8
 LearningChart_params_caption: ''
 LearningChart_params_captionN: yes
-SupportingMedia: ''
+SupportingMedia: assets/supporting-media/goyespaper.png
 DrivingQ: |-
   - Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?
   - Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?
