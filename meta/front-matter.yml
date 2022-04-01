@@ -3,7 +3,7 @@ ShortTitle: guardianFrogs
 TemplateVer: 0.2.7
 galacticPubsVer: 0.6.7
 FirstPublicationDate: 2022-02-10 18:39:03
-LastUpdated: 2022-04-01 12:03:11
+LastUpdated: 2022-04-01 15:16:13
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
 PublicationStatus: Live
@@ -15,12 +15,12 @@ SponsorName: Johana Goyes Vallejos
 SponsoredBy: |-
   - [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/)
   - Division of Biological Sciences, University of Missouri – Columbia
-SponsorLogo: []
+SponsorLogo: ''
 LessonBanner: assets/banners_etc/banner.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 5-8
-EstLessonTime: 2 x 45min + short debrief
+EstLessonTime: 2 x 45 min + short debrief
 LearningEpaulette: assets/learning-plots/GP-Learning-Epaulette.png
 LearningEpaulette_vert: assets/learning-plots/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
