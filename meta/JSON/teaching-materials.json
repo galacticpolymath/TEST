@@ -85,6 +85,34 @@
                   "links": [
                     {
                       "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1YB5c4lQFsmau0zpLbqIKxisR-eHRqXQQHooVSPyXcUQ/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1YB5c4lQFsmau0zpLbqIKxisR-eHRqXQQHooVSPyXcUQ/"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": null,
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": null,
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
                       "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/export?format=pdf"
                     },
                     {

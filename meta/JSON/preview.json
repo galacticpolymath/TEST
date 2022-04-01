@@ -4,9 +4,9 @@
   "Multimedia": [
     {
       "order": 2,
-      "type": null,
-      "title": null,
-      "description": null,
+      "type": "video",
+      "title": "Borneo Atmospheric Video",
+      "description": "This video sets the ambience for the beginning of Part 2 of our \"Guardian Frogs\" lesson. It situates students in the geographic location, sights, and sounds, and a sense of mystery regarding the island of Borneo.",
       "lessonRelevance": "For Part 2: An atmospheric video plays as students enter the classroom, immediately immersing them in the lesson's sights, sounds, geographic location, and sense of mystery.",
       "by": "Galactic Polymath",
       "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
@@ -18,8 +18,8 @@
     },
     {
       "order": 1,
-      "type": null,
-      "title": null,
+      "type": "pdf",
+      "title": "\"Role With It\" Cards",
       "description": null,
       "lessonRelevance": "Part of a fun simulated data collection activity. Students \"introduce\" both sexes of a set of species (by vocalizing and dancing) and build a data table.",
       "by": "Galactic Polymath",
