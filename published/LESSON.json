@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.7",
   "galacticPubsVer": "0.6.7",
   "FirstPublicationDate": "2022-02-10 18:39:03",
-  "LastUpdated": "2022-03-31 22:10:18",
+  "LastUpdated": "2022-04-01 12:03:11",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Live",
@@ -26,7 +26,7 @@
       "EstLessonTime": "2 x 45min + short debrief",
       "ForGrades": "5-8",
       "TargetSubject": "Science",
-      "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Learning Objective(s):\n1. Explain how animal behavior facilitates in reproduction\n2. Understand the concepts of sexual selection and sex role reversal; understand the factors that contribute to sex role reversal\n3. Understand that biological data are variable; Use statistical language (e.g. mean, range) and data visualization to describe variation in biological data; Learn to test hypotheses by interpreting data that shows variability, using scatter plots of real biological data\n4. Cite textual evidence from a scientific text to support analysis of what the text says explicitly as well as inferences drawn from the text.\n5. Understand that there there are exceptions in biology by integrating evidence from scientific text and graphs of real biological data [and understand why it is important to study these exceptions in biology and other disciplines\n",
+      "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Learning Objective(s):\n1. Explain how animal behavior facilitates in survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Understand that biological data are variable.\n4. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why exceptions matter in biology and other disciplines.\n\n#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist, authentic data \n",
       "Tags": [
         {
           "Value": "sex differences"
@@ -47,7 +47,7 @@
       "SteamEpaulette_vert": {
         "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette_vert.png"
       },
-      "Description": "Testing."
+      "Description": "In Part 1, students will be excited to play with cards, dance, and watch short clips of animal courtship behaviors in this gamified, but rigorous activity! Part 2 sets a mysterious atmosphere with an introduction to the sights and sounds of Borneo, and students will interact with real data to follow in the footsteps of a young Latina scientist."
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -250,7 +250,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "",
+      "Content": "#### Connection to Research\n #### Connection to Research\n \n#### Research Background\n #### Research Background\n\n#### Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/goyespaper.png)\n[Link to study](https://d1wqtxts1xzle7.cloudfront.net/79427454/goyes_vallejos_et_al._-_2017_-_calling_behavior_of_males_and_females_of_a_bornean_frog_with_male_parental_care_and_possible_sex-role_rev-with-cover-page-v2.pdf?Expires=1648595545&Signature=f0ALZB0J0eBUPBsu-9CFXdf0LcrVGh58oZYDqBbpHA5u7GEdoW1yyYnWoRWt6Tvwa75UcRwad-ABn3MhybdqRtSOW5oMpcUdlWW5MgnAwFauVMvHa5X92uwqCrLrnfrOnKTpEfkf1xYi4o98WwbXLBdOzJgu8W8~abr4EjhidwFNs6QKHEy6DQ19RYpdUulv9qPSlAuDWLai2p4wzyriIHF-PUG4k~Y115Wd5Tshhjt-JiH3k3ssGJ2owJACRvJjVDnZqjO~mm3lbj5k9tVHGZldTV39FnApfvw~TUFzO4NLhXqcD1LDKKQGM9ppbBWsCakUZvPYrZHHvBgtWhJWSw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)",
       "InitiallyExpanded": true
     },
     "standards-header": {
@@ -496,28 +496,10 @@
         }
       ]
     },
-    "bonus": {
-      "__component": "lesson-plan.collapsible-text-section",
-      "SectionTitle": "Bonus Content",
-      "Content": "",
-      "InitiallyExpanded": true
-    },
-    "extensions": {
-      "__component": "lesson-plan.collapsible-text-section",
-      "SectionTitle": "Extensions",
-      "Content": "",
-      "InitiallyExpanded": true
-    },
     "feedback": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Feedback",
-      "Content": "",
-      "InitiallyExpanded": true
-    },
-    "credits": {
-      "__component": "lesson-plan.collapsible-text-section",
-      "SectionTitle": "Credits",
-      "Content": "",
+      "Content": "### ### Please let us know how it went with your class! \n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/bZeaTqPEedQMjMV59)\n- [For students](https://forms.gle/YnBorosBjWQHobgX7)\n",
       "InitiallyExpanded": true
     }
   }

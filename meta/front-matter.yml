@@ -3,7 +3,7 @@ ShortTitle: guardianFrogs
 TemplateVer: 0.2.7
 galacticPubsVer: 0.6.7
 FirstPublicationDate: 2022-02-10 18:39:03
-LastUpdated: 2022-03-31 22:10:18
+LastUpdated: 2022-04-01 12:03:11
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
 PublicationStatus: Live
@@ -37,18 +37,25 @@ EssentialQ: |-
   - How can we use scientific methods to identify a general pattern?
   - Why do exceptions matter in science and in life?
 LearningObj: |
-  1. Explain how animal behavior facilitates in reproduction
-  2. Understand the concepts of sexual selection and sex role reversal; understand the factors that contribute to sex role reversal
-  3. Understand that biological data are variable; Use statistical language (e.g. mean, range) and data visualization to describe variation in biological data; Learn to test hypotheses by interpreting data that shows variability, using scatter plots of real biological data
-  4. Cite textual evidence from a scientific text to support analysis of what the text says explicitly as well as inferences drawn from the text.
-  5. Understand that there there are exceptions in biology by integrating evidence from scientific text and graphs of real biological data [and understand why it is important to study these exceptions in biology and other disciplines
-MiscMD: ''
+  1. Explain how animal behavior facilitates in survival and reproduction.
+  2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.
+  3. Understand that biological data are variable.
+  4. Learn to test hypotheses by interpreting authentic scientific graphs and data.
+  5. Cite evidence to support explanatory claims.
+  6. Integrate multiple lines of evidence to explain why exceptions matter in biology and other disciplines.
+MiscMD: "#### Hooks\n- Part 1: Highly interactive card-based activity that simulates
+  data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo,
+  first person narrative of an early career Latina scientist, authentic data \n"
 Tags:
 - sex differences
 - frogs
 - mating systems
 - animal behavior
-Description: Testing.
+Description: In Part 1, students will be excited to play with cards, dance, and watch
+  short clips of animal courtship behaviors in this gamified, but rigorous activity!
+  Part 2 sets a mysterious atmosphere with an introduction to the sights and sounds
+  of Borneo, and students will interact with real data to follow in the footsteps
+  of a young Latina scientist.
 QuickPrep: |
   1. Watch Video(s) for Part 1
   2. Look over [Background](#background)
