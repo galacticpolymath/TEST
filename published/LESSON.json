@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.7",
   "galacticPubsVer": "0.6.7",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-01 15:16:29",
+  "LastUpdated": "2022-04-01 15:51:04",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Live",
@@ -14,34 +14,493 @@
   "Subtitle": "Why Exceptions Matter in Biology and Everyday Life",
   "SponsorName": "Johana Goyes Vallejos",
   "SponsoredBy": "- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/)\n- Division of Biological Sciences, University of Missouri – Columbia",
-  "SponsorLogo": "",
-  "LessonBanner": "assets/banners_etc/banner.png",
-  "TargetSubject": "Science",
-  "LessonEnvir": "Classroom",
-  "ForGrades": "5-8",
-  "EstLessonTime": "2 x 45 min + short debrief",
-  "LearningEpaulette": "assets/learning-plots/GP-Learning-Epaulette.png",
-  "LearningEpaulette_vert": "assets/learning-plots/GP-Learning-Epaulette_vert.png",
-  "LearningEpaulette_params_heightScalar": 0.5,
-  "LearningEpaulette_params_randomSeed": 101,
-  "LearningChart": "assets/learning-plots/GP-Learning-Chart.png",
-  "LearningChart_params_centralText": "grades\\n5-8",
-  "LearningChart_params_caption": "",
-  "LearningChart_params_captionN": true,
-  "SupportingMedia": "assets/supporting-media/goyespaper.png",
-  "DrivingQ": "- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?",
-  "EssentialQ": "- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?",
-  "LearningObj": "1. Explain how animal behavior facilitates in survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Understand that biological data are variable.\n4. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why exceptions matter in biology and other disciplines.\n",
-  "MiscMD": "#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist, authentic data \n",
-  "Tags": ["sex differences", "frogs", "mating systems", "animal behavior"],
-  "Description": "In Part 1, students will be excited to play with cards, dance, and watch short clips of animal courtship behaviors in this gamified, but rigorous activity! Part 2 sets a mysterious atmosphere with an introduction to the sights and sounds of Borneo, and students will interact with real data to follow in the footsteps of a young Latina scientist.",
-  "QuickPrep": "1. Watch Video(s) for Part 1\n2. Look over [Background](#background)\n3. Look over [Procedure](#procedure)\n4. [Teach it!](#teaching_materials)\n5. Repeat for each part and [tell us what you think.](#feedback)\n",
-  "Bonus": "",
-  "Extensions": "",
-  "Background": "#### Research Background\n\n#### Scientific Paper\n![Screenshot of scientific journal article](goyespaper.png)\n[Link to study](https://d1wqtxts1xzle7.cloudfront.net/79427454/goyes_vallejos_et_al._-_2017_-_calling_behavior_of_males_and_females_of_a_bornean_frog_with_male_parental_care_and_possible_sex-role_rev-with-cover-page-v2.pdf?Expires=1648595545&Signature=f0ALZB0J0eBUPBsu-9CFXdf0LcrVGh58oZYDqBbpHA5u7GEdoW1yyYnWoRWt6Tvwa75UcRwad-ABn3MhybdqRtSOW5oMpcUdlWW5MgnAwFauVMvHa5X92uwqCrLrnfrOnKTpEfkf1xYi4o98WwbXLBdOzJgu8W8~abr4EjhidwFNs6QKHEy6DQ19RYpdUulv9qPSlAuDWLai2p4wzyriIHF-PUG4k~Y115Wd5Tshhjt-JiH3k3ssGJ2owJACRvJjVDnZqjO~mm3lbj5k9tVHGZldTV39FnApfvw~TUFzO4NLhXqcD1LDKKQGM9ppbBWsCakUZvPYrZHHvBgtWhJWSw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)",
-  "ConnectionToResearch": "#### Connection to Research\n",
-  "Feedback": "### ### Please let us know how it went with your class! \n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/bZeaTqPEedQMjMV59)\n- [For students](https://forms.gle/YnBorosBjWQHobgX7)\n",
-  "Credits": "#### Lead Author and Creative Director:\nMatt Wilkins, PhD\nIf you liked this lesson, please help spread the word! Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio)) and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences and student questions! \n\nAnd please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what’s coming up next!\n\n#### Sponsor and Producer\n[Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/)\n\n#### \"Role with It\" Animal Diversity Cards Illustrator\n[Anna Wilkins](https://akwilkins00.wixsite.com/mysite)",
-  "ScriptsToRun": "",
-  "ReadyToCompile": ["Front Matter", "Standards Alignment", "Teaching Materials"]
+  "SponsorImage": {
+    "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/"
+  },
+  "CoverImage": {
+    "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/banner.png"
+  },
+  "Section": {
+    "overview": {
+      "__component": "lesson-plan.overview",
+      "EstLessonTime": "2 x 45 min + short debrief",
+      "ForGrades": "5-8",
+      "TargetSubject": "Science",
+      "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Learning Objective(s):\n1. Explain how animal behavior facilitates in survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Understand that biological data are variable.\n4. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why exceptions matter in biology and other disciplines.\n\n#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist, authentic data \n",
+      "Tags": [
+        {
+          "Value": "sex differences"
+        },
+        {
+          "Value": "frogs"
+        },
+        {
+          "Value": "mating systems"
+        },
+        {
+          "Value": "animal behavior"
+        }
+      ],
+      "SteamEpaulette": {
+        "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette.png"
+      },
+      "SteamEpaulette_vert": {
+        "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette_vert.png"
+      },
+      "Description": "In Part 1, students will be excited to play with cards, dance, and watch short clips of animal courtship behaviors in this gamified, but rigorous activity! Part 2 sets a mysterious atmosphere with an introduction to the sights and sounds of Borneo, and students will interact with real data to follow in the footsteps of a young Latina scientist."
+    },
+    "preview": {
+      "__component": "lesson-plan.lesson-preview",
+      "SectionTitle": "Lesson Preview",
+      "Multimedia": [
+        {
+          "order": 2,
+          "type": "video",
+          "title": "Borneo Atmospheric Video",
+          "description": "This video sets the ambience for the beginning of Part 2 of our \"Guardian Frogs\" lesson. It situates students in the geographic location, sights, and sounds, and a sense of mystery regarding the island of Borneo.",
+          "lessonRelevance": "For Part 2: An atmospheric video plays as students enter the classroom, immediately immersing them in the lesson's sights, sounds, geographic location, and sense of mystery.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "keywords": null,
+          "mainLink": "https://www.youtube.com/embed/G7xvfIhL6bU",
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
+        },
+        {
+          "order": 1,
+          "type": "pdf",
+          "title": "\"Role With It\" Cards",
+          "description": null,
+          "lessonRelevance": "Part of a fun simulated data collection activity. Students \"introduce\" both sexes of a set of species (by vocalizing and dancing) and build a data table.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "keywords": null,
+          "mainLink": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/view?usp=sharing",
+          "vimeoLink": null,
+          "filename": "GuardianFrogs_P1_Role With It_Cards.pdf",
+          "otherLink": null
+        }
+      ],
+      "QuickPrep": "1. Watch Video(s) for Part 1\n2. Look over <AnchorLink href=\"#background\"> Background <\/AnchorLink>\n3. Look over <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. <AnchorLink href=\"#teaching_materials\"> Teach it! <\/AnchorLink>\n5. Repeat for each part and <AnchorLink href=\"#feedback\"> tell us what you think. <\/AnchorLink>\n",
+      "InitiallyExpanded": true
+    },
+    "teaching-materials": {
+      "__component": "teaching-resources.teaching-resources",
+      "SectionTitle": "Teaching Materials",
+      "Data": {
+        "classroom": {
+          "resourceSummary": [
+            {
+              "nItems": null,
+              "itemCat": "Digital Items",
+              "itemsGroup": [
+                {
+                  "item": "Presentation",
+                  "itemExplanation": "x N Parts"
+                }
+              ]
+            },
+            {
+              "nItems": 1,
+              "itemCat": "Printed Items",
+              "itemsGroup": [
+                {
+                  "item": "Teacher Worksheet",
+                  "itemExplanation": null
+                }
+              ]
+            },
+            {
+              "nItems": 4,
+              "itemCat": "Other Requirements",
+              "itemsGroup": [
+                {
+                  "item": "Teacher's computer",
+                  "itemExplanation": null
+                },
+                {
+                  "item": "Internet Connection",
+                  "itemExplanation": null
+                },
+                {
+                  "item": "Projector",
+                  "itemExplanation": null
+                },
+                {
+                  "item": "Speakers",
+                  "itemExplanation": null
+                }
+              ]
+            }
+          ],
+          "gradeVariantNotes": {
+            "part": null,
+            "partGradeVarNotes": "Overall notes on content adaptions across different grade levels"
+          },
+          "resources": [
+            {
+              "grades": "Grades 5-6",
+              "gradePrefix": "G5-6",
+              "links": {
+                "linkText": "Download G5-6 Materials for All Parts",
+                "url": "https://drive.google.com/drive/folders/1tY4ukKZxi4QfjfFwfHJIrsqK02oBhjFm"
+              },
+              "parts": [
+                {
+                  "part": 1,
+                  "title": "Part Title. Leave Cols A:D blank if there's just 1 part.",
+                  "preface": "Blurb of what this lesson teaches to go before Step 1.",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1xbdlYA0wENBzUntjVrTTbD3arBFSrBhi5-gMCX5wmiA/present"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/presentation/d/1xbdlYA0wENBzUntjVrTTbD3arBFSrBhi5-gMCX5wmiA/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": null,
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1YB5c4lQFsmau0zpLbqIKxisR-eHRqXQQHooVSPyXcUQ/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1YB5c4lQFsmau0zpLbqIKxisR-eHRqXQQHooVSPyXcUQ/"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": null,
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": null,
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "grades": "Grades 7-8",
+              "gradePrefix": "G7-8",
+              "links": {
+                "linkText": "Download G7-8 Materials for All Parts",
+                "url": "https://drive.google.com/drive/folders/1tFSSTsZ8LIIF5yPvU0ZF3LtDzRDpbRNu"
+              },
+              "parts": [
+                {
+                  "part": 1,
+                  "title": "Part Title. Leave Cols A:D blank if there's just 1 part.",
+                  "preface": "Blurb of what this lesson teaches to go before Step 1.",
+                  "itemList": [
+                    {
+                      "itemTitle": null,
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://drive.google.com/file/d/1LvafGRIHDiMtgmPxK5pElPaAuX_QNS7h/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://drive.google.com/file/d/1LvafGRIHDiMtgmPxK5pElPaAuX_QNS7h/"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "background": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Background",
+      "Content": "#### Connection to Research\n #### Connection to Research\n \n#### Research Background\n #### Research Background\n\n#### Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/goyespaper.png)\n[Link to study](https://d1wqtxts1xzle7.cloudfront.net/79427454/goyes_vallejos_et_al._-_2017_-_calling_behavior_of_males_and_females_of_a_bornean_frog_with_male_parental_care_and_possible_sex-role_rev-with-cover-page-v2.pdf?Expires=1648595545&Signature=f0ALZB0J0eBUPBsu-9CFXdf0LcrVGh58oZYDqBbpHA5u7GEdoW1yyYnWoRWt6Tvwa75UcRwad-ABn3MhybdqRtSOW5oMpcUdlWW5MgnAwFauVMvHa5X92uwqCrLrnfrOnKTpEfkf1xYi4o98WwbXLBdOzJgu8W8~abr4EjhidwFNs6QKHEy6DQ19RYpdUulv9qPSlAuDWLai2p4wzyriIHF-PUG4k~Y115Wd5Tshhjt-JiH3k3ssGJ2owJACRvJjVDnZqjO~mm3lbj5k9tVHGZldTV39FnApfvw~TUFzO4NLhXqcD1LDKKQGM9ppbBWsCakUZvPYrZHHvBgtWhJWSw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)",
+      "InitiallyExpanded": true
+    },
+    "standards-header": {
+      "__component": "lesson-plan.section-heading",
+      "SectionTitle": "Learning Standards"
+    },
+    "learning-chart": {
+      "__component": "lesson-plan.learning-chart",
+      "Title": "About the GP Learning Chart",
+      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 15 standards across US grade band(s): 5-6, 7-8.",
+      "Footnote": "**Notes on Standards**\n\n*Standards are broken down into ***Target*** and ***Connected*** categories. Target standards are directly reinforced or taught; connected standards are not fully addressed in the lesson, but connected enough to provide a foundation for teachers to build upon.",
+      "Badge": {
+        "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Chart.png"
+      }
+    },
+    "standards": {
+      "__component": "lesson-plan.standards",
+      "Data": [
+        {
+          "subject": "Math",
+          "target": false,
+          "sets": [
+            {
+              "slug": "CCM",
+              "name": "Common Core Math",
+              "dimensions": [
+                {
+                  "slug": "MDP&S",
+                  "name": "Measurement, Data, Probability & Statistics",
+                  "standardsGroup": [
+                    {
+                      "codes": "6.SP.A.2",
+                      "grades": "06",
+                      "statements": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
+                      "alignmentNotes": "- Students will graph data, and become familiar with plotting the center and spread with boxplots, using real data on Guardian Frog behavior.",
+                      "subcat": null
+                    },
+                    {
+                      "codes": "6.SP.B.4",
+                      "grades": "06",
+                      "statements": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+                      "alignmentNotes": "- Students will practice graphing real biological data that is variable, and in so doing, will gain experience displaying numerical data in plots on a number scale, such as box plots.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "ELA",
+          "target": false,
+          "sets": [
+            {
+              "slug": "CCELA",
+              "name": "Common Core ELA",
+              "dimensions": [
+                {
+                  "slug": "LS&L",
+                  "name": "Language, Speaking & Listening",
+                  "standardsGroup": [
+                    {
+                      "codes": "SL.6.2",
+                      "grades": "06",
+                      "statements": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
+                      "alignmentNotes": "- Students will be presented with data visualizations, including graphs, along with oral and textual scientific information, and will be asked to interpret this information to understand the relationship between animal behavior and sexual selection.",
+                      "subcat": null
+                    }
+                  ]
+                },
+                {
+                  "slug": "R",
+                  "name": "Reading",
+                  "standardsGroup": [
+                    {
+                      "codes": "RH.6-8.7",
+                      "grades": "6,7,8",
+                      "statements": "Integrate visual information (e.g., in charts, graphs, photographs, videos, or maps) with other information in print and digital texts.",
+                      "alignmentNotes": "- Students will integrate their findings from data visualization in graphs along with a piece of scientific text on Exceptions in Nature.",
+                      "subcat": null
+                    },
+                    {
+                      "codes": "RH.6-8.2",
+                      "grades": "6,7,8",
+                      "statements": "Determine the central ideas or information of a primary or secondary source; provide an accurate summary of the source distinct from prior knowledge or opinions.",
+                      "alignmentNotes": "- Students will read a secondary source on Exceptions in Biology, from which we will ask them to draw on specific citations in their discussion of why exceptions in biology matter, and how they relate both specifically to our discussion of Guardian Frogs, and more broadly to the field of biology and beyond.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "codes": "DATA-M4",
+                      "grades": "6,7,8",
+                      "statements": "Analyze and interpret data to provide evidence for phenomena.",
+                      "alignmentNotes": "- Students will plot real biological data in boxplots and interpret their data visualization to provide evidence to test their hypotheses about sex role reversal.",
+                      "subcat": "Analyzing Data"
+                    },
+                    {
+                      "codes": "AQDP-M1",
+                      "grades": "6,7,8",
+                      "statements": "Ask questions that arise from careful observation of phenomena, models, or unexpected results, to clarify and/or seek additional information.",
+                      "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through experience plotting boxplots and follow-up interpretation of data and discussion.",
+                      "subcat": "Ask Questions & Define Problems"
+                    },
+                    {
+                      "codes": "DATA-M5",
+                      "grades": "6,7,8",
+                      "statements": "Apply concepts of statistics and probability (including mean, median, mode, and variability) to analyze and characterize data, using digital tools when feasible.",
+                      "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through experience plotting boxplots and follow-up interpretation of data and discussion.",
+                      "subcat": "Analyzing Data"
+                    },
+                    {
+                      "codes": "INFO-M1",
+                      "grades": "6,7,8",
+                      "statements": "Critically read scientific texts adapted for classroom use to determine the central ideas and/or obtain scientific and/or technical information to describe patterns in and/or evidence about the natural and designed world(s).",
+                      "alignmentNotes": "- Students will read a scientific text on Exceptions in Biology, which they will summarize and interact with to understand why exceptions to the rule matter in biological systems.",
+                      "subcat": "Obtaining, Evaluating, & Communicating Information"
+                    }
+                  ]
+                },
+                {
+                  "slug": "CCC",
+                  "name": "Cross-Cutting Concepts",
+                  "standardsGroup": [
+                    {
+                      "codes": "PAT-M3",
+                      "grades": "6,7,8",
+                      "statements": "Patterns can be used to identify cause-and-effect relationships.",
+                      "alignmentNotes": "- Students will plot real biological data in boxplots and interpret their data visualization to provide evidence to test their hypotheses about sex role reversal.",
+                      "subcat": "Patterns"
+                    }
+                  ]
+                },
+                {
+                  "slug": "DCI",
+                  "name": "Disciplinary Core ideas",
+                  "standardsGroup": [
+                    {
+                      "codes": "LS2.C-M2",
+                      "grades": "6,7,8",
+                      "statements": "Biodiversity describes the variety of species found in Earth’s terrestrial and oceanic ecosystems. The completeness or integrity of an ecosystem’s biodiversity is often used as a measure of its health.",
+                      "alignmentNotes": "- As an extension, students may investigate the relationship between biodiversity and geography, learning the definition of biodiversity and how habitat destruction and fragmentation can impact biodiversity, as is the case with the Guardian Frogs of Borneo.",
+                      "subcat": "Ecosystem Dynamics, Functioning, & Resilience"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Social Studies",
+          "target": false,
+          "sets": [
+            {
+              "slug": "C3",
+              "name": "C3",
+              "dimensions": [
+                {
+                  "slug": "CEGH",
+                  "name": "Civics, Economics, Geography & History",
+                  "standardsGroup": [
+                    {
+                      "codes": "D2.Geo.2.6-8",
+                      "grades": "6,7,8",
+                      "statements": "Use maps, satellite images, photographs, and other representations to explain relationships between the locations of places and regions, and changes in their environmental characteristics.",
+                      "alignmentNotes": "- Students will investigate a map of Borneo that overlays environmental characteristics, from which they can make interpretations about the relationship between geography and biodiversity, and how these might be impacted by habitat loss.",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "DCI",
+                  "name": "Disciplinary Core ideas",
+                  "standardsGroup": [
+                    {
+                      "codes": "LS1.B-M2",
+                      "grades": "6,7,8",
+                      "statements": "Animals engage in characteristic behaviors that increase the odds of reproduction.",
+                      "alignmentNotes": "- Students will discuss why animals reproduce, and what types of behavior animals engage in to increase the odds of reproduction, and, after an overview of typical behavior, we will discuss examples of exceptions to the rule, such as sex role reversal.",
+                      "subcat": "Growth & Development of Organisms"
+                    }
+                  ]
+                },
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "codes": "CEDS-M4",
+                      "grades": "6,7,8",
+                      "statements": "Apply scientific ideas, principles, and/or evidence to construct, revise and/or use an explanation for real-world phenomena, examples, or events.",
+                      "alignmentNotes": "- Students will integrate data visualization of real biological data and scientific text, using scientific ideas and principles to investigate an real example of exceptions to the rule in nature, with evidence for sex role reversal in Guardian Frogs.",
+                      "subcat": "Constructing Explanations & Designing Solutions"
+                    }
+                  ]
+                },
+                {
+                  "slug": "CCC",
+                  "name": "Cross-Cutting Concepts",
+                  "standardsGroup": [
+                    {
+                      "codes": "PAT-M4",
+                      "grades": "6,7,8",
+                      "statements": "Graphs, charts, and images can be used to identify patterns in data.",
+                      "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through experience plotting boxplots and follow-up interpretation of data and discussion.",
+                      "subcat": "Patterns"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "feedback": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Feedback",
+      "Content": "### ### Please let us know how it went with your class! \n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/bZeaTqPEedQMjMV59)\n- [For students](https://forms.gle/YnBorosBjWQHobgX7)\n",
+      "InitiallyExpanded": true
+    }
+  }
 }

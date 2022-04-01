@@ -1,9 +1,10 @@
 id: 2
 ShortTitle: guardianFrogs
 TemplateVer: 0.2.7
-galacticPubsVer: 0.6.7
+galacticPubsVer: !expr |
+  .Primitive("as.character")
 FirstPublicationDate: 2022-04-01 15:16:29
-LastUpdated: 2022-04-01 15:16:29
+LastUpdated: 2022-04-01 15:51:04
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
 PublicationStatus: Live
