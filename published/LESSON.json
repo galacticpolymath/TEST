@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.7",
   "galacticPubsVer": "0.6.7",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-01 15:57:08",
+  "LastUpdated": "2022-04-02 13:50:19",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Live",
@@ -76,7 +76,7 @@
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "keywords": null,
-          "mainLink": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/view?usp=sharing",
+          "mainLink": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/preview",
           "vimeoLink": null,
           "filename": "GuardianFrogs_P1_Role With It_Cards.pdf",
           "otherLink": null
@@ -247,10 +247,78 @@
         }
       }
     },
+    "procedure": {
+      "__component": "lesson-plan.procedure",
+      "SectionTitle": "Procedure",
+      "Data": {
+        "lessonPreface": "Lesson description, notes or instructions to go before Part 1 of the lesson.",
+        "lessonDur": "2 x 45 min",
+        "parts": [
+          {
+            "partNum": 1,
+            "partTitle": "Part Title. Leave Cols A:D blank if there's just 1 part.",
+            "partDur": 45,
+            "partPreface": "Blurb of what this lesson teaches to go before Step 1.",
+            "chunks": [
+              {
+                "chunkTitle": "******\nWrite Over/Delete all example text in A2:K:4 \n******\nChunk 1 Title; you don't need to repeat this across steps in the same chunk.",
+                "chunkStart": 0,
+                "chunkDur": 15,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "******\nBe sure to refer to notes in each column header\n******\nStep 1 Title. Need 1 per Step.",
+                    "StepQuickDescription": "Step 1 description. This is also used as the steps in the Teach it in 15 Quick Prep presentation.",
+                    "StepDetails": "Details about this step. In this column, as well as StepQuickDescription, and Variant Notes, you can embed a link to a video. Ex: To insert a link to the video listed in the Multimedia tab of teaching-materials.xlsx with Order=1, simply add [ERROR: CHECK *{vid1}* REFERENCE. NO LINK FOUND]() anywhere in the text description. A formatted link with the video title will be added to the Procedure.JSON used to generate the lesson plan webpage.",
+                    "Vocab": "Vocabulary introduced for this step. Use shorthand format, which will be converted to a nice bulleted list. Entries are separated by a newline (return), which you make with Alt+Enter. Format:\n- **Term1:** definition 1\n- **Term2:** definition 2\n- **Term3 :** definition 3",
+                    "VariantNotes": "Notes about either classroom or remote differences or grade level differences.",
+                    "TeachingTips": "Teaching Tips"
+                  },
+                  {
+                    "Step": 2,
+                    "StepTitle": "Step 2 Title. Need 1 per Step.",
+                    "StepQuickDescription": "Concise Description",
+                    "StepDetails": "More Detailed description",
+                    "Vocab": "- **TermX:** definitionX",
+                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
+                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Chunk 2 Title",
+                "chunkStart": 15,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": "Step 3 Title. Need 1 per Step.",
+                    "StepQuickDescription": "Concise Description",
+                    "StepDetails": "More Detailed description",
+                    "Vocab": "- **TermX:** definitionX",
+                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
+                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+                  },
+                  {
+                    "Step": 4,
+                    "StepTitle": "Step 4 Title",
+                    "StepQuickDescription": "Concise Description",
+                    "StepDetails": "More Detailed description",
+                    "Vocab": "- **TermX:** definitionX",
+                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
+                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n #### Connection to Research\n \n#### Research Background\n #### Research Background\n\n#### Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/goyespaper.png)\n[Link to study](https://d1wqtxts1xzle7.cloudfront.net/79427454/goyes_vallejos_et_al._-_2017_-_calling_behavior_of_males_and_females_of_a_bornean_frog_with_male_parental_care_and_possible_sex-role_rev-with-cover-page-v2.pdf?Expires=1648595545&Signature=f0ALZB0J0eBUPBsu-9CFXdf0LcrVGh58oZYDqBbpHA5u7GEdoW1yyYnWoRWt6Tvwa75UcRwad-ABn3MhybdqRtSOW5oMpcUdlWW5MgnAwFauVMvHa5X92uwqCrLrnfrOnKTpEfkf1xYi4o98WwbXLBdOzJgu8W8~abr4EjhidwFNs6QKHEy6DQ19RYpdUulv9qPSlAuDWLai2p4wzyriIHF-PUG4k~Y115Wd5Tshhjt-JiH3k3ssGJ2owJACRvJjVDnZqjO~mm3lbj5k9tVHGZldTV39FnApfvw~TUFzO4NLhXqcD1LDKKQGM9ppbBWsCakUZvPYrZHHvBgtWhJWSw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)",
+      "Content": "#### Connection to Research\n #### Connection to Research\n \n#### Research Background\n #### Research Background\n\n#### Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=doi.org%2F10.1007%2Fs00265-017-2323-3&btnG=)",
       "InitiallyExpanded": true
     },
     "standards-header": {
@@ -501,6 +569,24 @@
       "SectionTitle": "Feedback",
       "Content": "### ### Please let us know how it went with your class! \n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/bZeaTqPEedQMjMV59)\n- [For students](https://forms.gle/YnBorosBjWQHobgX7)\n",
       "InitiallyExpanded": true
+    },
+    "versions": {
+      "__component": "lesson-plan.versions",
+      "SectionTitle": "Version Notes",
+      "Data": [
+        {
+          "major_release": "Beta",
+          "sub_releases": [
+            {
+              "version": "0.1.0",
+              "date": "Apr 02, 2022",
+              "summary": "Initial lesson build. ",
+              "notes": null,
+              "acknowledgments": null
+            }
+          ]
+        }
+      ]
     }
   }
 }
