@@ -47,10 +47,7 @@
           ]
         }
       ],
-      "gradeVariantNotes": {
-        "part": null,
-        "partGradeVarNotes": "Overall notes on content adaptions across different grade levels"
-      },
+      "gradeVariantNotes": null,
       "resources": [
         {
           "grades": "Grades 5-6",
@@ -62,8 +59,8 @@
           "parts": [
             {
               "part": 1,
-              "title": "Part Title. Leave Cols A:D blank if there's just 1 part.",
-              "preface": "Blurb of what this lesson teaches to go before Step 1.",
+              "title": "Defining a Pattern in Nature",
+              "preface": "This presentation is long (100+ slides), but it actually goes pretty fast. It efficiently guides a card-based \"song\" and dance simulated data collection activity students will then analyze to learn about variation in animal mating and parental behavior.",
               "itemList": [
                 {
                   "itemTitle": "Presentation",
@@ -135,8 +132,8 @@
           "parts": [
             {
               "part": 1,
-              "title": "Part Title. Leave Cols A:D blank if there's just 1 part.",
-              "preface": "Blurb of what this lesson teaches to go before Step 1.",
+              "title": "Defining a Pattern in Nature",
+              "preface": "This presentation is long (100+ slides), but it actually goes pretty fast. It efficiently guides a card-based \"song\" and dance simulated data collection activity students will then analyze to learn about variation in animal mating and parental behavior.",
               "itemList": [
                 {
                   "itemTitle": null,

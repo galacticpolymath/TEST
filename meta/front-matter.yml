@@ -1,12 +1,12 @@
 id: 2
 ShortTitle: guardianFrogs
 TemplateVer: 0.2.7
-galacticPubsVer: 0.6.7
+galacticPubsVer: 0.6.8
 FirstPublicationDate: 2022-04-01 15:16:29
-LastUpdated: 2022-04-02 13:50:19
+LastUpdated: 2022-04-03 17:44:46
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
-PublicationStatus: Live
+PublicationStatus: Draft
 RebuildAllMaterials: no
 ReleaseDate: '2022-04-03'
 Title: The Guardian Frogs of Borneo
@@ -20,7 +20,7 @@ LessonBanner: assets/banners_etc/banner.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 5-8
-EstLessonTime: 2 x 45 min + short debrief
+EstLessonTime: ~120 min or 2.5 periods
 LearningEpaulette: assets/learning-plots/GP-Learning-Epaulette.png
 LearningEpaulette_vert: assets/learning-plots/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
