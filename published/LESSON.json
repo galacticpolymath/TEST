@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.7",
   "galacticPubsVer": "0.6.8",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-03 19:25:48",
+  "LastUpdated": "2022-04-03 20:24:06",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Draft",
@@ -23,7 +23,7 @@
   "Section": {
     "overview": {
       "__component": "lesson-plan.overview",
-      "EstLessonTime": "~120 min or 2.5 periods",
+      "EstLessonTime": "120 min.",
       "ForGrades": "5-8",
       "TargetSubject": "Science",
       "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Learning Objective(s):\n1. Explain how animal behavior facilitates in survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Understand that biological data are variable.\n4. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why exceptions matter in biology and other disciplines.\n\n#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist, authentic data \n",
@@ -82,7 +82,7 @@
           "otherLink": null
         }
       ],
-      "QuickPrep": "1. Watch Video(s) for Part 1\n2. Look over <AnchorLink href=\"#background\"> Background <\/AnchorLink>\n3. Look over <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. <AnchorLink href=\"#teaching_materials\"> Teach it! <\/AnchorLink>\n5. Repeat for each part and <AnchorLink href=\"#feedback\"> tell us what you think. <\/AnchorLink>\n",
+      "QuickPrep": "1. Check out lesson multimedia above\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
       "InitiallyExpanded": true
     },
     "teaching-materials": {

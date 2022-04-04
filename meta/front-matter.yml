@@ -3,7 +3,7 @@ ShortTitle: guardianFrogs
 TemplateVer: 0.2.7
 galacticPubsVer: 0.6.8
 FirstPublicationDate: 2022-04-01 15:16:29
-LastUpdated: 2022-04-03 19:25:48
+LastUpdated: 2022-04-03 20:24:06
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
 PublicationStatus: Draft
@@ -20,7 +20,7 @@ LessonBanner: assets/banners_etc/banner.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 5-8
-EstLessonTime: ~120 min or 2.5 periods
+EstLessonTime: 120 min.
 LearningEpaulette: assets/learning-plots/GP-Learning-Epaulette.png
 LearningEpaulette_vert: assets/learning-plots/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
@@ -57,11 +57,10 @@ Description: In Part 1, students will be excited to play with cards, dance, and 
   of Borneo, and students will interact with real data to follow in the footsteps
   of a young Latina scientist.
 QuickPrep: |
-  1. Watch Video(s) for Part 1
-  2. Look over [Background](#background)
-  3. Look over [Procedure](#procedure)
-  4. [Teach it!](#teaching_materials)
-  5. Repeat for each part and [tell us what you think.](#feedback)
+  1. Check out lesson multimedia above
+  2. Look over [Teaching Materials](#teaching_materials)
+  3. Read our easy [Procedure](#procedure)
+  4. Teach it and [let us know what you think!](#feedback)
 Bonus: ''
 Extensions: ''
 Background: |-
