@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.7",
   "galacticPubsVer": "0.6.8",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-03 18:21:42",
+  "LastUpdated": "2022-04-03 19:25:48",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Draft",
@@ -92,27 +92,35 @@
         "classroom": {
           "resourceSummary": [
             {
-              "nItems": null,
+              "nItems": 1,
               "itemCat": "Digital Items",
               "itemsGroup": [
                 {
                   "item": "Presentation",
-                  "itemExplanation": "x N Parts"
+                  "itemExplanation": "x 2 Parts"
                 }
               ]
             },
             {
-              "nItems": 1,
+              "nItems": 3,
               "itemCat": "Printed Items",
               "itemsGroup": [
                 {
                   "item": "Teacher Worksheet",
-                  "itemExplanation": null
+                  "itemExplanation": "x 2 Parts"
+                },
+                {
+                  "item": "Student Worksheet",
+                  "itemExplanation": "x 2 Parts"
+                },
+                {
+                  "item": "\"Role With It Cards\"",
+                  "itemExplanation": "(Class set for Part 1: Print enough so each student has at least 1)"
                 }
               ]
             },
             {
-              "nItems": 4,
+              "nItems": 5,
               "itemCat": "Other Requirements",
               "itemsGroup": [
                 {
@@ -130,6 +138,10 @@
                 {
                   "item": "Speakers",
                   "itemExplanation": null
+                },
+                {
+                  "item": "Scissors",
+                  "itemExplanation": "(for cutting out cards)"
                 }
               ]
             }
@@ -147,7 +159,7 @@
                 {
                   "part": 1,
                   "title": "Defining a Pattern in Nature",
-                  "preface": "This presentation is long (100+ slides), but it actually goes pretty fast. It efficiently guides a card-based \"song\" and dance simulated data collection activity students will then analyze to learn about variation in animal mating and parental behavior.",
+                  "preface": "A fun activity blending creative movement, cards, animal videos, and data analysis. Don't be scared off by the length of the presentation—it goes pretty fast—though you may need more than one class period to finish.",
                   "itemList": [
                     {
                       "itemTitle": "Presentation",
@@ -164,7 +176,7 @@
                       ]
                     },
                     {
-                      "itemTitle": null,
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -178,7 +190,7 @@
                       ]
                     },
                     {
-                      "itemTitle": null,
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -192,7 +204,7 @@
                       ]
                     },
                     {
-                      "itemTitle": null,
+                      "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
                       "itemCat": null,
                       "links": [
                         {
@@ -220,10 +232,10 @@
                 {
                   "part": 1,
                   "title": "Defining a Pattern in Nature",
-                  "preface": "This presentation is long (100+ slides), but it actually goes pretty fast. It efficiently guides a card-based \"song\" and dance simulated data collection activity students will then analyze to learn about variation in animal mating and parental behavior.",
+                  "preface": "A fun activity blending creative movement, cards, animal videos, and data analysis. Don't be scared off by the length of the presentation—it goes pretty fast—though you may need more than one class period to finish.",
                   "itemList": [
                     {
-                      "itemTitle": null,
+                      "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
                       "itemCat": null,
                       "links": [
                         {
@@ -248,14 +260,14 @@
       "__component": "lesson-plan.procedure",
       "SectionTitle": "Procedure",
       "Data": {
-        "lessonPreface": "Lesson description, notes or instructions to go before Part 1 of the lesson.",
-        "lessonDur": "2 x 45 min",
+        "lessonPreface": "Part 1 will likely take 2 class periods.",
+        "lessonDur": "Part 1: 60 min, Part 2: 45 min",
         "parts": [
           {
             "partNum": 1,
-            "partTitle": "Part Title. Leave Cols A:D blank if there's just 1 part.",
-            "partDur": 45,
-            "partPreface": "Blurb of what this lesson teaches to go before Step 1.",
+            "partTitle": "Defining a Pattern in Nature",
+            "partDur": 60,
+            "partPreface": "A fun activity blending creative movement, cards, animal videos, and data analysis. Don't be scared off by the length of the presentation—it goes pretty fast—though you may need more than one class period to finish.",
             "chunks": [
               {
                 "chunkTitle": "******\nWrite Over/Delete all example text in A2:K:4 \n******\nChunk 1 Title; you don't need to repeat this across steps in the same chunk.",

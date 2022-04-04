@@ -5,27 +5,35 @@
     "classroom": {
       "resourceSummary": [
         {
-          "nItems": null,
+          "nItems": 1,
           "itemCat": "Digital Items",
           "itemsGroup": [
             {
               "item": "Presentation",
-              "itemExplanation": "x N Parts"
+              "itemExplanation": "x 2 Parts"
             }
           ]
         },
         {
-          "nItems": 1,
+          "nItems": 3,
           "itemCat": "Printed Items",
           "itemsGroup": [
             {
               "item": "Teacher Worksheet",
-              "itemExplanation": null
+              "itemExplanation": "x 2 Parts"
+            },
+            {
+              "item": "Student Worksheet",
+              "itemExplanation": "x 2 Parts"
+            },
+            {
+              "item": "\"Role With It Cards\"",
+              "itemExplanation": "(Class set for Part 1: Print enough so each student has at least 1)"
             }
           ]
         },
         {
-          "nItems": 4,
+          "nItems": 5,
           "itemCat": "Other Requirements",
           "itemsGroup": [
             {
@@ -43,6 +51,10 @@
             {
               "item": "Speakers",
               "itemExplanation": null
+            },
+            {
+              "item": "Scissors",
+              "itemExplanation": "(for cutting out cards)"
             }
           ]
         }
@@ -60,7 +72,7 @@
             {
               "part": 1,
               "title": "Defining a Pattern in Nature",
-              "preface": "This presentation is long (100+ slides), but it actually goes pretty fast. It efficiently guides a card-based \"song\" and dance simulated data collection activity students will then analyze to learn about variation in animal mating and parental behavior.",
+              "preface": "A fun activity blending creative movement, cards, animal videos, and data analysis. Don't be scared off by the length of the presentation—it goes pretty fast—though you may need more than one class period to finish.",
               "itemList": [
                 {
                   "itemTitle": "Presentation",
@@ -77,7 +89,7 @@
                   ]
                 },
                 {
-                  "itemTitle": null,
+                  "itemTitle": "Student Worksheet",
                   "itemCat": null,
                   "links": [
                     {
@@ -91,7 +103,7 @@
                   ]
                 },
                 {
-                  "itemTitle": null,
+                  "itemTitle": "Teacher Worksheet",
                   "itemCat": null,
                   "links": [
                     {
@@ -105,7 +117,7 @@
                   ]
                 },
                 {
-                  "itemTitle": null,
+                  "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
                   "itemCat": null,
                   "links": [
                     {
@@ -133,10 +145,10 @@
             {
               "part": 1,
               "title": "Defining a Pattern in Nature",
-              "preface": "This presentation is long (100+ slides), but it actually goes pretty fast. It efficiently guides a card-based \"song\" and dance simulated data collection activity students will then analyze to learn about variation in animal mating and parental behavior.",
+              "preface": "A fun activity blending creative movement, cards, animal videos, and data analysis. Don't be scared off by the length of the presentation—it goes pretty fast—though you may need more than one class period to finish.",
               "itemList": [
                 {
-                  "itemTitle": null,
+                  "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
                   "itemCat": null,
                   "links": [
                     {
