@@ -122,11 +122,11 @@
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/export?format=pdf"
+                      "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
                     },
                     {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
+                      "linkText": "ERROR: 'Copy to My Google Drive' link missing",
+                      "url": null
                     }
                   ]
                 }
@@ -153,11 +153,11 @@
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https://drive.google.com/file/d/1LvafGRIHDiMtgmPxK5pElPaAuX_QNS7h/export?format=pdf"
+                      "url": "https://drive.google.com/file/d/1LvafGRIHDiMtgmPxK5pElPaAuX_QNS7h/"
                     },
                     {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://drive.google.com/file/d/1LvafGRIHDiMtgmPxK5pElPaAuX_QNS7h/"
+                      "linkText": "ERROR: 'Copy to My Google Drive' link missing",
+                      "url": null
                     }
                   ]
                 }

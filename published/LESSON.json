@@ -1,14 +1,14 @@
 {
   "id": 2,
   "ShortTitle": "guardianFrogs",
-  "TemplateVer": "0.2.7",
+  "TemplateVer": "0.2.8",
   "galacticPubsVer": "0.6.8",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-03 20:25:52",
+  "LastUpdated": "2022-04-04 11:36:48",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Draft",
-  "RebuildAllMaterials": false,
+  "RebuildAllMaterials": true,
   "ReleaseDate": "2022-04-03",
   "Title": "The Guardian Frogs of Borneo",
   "Subtitle": "Why Exceptions Matter in Biology and Everyday Life",
@@ -209,11 +209,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/export?format=pdf"
+                          "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
+                          "linkText": "ERROR: 'Copy to My Google Drive' link missing",
+                          "url": null
                         }
                       ]
                     }
@@ -240,11 +240,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://drive.google.com/file/d/1LvafGRIHDiMtgmPxK5pElPaAuX_QNS7h/export?format=pdf"
+                          "url": "https://drive.google.com/file/d/1LvafGRIHDiMtgmPxK5pElPaAuX_QNS7h/"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://drive.google.com/file/d/1LvafGRIHDiMtgmPxK5pElPaAuX_QNS7h/"
+                          "linkText": "ERROR: 'Copy to My Google Drive' link missing",
+                          "url": null
                         }
                       ]
                     }
