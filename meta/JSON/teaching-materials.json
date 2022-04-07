@@ -87,7 +87,24 @@
                       "url": "https://docs.google.com/presentation/d/1xbdlYA0wENBzUntjVrTTbD3arBFSrBhi5-gMCX5wmiA/template/preview"
                     }
                   ]
-                },
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "grades": "Grades 5-8",
+          "gradePrefix": "G5-8",
+          "links": {
+            "linkText": [],
+            "url": []
+          },
+          "parts": [
+            {
+              "part": 1,
+              "title": "Defining a Pattern in Nature",
+              "preface": "A fun activity blending creative movement, cards, animal videos, and data analysis. Don't be scared off by the length of the presentation—it goes pretty fast—though you may need more than one class period to finish.",
+              "itemList": [
                 {
                   "itemTitle": "Student Worksheet",
                   "itemCat": null,
@@ -123,37 +140,6 @@
                     {
                       "linkText": "PDF",
                       "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
-                    },
-                    {
-                      "linkText": "ERROR: 'Copy to My Google Drive' link missing",
-                      "url": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "grades": "Grades 7-8",
-          "gradePrefix": "G7-8",
-          "links": {
-            "linkText": "Download G7-8 Materials for All Parts",
-            "url": "https://drive.google.com/drive/folders/1tFSSTsZ8LIIF5yPvU0ZF3LtDzRDpbRNu"
-          },
-          "parts": [
-            {
-              "part": 1,
-              "title": "Defining a Pattern in Nature",
-              "preface": "A fun activity blending creative movement, cards, animal videos, and data analysis. Don't be scared off by the length of the presentation—it goes pretty fast—though you may need more than one class period to finish.",
-              "itemList": [
-                {
-                  "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
-                  "itemCat": null,
-                  "links": [
-                    {
-                      "linkText": "PDF",
-                      "url": "https://drive.google.com/file/d/1LvafGRIHDiMtgmPxK5pElPaAuX_QNS7h/"
                     },
                     {
                       "linkText": "ERROR: 'Copy to My Google Drive' link missing",
