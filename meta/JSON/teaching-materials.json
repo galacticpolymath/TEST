@@ -62,10 +62,10 @@
       "gradeVariantNotes": null,
       "resources": [
         {
-          "grades": "Grades 5-6",
-          "gradePrefix": "G5-6",
+          "grades": "Grades 5-8",
+          "gradePrefix": "G5-8",
           "links": {
-            "linkText": "Download G5-6 Materials for All Parts",
+            "linkText": "Download G5-8 Materials for All Parts",
             "url": "https://drive.google.com/drive/folders/1tY4ukKZxi4QfjfFwfHJIrsqK02oBhjFm"
           },
           "parts": [
@@ -87,24 +87,7 @@
                       "url": "https://docs.google.com/presentation/d/1xbdlYA0wENBzUntjVrTTbD3arBFSrBhi5-gMCX5wmiA/template/preview"
                     }
                   ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "grades": "Grades 5-8",
-          "gradePrefix": "G5-8",
-          "links": {
-            "linkText": [],
-            "url": []
-          },
-          "parts": [
-            {
-              "part": 1,
-              "title": "Defining a Pattern in Nature",
-              "preface": "A fun activity blending creative movement, cards, animal videos, and data analysis. Don't be scared off by the length of the presentation—it goes pretty fast—though you may need more than one class period to finish.",
-              "itemList": [
+                },
                 {
                   "itemTitle": "Student Worksheet",
                   "itemCat": null,

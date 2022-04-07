@@ -4,11 +4,11 @@
   "TemplateVer": "0.2.8",
   "galacticPubsVer": "0.6.8",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-07 09:47:21",
+  "LastUpdated": "2022-04-07 10:01:09",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Draft",
-  "RebuildAllMaterials": true,
+  "RebuildAllMaterials": false,
   "ReleaseDate": "2022-04-03",
   "Title": "The Guardian Frogs of Borneo",
   "Subtitle": "Why Exceptions Matter in Biology and Everyday Life",
@@ -149,10 +149,10 @@
           "gradeVariantNotes": null,
           "resources": [
             {
-              "grades": "Grades 5-6",
-              "gradePrefix": "G5-6",
+              "grades": "Grades 5-8",
+              "gradePrefix": "G5-8",
               "links": {
-                "linkText": "Download G5-6 Materials for All Parts",
+                "linkText": "Download G5-8 Materials for All Parts",
                 "url": "https://drive.google.com/drive/folders/1tY4ukKZxi4QfjfFwfHJIrsqK02oBhjFm"
               },
               "parts": [
@@ -210,37 +210,6 @@
                         {
                           "linkText": "PDF",
                           "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
-                        },
-                        {
-                          "linkText": "ERROR: 'Copy to My Google Drive' link missing",
-                          "url": null
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "grades": "Grades 7-8",
-              "gradePrefix": "G7-8",
-              "links": {
-                "linkText": "Download G7-8 Materials for All Parts",
-                "url": "https://drive.google.com/drive/folders/1tFSSTsZ8LIIF5yPvU0ZF3LtDzRDpbRNu"
-              },
-              "parts": [
-                {
-                  "part": 1,
-                  "title": "Defining a Pattern in Nature",
-                  "preface": "A fun activity blending creative movement, cards, animal videos, and data analysis. Don't be scared off by the length of the presentation—it goes pretty fast—though you may need more than one class period to finish.",
-                  "itemList": [
-                    {
-                      "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://drive.google.com/file/d/1LvafGRIHDiMtgmPxK5pElPaAuX_QNS7h/"
                         },
                         {
                           "linkText": "ERROR: 'Copy to My Google Drive' link missing",
