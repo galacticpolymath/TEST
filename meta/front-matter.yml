@@ -3,7 +3,7 @@ ShortTitle: guardianFrogs
 TemplateVer: 0.2.8
 galacticPubsVer: 0.6.8
 FirstPublicationDate: 2022-04-01 15:16:29
-LastUpdated: 2022-04-07 10:01:09
+LastUpdated: 2022-04-07 16:15:47
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
 PublicationStatus: Draft
@@ -50,6 +50,8 @@ Tags:
 - frogs
 - mating systems
 - animal behavior
+- parental care
+- sexual selection
 Description: In Part 1, students will be excited to play with cards, dance, and watch
   short clips of animal courtship behaviors in this gamified, but rigorous activity!
   Part 2 sets a mysterious atmosphere with an introduction to the sights and sounds
@@ -79,9 +81,11 @@ Credits: "#### Lead Author and Creative Director:\nMatt Wilkins, PhD\nIf you lik
   and student questions! \n\nAnd please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91)
   to hear what’s coming up next!\n\n#### Sponsor and Producer\n[Johana Goyes Vallejos,
   PhD](https://jogoyesvallejos.weebly.com/)\n\n#### \"Role with It\" Animal Diversity
-  Cards Illustrator\n[Anna Wilkins](https://akwilkins00.wixsite.com/mysite)"
+  Cards Illustrator\n[Anna Wilkins](https://www.annamationvisdev.com)"
 ScriptsToRun: ''
 ReadyToCompile:
 - Front Matter
 - Standards Alignment
 - Teaching Materials
+- Acknowledgments
+- Versions

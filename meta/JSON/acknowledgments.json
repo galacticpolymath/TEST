@@ -1,0 +1,52 @@
+{
+  "__component": "lesson-plan.acknowledgments",
+  "SectionTitle": "Acknowledgments",
+  "Data": [
+    {
+      "role": "Beta Testers",
+      "def": "(Teachers who trialed earlier versions of the lesson with their children or students)",
+      "records": [
+        {
+          "name": "Name1",
+          "url": "URL1",
+          "title": "Title1",
+          "affiliation": "Affiliation1",
+          "location": "Location1"
+        },
+        {
+          "name": "Name2",
+          "url": "URL2",
+          "title": "Title2",
+          "affiliation": "Affiliation2",
+          "location": "Location2"
+        }
+      ]
+    },
+    {
+      "role": "Peer Reviewers",
+      "def": "(Instructional and subject experts who provided input or validation on content accuracy)",
+      "records": [
+        {
+          "name": "Name3",
+          "url": "URL3",
+          "title": "Title3",
+          "affiliation": "Affiliation3",
+          "location": "Location3"
+        }
+      ]
+    },
+    {
+      "role": "Other Role",
+      "def": "(Other Def)",
+      "records": [
+        {
+          "name": "Name4",
+          "url": "URL4",
+          "title": "Title4",
+          "affiliation": "Affiliation4",
+          "location": "Location4"
+        }
+      ]
+    }
+  ]
+}

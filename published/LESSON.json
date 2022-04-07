@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.8",
   "galacticPubsVer": "0.6.8",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-07 10:01:09",
+  "LastUpdated": "2022-04-07 16:15:47",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Draft",
@@ -39,6 +39,12 @@
         },
         {
           "Value": "animal behavior"
+        },
+        {
+          "Value": "parental care"
+        },
+        {
+          "Value": "sexual selection"
         }
       ],
       "SteamEpaulette": {
@@ -547,6 +553,64 @@
       "SectionTitle": "Feedback",
       "Content": "### ### Please let us know how it went with your class! \n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/bZeaTqPEedQMjMV59)\n- [For students](https://forms.gle/YnBorosBjWQHobgX7)\n",
       "InitiallyExpanded": true
+    },
+    "credits": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Credits",
+      "Content": "#### Lead Author and Creative Director:\nMatt Wilkins, PhD\nIf you liked this lesson, please help spread the word! Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio)) and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences and student questions! \n\nAnd please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what’s coming up next!\n\n#### Sponsor and Producer\n[Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/)\n\n#### \"Role with It\" Animal Diversity Cards Illustrator\n[Anna Wilkins](https://www.annamationvisdev.com)",
+      "InitiallyExpanded": true
+    },
+    "acknowledgments": {
+      "__component": "lesson-plan.acknowledgments",
+      "SectionTitle": "Acknowledgments",
+      "Data": [
+        {
+          "role": "Beta Testers",
+          "def": "(Teachers who trialed earlier versions of the lesson with their children or students)",
+          "records": [
+            {
+              "name": "Name1",
+              "url": "URL1",
+              "title": "Title1",
+              "affiliation": "Affiliation1",
+              "location": "Location1"
+            },
+            {
+              "name": "Name2",
+              "url": "URL2",
+              "title": "Title2",
+              "affiliation": "Affiliation2",
+              "location": "Location2"
+            }
+          ]
+        },
+        {
+          "role": "Peer Reviewers",
+          "def": "(Instructional and subject experts who provided input or validation on content accuracy)",
+          "records": [
+            {
+              "name": "Name3",
+              "url": "URL3",
+              "title": "Title3",
+              "affiliation": "Affiliation3",
+              "location": "Location3"
+            }
+          ]
+        },
+        {
+          "role": "Other Role",
+          "def": "(Other Def)",
+          "records": [
+            {
+              "name": "Name4",
+              "url": "URL4",
+              "title": "Title4",
+              "affiliation": "Affiliation4",
+              "location": "Location4"
+            }
+          ]
+        }
+      ]
     },
     "versions": {
       "__component": "lesson-plan.versions",
