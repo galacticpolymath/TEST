@@ -3,20 +3,6 @@
   "SectionTitle": "Lesson Preview",
   "Multimedia": [
     {
-      "order": 2,
-      "type": "video",
-      "title": "Borneo Atmospheric Video",
-      "description": "This video sets the ambience for the beginning of Part 2 of our \"Guardian Frogs\" lesson. It situates students in the geographic location, sights, and sounds, and a sense of mystery regarding the island of Borneo.",
-      "lessonRelevance": "For Part 2: An atmospheric video plays as students enter the classroom, immediately immersing them in the lesson's sights, sounds, geographic location, and sense of mystery.",
-      "by": "Galactic Polymath",
-      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-      "keywords": null,
-      "mainLink": "https://www.youtube.com/embed/G7xvfIhL6bU",
-      "vimeoLink": null,
-      "filename": null,
-      "otherLink": null
-    },
-    {
       "order": 1,
       "type": "pdf",
       "title": "\"Role With It\" Cards",
@@ -28,6 +14,20 @@
       "mainLink": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/preview",
       "vimeoLink": null,
       "filename": "GuardianFrogs_P1_Role With It_Cards.pdf",
+      "otherLink": null
+    },
+    {
+      "order": 2,
+      "type": "video",
+      "title": "Borneo Atmospheric Video",
+      "description": "This video sets the ambience for the beginning of Part 2 of our \"Guardian Frogs\" lesson. It situates students in the geographic location, sights, and sounds, and a sense of mystery regarding the island of Borneo.",
+      "lessonRelevance": "For Part 2: An atmospheric video plays as students enter the classroom, immediately immersing them in the lesson's sights, sounds, geographic location, and sense of mystery.",
+      "by": "Galactic Polymath",
+      "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+      "keywords": null,
+      "mainLink": "https://www.youtube.com/embed/G7xvfIhL6bU",
+      "vimeoLink": null,
+      "filename": null,
       "otherLink": null
     }
   ],
