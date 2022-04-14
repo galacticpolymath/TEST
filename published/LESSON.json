@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.8",
   "galacticPubsVer": "0.6.8",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-13 22:36:32",
+  "LastUpdated": "2022-04-14 17:09:17",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Draft",
@@ -26,7 +26,7 @@
       "EstLessonTime": "120 min.",
       "ForGrades": "5-8",
       "TargetSubject": "Science",
-      "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Learning Objective(s):\n1. Explain how animal behavior facilitates in survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Understand that biological data are variable.\n4. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why exceptions matter in biology and other disciplines.\n\n#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist, authentic data \n",
+      "Text": "#### Driving Question(s):<br>- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?<br>- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?<br>#### Essential Question(s):<br>- How can we use scientific methods to identify a general pattern?<br>- Why do exceptions matter in science and in life?<br>#### Learning Objective(s):<br>1. Explain how animal behavior facilitates in survival and reproduction.<br>2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.<br>3. Understand that biological data are variable.<br>4. Learn to test hypotheses by interpreting authentic scientific graphs and data.<br>5. Cite evidence to support explanatory claims.<br>6. Integrate multiple lines of evidence to explain why exceptions matter in biology and other disciplines.<br><br>#### Hooks<br>- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos<br>- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist, authentic data <br>",
       "Tags": [
         {
           "Value": "sex differences"
@@ -53,7 +53,7 @@
       "SteamEpaulette_vert": {
         "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette_vert.png"
       },
-      "Description": "This lesson puts students in the role of scientists, collecting and analyzing real data to answer questions. In Part 1, students \"collect\" data through a card-based activity called \"Role With It.\" Briefly, students get a male or female card of 1 out of 12 species. When their card is called, students introduce it with a \"song\" and dance that match the attributes of the species it represents. The class then records data on sexual signal exaggeration and parental investment for that species. Once they have collected all 24 specimens (cards) students analyze this data to generate a general observation: \"across nonhuman animal species, females tend to be more caring (contributing more parental investment), while males to tend to focus more energy on attracting and competing for mates. These are known as *conventional sex roles.* Students then identify *sex-role-reversed species,* such as jacanas and guardian frogs–where males are caring and females are competitive.  \nPart 2 begins with an atmospheric video that immerses students in the sights, sounds, and mysteries of Borneo. They are then given a brief introduction to the geography lesson and learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes-Vallejos' research on the Smooth Guardian Frog (*Limnonectes palavanensis*) in the forests of Brunei. Students analyze her actual data to determine if this is the first case of sex role reversal ever described in frogs! The lesson involves a wide variety of opportunities for student movement, collaboration, creativity, and active engagement.\n"
+      "Description": "This lesson puts students in the role of scientists, collecting and analyzing real data to answer questions. In Part 1, students \"collect\" data through a card-based activity called \"Role With It.\" Briefly, students get a male or female card of 1 out of 12 species. When their card is called, students introduce it with a \"song\" and dance that match the attributes of the species it represents. The class then records data on sexual signal exaggeration and parental investment for that species. Once they have collected all 24 specimens (cards) students analyze this data to generate a general observation: \"across nonhuman animal species, females tend to be more caring (contributing more parental investment), while males to tend to focus more energy on attracting and competing for mates. These are known as *conventional sex roles.* Students then identify *sex-role-reversed species,* such as jacanas and guardian frogs, which have \"caring\" males and \"competitive\" females.<br>Part 2 begins with an atmospheric video that immerses students in the sights, sounds, and mysteries of Borneo. They are then given a brief introduction to the geography lesson and learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes-Vallejos' research on the Smooth Guardian Frog (*Limnonectes palavanensis*) in the forests of Brunei. Students analyze her actual data to determine if this is the first case of sex role reversal ever described in frogs! The lesson involves a wide variety of opportunities for student movement, collaboration, creativity, and active engagement.<br>"
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -102,7 +102,7 @@
           "otherLink": null
         }
       ],
-      "QuickPrep": "1. Check out lesson multimedia above\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
+      "QuickPrep": "1. Check out lesson multimedia above<br>2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink><br>3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink><br>4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink><br>",
       "InitiallyExpanded": true
     },
     "teaching-materials": {
@@ -178,7 +178,7 @@
               "parts": [
                 {
                   "part": 1,
-                  "title": "Caring or Competitive?",
+                  "title": "Defining a Pattern in Nature – Which sex tends to be caring vs competitive?",
                   "preface": "Students \"collect\" and analyze data in a fun activity blending creative movement, cards, animal videos, and data literacy. Don't be scared off by the length of the presentation—it goes pretty fast—though you may need more than one class period to finish.",
                   "itemList": [
                     {
@@ -241,7 +241,7 @@
                 },
                 {
                   "part": 2,
-                  "title": "Let's Go to Borneo!",
+                  "title": "Let's Go to Borneo! Testing hypotheses with real data from the field",
                   "preface": "This lesson gives students a chance to use real data collected from the field in Borneo to test whether guardian frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
                   "itemList": [
                     {
@@ -297,7 +297,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n #### Connection to Research\n \n#### Research Background\n #### Research Background\n\n#### Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=doi.org%2F10.1007%2Fs00265-017-2323-3&btnG=)",
+      "Content": "#### Connection to Research<br> Instead of telling students, \"In animal species with *conventional sex roles,* males invest more in attracting and competing for mates, while females invest more in parental care,\" we have students collect data in a fun, interactive format and draw this conclusion from the data. They are then more invested in understanding cases of *sex role reversed species* that are the exceptions to this role, and have \"caring males\" and \"competitive females.\" In part 2, they dive into the hypothesis-based framework and follow along in the footsteps of an early career Latina scientist, Dr. Johana Goyes-Vallejos. They analyze real graphs and data she collected on the island of Borneo to determine if  <br>#### Research Background<br> #### Research Background<br><br>#### Scientific Paper<br>![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/goyespaper.png)<br>[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=doi.org%2F10.1007%2Fs00265-017-2323-3&btnG=)",
       "InitiallyExpanded": true
     },
     "standards-header": {
@@ -307,8 +307,8 @@
     "learning-chart": {
       "__component": "lesson-plan.learning-chart",
       "Title": "About the GP Learning Chart",
-      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 15 standards across US grade band(s): 5-6, 7-8.",
-      "Footnote": "**Notes on Standards**\n\n*Standards are broken down into ***Target*** and ***Connected*** categories. Target standards are directly reinforced or taught; connected standards are not fully addressed in the lesson, but connected enough to provide a foundation for teachers to build upon.",
+      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: <br>- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).<br>In total, there are 15 standards across US grade band(s): 5-6, 7-8.",
+      "Footnote": "**Notes on Standards**<br><br>*Standards are broken down into ***Target*** and ***Connected*** categories. Target standards are directly reinforced or taught; connected standards are not fully addressed in the lesson, but connected enough to provide a foundation for teachers to build upon.",
       "Badge": {
         "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Chart.png"
       }
@@ -546,13 +546,13 @@
     "feedback": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Feedback",
-      "Content": "### Please let us know how it went with your class! \nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/bZeaTqPEedQMjMV59)\n- [For students](https://forms.gle/YnBorosBjWQHobgX7)\n",
+      "Content": "### Please let us know how it went with your class! <br>Share your feedback in < 5 min with these forms:<br>- [For teachers](https://forms.gle/bZeaTqPEedQMjMV59)<br>- [For students](https://forms.gle/YnBorosBjWQHobgX7)<br>",
       "InitiallyExpanded": true
     },
     "credits": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Credits",
-      "Content": "#### Lead Author and Creative Director:\nMatt Wilkins, PhD  \nIf you liked this lesson, please help spread the word! Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio)) and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences and student questions! \n\nAnd please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what’s coming up next!\n\n#### Sponsor and Producer\n[Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/)\n\n#### \"Role with It\" Animal Diversity Cards Illustrator\n[Anna Wilkins](https://www.annamationvisdev.com)",
+      "Content": "#### Lead Author and Creative Director:<br>Matt Wilkins, PhD  <br>If you liked this lesson, please help spread the word! Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio)) and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences and student questions! <br><br>And please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what’s coming up next!<br><br>#### Sponsor and Producer<br>[Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/)<br><br>#### \"Role with It\" Animal Diversity Cards Illustrator<br>[Anna Wilkins](https://www.annamationvisdev.com)",
       "InitiallyExpanded": true
     },
     "acknowledgments": {
