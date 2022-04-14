@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.8",
   "galacticPubsVer": "0.6.8",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-13 21:38:35",
+  "LastUpdated": "2022-04-13 21:42:10",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Draft",
@@ -164,8 +164,8 @@
               "parts": [
                 {
                   "part": 1,
-                  "title": "Defining a Pattern in Nature",
-                  "preface": "A fun activity blending creative movement, cards, animal videos, and data analysis. Don't be scared off by the length of the presentation—it goes pretty fast—though you may need more than one class period to finish.",
+                  "title": "Caring or Competitive?",
+                  "preface": "Students \"collect\" and analyze data in a fun activity blending creative movement, cards, animal videos, and data literacy. Don't be scared off by the length of the presentation—it goes pretty fast—though you may need more than one class period to finish.",
                   "itemList": [
                     {
                       "itemTitle": "Presentation",
@@ -183,20 +183,6 @@
                     },
                     {
                       "itemTitle": "Student Worksheet",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1YB5c4lQFsmau0zpLbqIKxisR-eHRqXQQHooVSPyXcUQ/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1YB5c4lQFsmau0zpLbqIKxisR-eHRqXQQHooVSPyXcUQ/"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": null,
                       "itemCat": null,
                       "links": [
                         {
@@ -234,6 +220,55 @@
                         {
                           "linkText": "ERROR: 'Copy to My Google Drive' link missing",
                           "url": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "part": 2,
+                  "title": "Let's Go to Borneo!",
+                  "preface": "This lesson gives students a chance to use real data collected from the field in Borneo to test whether guardian frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/present"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1pFSciyHTTZclKGkx8qYPAvp8n_dXXR00I7IGLHCUOQI/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1pFSciyHTTZclKGkx8qYPAvp8n_dXXR00I7IGLHCUOQI/"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1pUnNjrLkayEH_1K1iulty1cXUvgHyXWgZ-oofdWXgKA/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1pUnNjrLkayEH_1K1iulty1cXUvgHyXWgZ-oofdWXgKA/"
                         }
                       ]
                     }
