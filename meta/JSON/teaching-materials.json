@@ -103,6 +103,20 @@
                   ]
                 },
                 {
+                  "itemTitle": null,
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/"
+                    }
+                  ]
+                },
+                {
                   "itemTitle": "Teacher Worksheet",
                   "itemCat": null,
                   "links": [

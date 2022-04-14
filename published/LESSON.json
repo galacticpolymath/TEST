@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.8",
   "galacticPubsVer": "0.6.8",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-12 18:38:14",
+  "LastUpdated": "2022-04-13 21:13:39",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Draft",
@@ -15,7 +15,7 @@
   "SponsorName": "Johana Goyes Vallejos",
   "SponsoredBy": "- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/) — Postdoc in the Division of Biological Sciences, University of Missouri – Columbia",
   "SponsorImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/MU_logo.png"
+    "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/MU_bio_logo.png"
   },
   "CoverImage": {
     "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/banner.png"
@@ -53,7 +53,7 @@
       "SteamEpaulette_vert": {
         "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette_vert.png"
       },
-      "Description": "In Part 1, students will be excited to play with cards, dance, and watch short clips of animal courtship behaviors in this gamified, but rigorous activity! Part 2 sets a mysterious atmosphere with an introduction to the sights and sounds of Borneo, and students will interact with real data to follow in the footsteps of a young Latina scientist."
+      "Description": "This lesson puts students in the role of scientists, collecting and analyzing real data to answer questions. In Part 1, students \"collect\" data through a card-based activity called \"Role With It.\" Briefly, students get a male or female card of 1 out of 12 species. When their card is called, students introduce it with a \"song\" and dance that match the attributes of the species it represents. The class then records data on sexual signal exaggeration and parental investment for that species. Once they have collected all 24 specimens (cards) students analyze this data to generate a general observation: \"across nonhuman animal species, females tend to be more caring (contributing more parental investment), while males to tend to focus more energy on attracting and competing for mates. These are known as *conventional sex roles.* Students then identify *sex-role-reversed species,* such as jacanas and guardian frogs–where males are caring and females are competitive.  \nPart 2 begins with an atmospheric video that immerses students in the sights, sounds, and mysteries of Borneo. They are then given a brief introduction to the geography lesson and learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes-Vallejos' research on the Smooth Guardian Frog (*Limnonectes palavanensis*) in the forests of Brunei. Students analyze her actual data to determine if this is the first case of sex role reversal ever described in frogs! The lesson involves a wide variety of opportunities for student movement, collaboration, creativity, and active engagement.\n"
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -192,6 +192,20 @@
                         {
                           "linkText": "Copy to My Google Drive",
                           "url": "https://docs.google.com/document/d/1YB5c4lQFsmau0zpLbqIKxisR-eHRqXQQHooVSPyXcUQ/"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": null,
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/"
                         }
                       ]
                     },
