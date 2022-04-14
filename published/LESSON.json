@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.8",
   "galacticPubsVer": "0.6.8",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-13 21:43:25",
+  "LastUpdated": "2022-04-13 22:36:32",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Draft",
@@ -83,6 +83,20 @@
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "keywords": null,
           "mainLink": "https://www.youtube.com/embed/G7xvfIhL6bU",
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
+        },
+        {
+          "order": 3,
+          "type": "video",
+          "title": "Do Female Frogs Call?",
+          "description": "Dr. Johana Goyes-Vallejos discovers that in the smooth guardian frog of Borneo, female frogs call. In frog species, typically male frogs call, while females stay silent. Dr. Johana Goyes-Vallejos shows that in the smooth guardian frog of Borneo (Limnonectes palavanensis) this is not the case and that female frogs call, too, producing spontaneous vocalizations to attract males. Dr. Goyes-Vallejos’ discovery that female frogs call suggests that L. palavanensis exhibits a reversal in calling behavior and possibly a sex-role-reversed mating system, which would be the first ever observed in a frog species. ",
+          "lessonRelevance": "For Part 2: We show parts of this video to introduce students to Dr. Goyes-Vallejos and her research. They will then analyze some of her data.",
+          "by": "iBiology",
+          "byLink": "https://www.youtube.com/channel/UCsvqEZBO-kNmwuDBbKbfL6A",
+          "keywords": null,
+          "mainLink": "https://www.youtube.com/embed/eX5abcrmE7g",
           "vimeoLink": null,
           "filename": null,
           "otherLink": null
@@ -278,74 +292,6 @@
             }
           ]
         }
-      }
-    },
-    "procedure": {
-      "__component": "lesson-plan.procedure",
-      "SectionTitle": "Procedure",
-      "Data": {
-        "lessonPreface": "Part 1 will likely take 2 class periods.",
-        "lessonDur": "Part 1: 60 min, Part 2: 45 min",
-        "parts": [
-          {
-            "partNum": 1,
-            "partTitle": "Defining a Pattern in Nature",
-            "partDur": 60,
-            "partPreface": "A fun activity blending creative movement, cards, animal videos, and data analysis. Don't be scared off by the length of the presentation—it goes pretty fast—though you may need more than one class period to finish.",
-            "chunks": [
-              {
-                "chunkTitle": "******\nWrite Over/Delete all example text in A2:K:4 \n******\nChunk 1 Title; you don't need to repeat this across steps in the same chunk.",
-                "chunkStart": 0,
-                "chunkDur": 15,
-                "steps": [
-                  {
-                    "Step": 1,
-                    "StepTitle": "******\nBe sure to refer to notes in each column header\n******\nStep 1 Title. Need 1 per Step.",
-                    "StepQuickDescription": "Step 1 description. This is also used as the steps in the Teach it in 15 Quick Prep presentation.",
-                    "StepDetails": "Details about this step. In this column, as well as StepQuickDescription, and Variant Notes, you can embed a link to a video. Ex: To insert a link to the video listed in the Multimedia tab of teaching-materials.xlsx with Order=1, simply add [ERROR: CHECK *{vid1}* REFERENCE. NO LINK FOUND]() anywhere in the text description. A formatted link with the video title will be added to the Procedure.JSON used to generate the lesson plan webpage.",
-                    "Vocab": "Vocabulary introduced for this step. Use shorthand format, which will be converted to a nice bulleted list. Entries are separated by a newline (return), which you make with Alt+Enter. Format:\n- **Term1:** definition 1\n- **Term2:** definition 2\n- **Term3 :** definition 3",
-                    "VariantNotes": "Notes about either classroom or remote differences or grade level differences.",
-                    "TeachingTips": "Teaching Tips"
-                  },
-                  {
-                    "Step": 2,
-                    "StepTitle": "Step 2 Title. Need 1 per Step.",
-                    "StepQuickDescription": "Concise Description",
-                    "StepDetails": "More Detailed description",
-                    "Vocab": "- **TermX:** definitionX",
-                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
-                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Chunk 2 Title",
-                "chunkStart": 15,
-                "chunkDur": 10,
-                "steps": [
-                  {
-                    "Step": 3,
-                    "StepTitle": "Step 3 Title. Need 1 per Step.",
-                    "StepQuickDescription": "Concise Description",
-                    "StepDetails": "More Detailed description",
-                    "Vocab": "- **TermX:** definitionX",
-                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
-                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
-                  },
-                  {
-                    "Step": 4,
-                    "StepTitle": "Step 4 Title",
-                    "StepQuickDescription": "Concise Description",
-                    "StepDetails": "More Detailed description",
-                    "Vocab": "- **TermX:** definitionX",
-                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
-                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
       }
     },
     "background": {
