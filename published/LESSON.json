@@ -2,14 +2,14 @@
   "id": 2,
   "ShortTitle": "guardianFrogs",
   "TemplateVer": "0.2.8",
-  "galacticPubsVer": "0.6.8",
+  "galacticPubsVer": "0.6.9",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-14 17:40:38",
+  "LastUpdated": "2022-04-21 11:39:49",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
-  "PublicationStatus": "Draft",
+  "PublicationStatus": "Live",
   "RebuildAllMaterials": false,
-  "ReleaseDate": "2022-04-03",
+  "ReleaseDate": "2022-04-22",
   "Title": "The Guardian Frogs of Borneo",
   "Subtitle": "Why Exceptions Matter in Biology and Everyday Life",
   "SponsorName": "Johana Goyes Vallejos",
@@ -23,10 +23,10 @@
   "Section": {
     "overview": {
       "__component": "lesson-plan.overview",
-      "EstLessonTime": "120 min.",
+      "EstLessonTime": "180 min. (~3 classes)",
       "ForGrades": "5-8",
       "TargetSubject": "Science",
-      "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Learning Objective(s):\n1. Explain how animal behavior facilitates in survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Understand that biological data are variable.\n4. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why exceptions matter in biology and other disciplines.\n\n#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist, authentic data \n",
+      "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Learning Objective(s):\n1. Explain how animal behavior facilitates in survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Understand that biological data are variable.\n4. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why biological exceptions matter to science and society.\n\n#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist + use of authentic data \n",
       "Tags": [
         {
           "Value": "sex differences"
@@ -53,7 +53,7 @@
       "SteamEpaulette_vert": {
         "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette_vert.png"
       },
-      "Description": "This lesson puts students in the role of scientists, collecting and analyzing real data to answer questions. In Part 1, students \"collect\" data through a card-based activity called \"Role With It.\" Briefly, students get a male or female card of 1 out of 12 species. When their card is called, students introduce it with a \"song\" and dance that match the attributes of the species it represents. The class then records data on sexual signal exaggeration and parental investment for that species. Once they have collected all 24 specimens (cards) students analyze this data to generate a general observation: \"across nonhuman animal species, females tend to be more caring (contributing more parental investment), while males to tend to focus more energy on attracting and competing for mates. These are known as *conventional sex roles.* Students then identify *sex-role-reversed species,* such as jacanas and guardian frogs, which have \"caring\" males and \"competitive\" females.\n\nPart 2 begins with an atmospheric video that immerses students in the sights, sounds, and mysteries of Borneo. They are then given a brief introduction to the geography lesson and learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes-Vallejos' research on the Smooth Guardian Frog (*Limnonectes palavanensis*) in the forests of Brunei. Students analyze her actual data to determine if this is the first case of sex role reversal ever described in frogs! The lesson involves a wide variety of opportunities for student movement, collaboration, creativity, and active engagement.\n"
+      "Description": "This lesson puts students in the role of scientists, collecting and analyzing real data to answer questions. In Part 1, students \"collect\" data through a card-based activity called \"Role With It.\" Briefly, students get a male or female card of 1 out of 12 species. When their card is called, students introduce it with a \"song\" and dance that match the attributes of the species it represents. The class then records data on sexual signal exaggeration and parental investment for that species. Once they have collected all 24 specimens (cards) students analyze this data to generate a general observation: \"across nonhuman animal species, females tend to be more caring (contributing more parental investment), while males tend to be more adapted to attracting and competing for mates. These are known as *conventional sex roles.* Students then identify *sex-role-reversed species,* such as jacanas (a bird) and guardian frogs, which have \"caring\" males and \"competitive\" females.\n\nPart 2 dives into fascinating geography, videos from the field, and real data to test whether the Smooth Guardian Frog (*Limnonectes palavenensis*) is truly the first known sex-role-reversed frog species, with caring males and competitive females. The lesson begins with an atmospheric video that immerses students in the sights, sounds, and mysteries of the island of Borneo. Students are then given a brief introduction to the geography of the region and learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes Vallejos' research in the forests of Brunei. Students analyze her actual data to test hypotheses by synthesizing information and analyzing a scatter plot to determine that this fascinating species is indeed the first frog known to have \"caring males\" and \"competitive females.\" \n\nThe lesson offers a wide variety of opportunities for student movement, collaboration, creativity, and active engagement.\n"
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -97,6 +97,20 @@
           "byLink": "https://www.youtube.com/channel/UCsvqEZBO-kNmwuDBbKbfL6A",
           "keywords": null,
           "mainLink": "https://www.youtube.com/embed/eX5abcrmE7g",
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
+        },
+        {
+          "order": 4,
+          "type": "video",
+          "title": "Calling behavior of male and female Guardian Frogs",
+          "description": "Electronic Supplementary Material: Calling behavior of males and females of a Bornean frog with male parental care and possible sex-role reversal (Goyes Vallejos, J., Ulmar Grafe, T., Ahmad Sah, H.H. et al. Behav Ecol Sociobiol. 2017. 71: 95).",
+          "lessonRelevance": "For Part 2: Background video showing that male and female Guardian Frogs look similar, but have a distinct call.",
+          "by": "Johana Goyes Vallejos",
+          "byLink": "https://www.youtube.com/channel/UCwXrzGpv_1ogTfz7lwKCf7A",
+          "keywords": null,
+          "mainLink": "https://www.youtube.com/embed/LAqSHDdTKMw",
           "vimeoLink": null,
           "filename": null,
           "otherLink": null
@@ -242,7 +256,7 @@
                 {
                   "part": 2,
                   "title": "Let's Go to Borneo! Testing hypotheses with real data from the field",
-                  "preface": "This lesson gives students a chance to use real data collected from the field in Borneo to test whether guardian frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
+                  "preface": "This lesson gives students a chance to use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
                   "itemList": [
                     {
                       "itemTitle": "Presentation",
@@ -297,7 +311,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n Instead of telling students, \"In animal species with *conventional sex roles,* males invest more in attracting and competing for mates, while females invest more in parental care,\" we have students collect data in a fun, interactive format and draw this conclusion from the data. They are then more invested in understanding cases of *sex role reversed species* that are the exceptions to this role, and have \"caring males\" and \"competitive females.\" In part 2, they dive into the hypothesis-based framework and follow along in the footsteps of an early career Latina scientist, Dr. Johana Goyes-Vallejos. They analyze real graphs and data she collected on the island of Borneo to determine if  \n#### Research Background\n #### Research Background\n\n#### Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=doi.org%2F10.1007%2Fs00265-017-2323-3&btnG=)",
+      "Content": "#### Connection to Research\n Instead of telling students, \"In animal species with *conventional sex roles,* males invest more in attracting and competing for mates, while females invest more in parental care,\" we have students collect data in a fun, interactive format and draw this conclusion from the data. They are then more invested in understanding cases of *sex role reversed species* that are the exceptions to this role, and have \"caring males\" and \"competitive females.\" In part 2, they dive into the hypothesis-based framework and follow along in the footsteps of an early career Latina scientist, Dr. Johana Goyes-Vallejos. They analyze real graphs and data she collected on the island of Borneo to determine if the Smooth Guardian Frog (*Limnonectes palavanensis*) is the first sex-role-reversed frog species known to science. \n#### Research Background\n #### Research Background\n\n#### Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=doi.org%2F10.1007%2Fs00265-017-2323-3&btnG=)\n",
       "InitiallyExpanded": true
     },
     "standards-header": {
