@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.8",
   "galacticPubsVer": "0.6.9",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-21 16:22:53",
+  "LastUpdated": "2022-04-21 18:17:07",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Live",
@@ -193,7 +193,7 @@
                 {
                   "part": 1,
                   "title": "Defining a Pattern in Nature – Which sex tends to be caring vs competitive?",
-                  "preface": "Students \"collect\" and analyze data in a fun activity blending creative movement, cards, animal videos, and data literacy. The presentation mainly guides the data collection step, which will take a full class period (or possibly 1 1/2). Don't be intimidated by the length of the presentation–you will zip through the slides! We also created timer GIFs to keep students on track during data collection. Organizing and analyzing the data can be done over another class period or as homework.",
+                  "preface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy. Don't be intimidated by the length of the presentation–you will zip through the slides! In Part 2, students will analyze this data.",
                   "itemList": [
                     {
                       "itemTitle": "Presentation",
@@ -255,8 +255,8 @@
                 },
                 {
                   "part": 2,
-                  "title": "Let's Go to Borneo! Testing hypotheses with real data from the field",
-                  "preface": "This lesson gives students a chance to use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
+                  "title": "Analyzing Data from Part 1 to Draw Conclusions",
+                  "preface": "Students reorganize, validate, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
                   "itemList": [
                     {
                       "itemTitle": "Presentation",
@@ -301,6 +301,12 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "part": 3,
+                  "title": "Let's Go to Borneo! Testing hypotheses with real data from the field",
+                  "preface": "Students use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
+                  "itemList": null
                 }
               ]
             }
@@ -312,14 +318,14 @@
       "__component": "lesson-plan.procedure",
       "SectionTitle": "Procedure",
       "Data": {
-        "lessonPreface": "Part 1 will likely take 2 class periods.",
-        "lessonDur": "Part 1: 120 min, Part 2: 60 min",
+        "lessonPreface": "There is a single worksheet packet for Parts 1 & 2. Part 1 (Data collection) will likely take a full class period. Part 2 (Analysis) can be done in another class period or independently. Students should be able to complete Part 3 in 1 class period.",
+        "lessonDur": "Part 1: 60 min, Part 2: 45 min",
         "parts": [
           {
             "partNum": 1,
             "partTitle": "Defining a Pattern in Nature – Which sex tends to be caring vs competitive?",
-            "partDur": 120,
-            "partPreface": "Students \"collect\" and analyze data in a fun activity blending creative movement, cards, animal videos, and data literacy. The presentation mainly guides the data collection step, which will take a full class period (or possibly 1 1/2). Don't be intimidated by the length of the presentation–you will zip through the slides! We also created timer GIFs to keep students on track during data collection. Organizing and analyzing the data can be done over another class period or as homework.",
+            "partDur": 60,
+            "partPreface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy. Don't be intimidated by the length of the presentation–you will zip through the slides! In Part 2, students will analyze this data.",
             "chunks": [
               {
                 "chunkTitle": "Warm-Up",
@@ -356,7 +362,7 @@
                     "StepTitle": "Across animals, is one sex more involved in *caring* for young, while the other is focused on *competing* for mates?",
                     "StepQuickDescription": "Set up our driving question and define the language we'll be using. ",
                     "StepDetails": null,
-                    "Vocab": "- **sex=a category (male or female) determined by which gametes an individual produces; eggs=female and sperm:** male\n- **gender:** a complex social category based on how an individual identifies (e.g. male, female, nonbinary)",
+                    "Vocab": "- **sex= a category (male or female) determined by which gametes an individual produces; eggs=female and sperm:** male\n- **gender:** a complex social category based on how an individual identifies (e.g. male, female, nonbinary)",
                     "VariantNotes": null,
                     "TeachingTips": "We always use *sex*, rather than *gender* to refer to nonhuman animals, since we can't ask animals how they identify. However, there is some [very interesting ongoing research looking into animal genders](https://www.discovermagazine.com/planet-earth/is-gender-identity-unique-to-humans)."
                   },
@@ -383,7 +389,7 @@
               {
                 "chunkTitle": "\"Role with It\" Data Collection",
                 "chunkStart": 20,
-                "chunkDur": 38,
+                "chunkDur": 35,
                 "steps": [
                   {
                     "Step": 6,
@@ -398,8 +404,8 @@
               },
               {
                 "chunkTitle": "Wrapping Up Data Collection",
-                "chunkStart": 58,
-                "chunkDur": 2,
+                "chunkStart": 55,
+                "chunkDur": 5,
                 "steps": [
                   {
                     "Step": 7,
@@ -411,39 +417,50 @@
                     "TeachingTips": "Once they have the data, the rest can be done independently for homework or during another class period, depending how you'd like to support your students."
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "partNum": 2,
+            "partTitle": "Analyzing Data from Part 1 to Draw Conclusions",
+            "partDur": 45,
+            "partPreface": "Students reorganize, validate, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
+            "chunks": [
               {
                 "chunkTitle": "(Re)organizing the Data",
-                "chunkStart": 60,
-                "chunkDur": 10,
+                "chunkStart": 0,
+                "chunkDur": 15,
                 "steps": [
                   {
-                    "Step": 8,
+                    "Step": 1,
                     "StepTitle": "Transferring raw data to a summary table",
-                    "StepQuickDescription": null,
+                    "StepQuickDescription": "What do the data say about our question: **Across animals, is one sex more involved in *caring* for young, while the other is focused on *competing* for mates?**",
                     "StepDetails": "Students will copy their Total Sexual Signaling Scores and Total Parental Investment Scores from Table 1 to Table 2. They will then right the correct symbol (<, >, or =), according to how male and female scores compare to each other.",
                     "Vocab": null,
-                    "VariantNotes": null,
+                    "VariantNotes": "There is no presentation for Part 2. The worksheet should guide students in analysis of their data.",
                     "TeachingTips": "You may want to have students work in pairs on this part in order to help them troubleshoot and spot each other's mistakes."
+                  },
+                  {
+                    "Step": 2,
+                    "StepTitle": "Validate the data",
+                    "StepQuickDescription": "In order to make your life easier, and introduce students to an important computer science concept, we've implemented a checksum for Table 2.",
+                    "StepDetails": "After reorganizing their raw data in Table 2, students should add up each category of scores to get totals. Students will know if their data is valid (correct) if the column totals equal the expected *checksums.* If not, they should work with a classmate to find the error before coming to you to troubleshoot.",
+                    "Vocab": "- **checksum:** in computer science, this is a value used to determine if data are valid. If a calculation does not result in the expected checksum, it is a sign that something went wrong. (e.g. checksums are used to determine if you've put in a [valid credit card number](https://www.sapling.com/7966257/checksum-credit-card))",
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   }
                 ]
               },
               {
-                "chunkTitle": null,
-                "chunkStart": null,
-                "chunkDur": null,
-                "steps": []
-              },
-              {
                 "chunkTitle": "Analysis and Reflection",
-                "chunkStart": 70,
-                "chunkDur": 45,
+                "chunkStart": 15,
+                "chunkDur": 30,
                 "steps": [
                   {
-                    "Step": 10,
+                    "Step": 3,
                     "StepTitle": "Independent work",
                     "StepQuickDescription": "The worksheet guides students through a basic summary analysis and reflection on the data.",
-                    "StepDetails": "What students should gain from this exercise:\n- recognize that there is a lot of variation in nature\n- they should independently conclude that the majority of species have \"caring females\" and \"competitive males\" (*conventional sex roles*), while recognizing that there are many cases where both parents contribute equivalently, and some species with *sex role reversal*.  \n",
+                    "StepDetails": "What students should gain from this exercise:\n- recognize that there is a lot of variation in nature\n- a general recognition that when one sex contributes significantly more parental investment, it frees the other sex to evolve adaptations to compete for mates\n- they should independently conclude that the majority of species have \"caring females\" and \"competitive males\" (*conventional sex roles*), while recognizing that there are many cases where both parents contribute equivalently, and some species with *sex role reversal*.  \n",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -453,10 +470,10 @@
             ]
           },
           {
-            "partNum": 2,
+            "partNum": 3,
             "partTitle": "Let's Go to Borneo! Testing hypotheses with real data from the field",
-            "partDur": 60,
-            "partPreface": "This lesson gives students a chance to use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
+            "partDur": null,
+            "partPreface": "Students use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
             "chunks": []
           }
         ]
