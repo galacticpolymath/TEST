@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.8",
   "galacticPubsVer": "0.6.9",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-21 19:10:11",
+  "LastUpdated": "2022-04-21 19:15:54",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Live",
@@ -194,6 +194,18 @@
                   "part": 1,
                   "title": "Defining a Pattern in Nature",
                   "preface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy. Don't be intimidated by the length of the presentation–you will zip through the slides! In Part 2, students will analyze this data.",
+                  "itemList": null
+                },
+                {
+                  "part": 2,
+                  "title": "Analyzing Data from Part 1",
+                  "preface": "Students organize, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
+                  "itemList": null
+                },
+                {
+                  "part": 3,
+                  "title": "Let's Go to Borneo!",
+                  "preface": "Students use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
                   "itemList": [
                     {
                       "itemTitle": "Presentation",
@@ -201,63 +213,14 @@
                       "links": [
                         {
                           "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/1xbdlYA0wENBzUntjVrTTbD3arBFSrBhi5-gMCX5wmiA/present"
+                          "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/present"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/1xbdlYA0wENBzUntjVrTTbD3arBFSrBhi5-gMCX5wmiA/template/preview"
+                          "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/template/preview"
                         }
                       ]
                     },
-                    {
-                      "itemTitle": "Student Worksheet",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Worksheet",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
-                        },
-                        {
-                          "linkText": "ERROR: 'Copy to My Google Drive' link missing",
-                          "url": null
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "part": 2,
-                  "title": "Analyzing Data from Part 1",
-                  "preface": "Students organize, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
-                  "itemList": [
                     {
                       "itemTitle": "Student Worksheet",
                       "itemCat": null,
@@ -283,27 +246,6 @@
                         {
                           "linkText": "Copy to My Google Drive",
                           "url": "https://docs.google.com/document/d/1pUnNjrLkayEH_1K1iulty1cXUvgHyXWgZ-oofdWXgKA/"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "part": 3,
-                  "title": "Let's Go to Borneo!",
-                  "preface": "Students use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
-                  "itemList": [
-                    {
-                      "itemTitle": "Presentation",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/present"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/template/preview"
                         }
                       ]
                     }
