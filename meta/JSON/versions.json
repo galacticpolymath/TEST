@@ -13,6 +13,25 @@
           "acknowledgments": null
         }
       ]
+    },
+    {
+      "major_release": "1",
+      "sub_releases": [
+        {
+          "version": "1.0.0",
+          "date": "Apr 22, 2022",
+          "summary": "Worldwide release!",
+          "notes": null,
+          "acknowledgments": null
+        },
+        {
+          "version": "1.0.1",
+          "date": "Apr 22, 2022",
+          "summary": "Tweaks to acknowledgments & procedure",
+          "notes": null,
+          "acknowledgments": null
+        }
+      ]
     }
   ]
 }

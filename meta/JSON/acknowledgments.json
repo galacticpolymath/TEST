@@ -3,48 +3,22 @@
   "SectionTitle": "Acknowledgments",
   "Data": [
     {
-      "role": "Beta Testers",
-      "def": "(Teachers who trialed earlier versions of the lesson with their children or students)",
+      "role": "Education Consultant",
+      "def": "(Initial lesson development)",
       "records": [
         {
-          "name": "Name1",
-          "url": "URL1",
-          "title": "Title1",
-          "affiliation": "Affiliation1",
-          "location": "Location1"
+          "name": "Tracy Burkhard, PhD",
+          "url": "https://twitter.com/ttburk",
+          "title": "Postdoctoral Fellow",
+          "affiliation": "Centre d’Ecologie Fonctionnelle et Evolutive",
+          "location": "Montpellier, France"
         },
         {
-          "name": "Name2",
-          "url": "URL2",
-          "title": "Title2",
-          "affiliation": "Affiliation2",
-          "location": "Location2"
-        }
-      ]
-    },
-    {
-      "role": "Peer Reviewers",
-      "def": "(Instructional and subject experts who provided input or validation on content accuracy)",
-      "records": [
-        {
-          "name": "Name3",
-          "url": "URL3",
-          "title": "Title3",
-          "affiliation": "Affiliation3",
-          "location": "Location3"
-        }
-      ]
-    },
-    {
-      "role": "Other Role",
-      "def": "(Other Def)",
-      "records": [
-        {
-          "name": "Name4",
-          "url": "URL4",
-          "title": "Title4",
-          "affiliation": "Affiliation4",
-          "location": "Location4"
+          "name": "Rachel Neurath, PhD",
+          "url": "https://www.linkedin.com/in/rachel-neurath/",
+          "title": "Soil Microbial Ecologist | STEM Educator | Writer",
+          "affiliation": null,
+          "location": "New England, USA"
         }
       ]
     }
