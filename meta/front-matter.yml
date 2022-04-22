@@ -3,7 +3,7 @@ ShortTitle: guardianFrogs
 TemplateVer: 0.2.8
 galacticPubsVer: 0.6.9
 FirstPublicationDate: 2022-04-01 15:16:29
-LastUpdated: 2022-04-21 18:17:07
+LastUpdated: 2022-04-21 19:10:11
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
 PublicationStatus: Live
@@ -19,7 +19,7 @@ LessonBanner: assets/banners_etc/banner.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 5-8
-EstLessonTime: 180 min. (~3 classes)
+EstLessonTime: 150 min. (~3 classes)
 LearningEpaulette: assets/learning-plots/GP-Learning-Epaulette.png
 LearningEpaulette_vert: assets/learning-plots/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
@@ -59,24 +59,25 @@ Description: "This lesson puts students in the role of scientists, collecting an
   card of 1 out of 12 species. When their card is called, students introduce it with
   a \"song\" and dance that match the attributes of the species it represents. The
   class then records data on sexual signal exaggeration and parental investment for
-  that species. Once they have collected all 24 specimens (cards) students analyze
-  this data to generate a general observation: \"across nonhuman animal species, females
-  tend to be more caring (contributing more parental investment), while males tend
-  to be more adapted to attracting and competing for mates. These are known as *conventional
-  sex roles.* Students then identify *sex-role-reversed species,* such as jacanas
-  (a bird) and guardian frogs, which have \"caring\" males and \"competitive\" females.\n\nPart
-  2 dives into fascinating geography, videos from the field, and real data to test
-  whether the Smooth Guardian Frog (*Limnonectes palavenensis*) is truly the first
-  known sex-role-reversed frog species, with caring males and competitive females.
-  The lesson begins with an atmospheric video that immerses students in the sights,
-  sounds, and mysteries of the island of Borneo. Students are then given a brief introduction
-  to the geography of the region and learn that Borneo is claimed by three Asian countries
-  (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes
-  Vallejos' research in the forests of Brunei. Students analyze her actual data to
-  test hypotheses by synthesizing information and analyzing a scatter plot to determine
-  that this fascinating species is indeed the first frog known to have \"caring males\"
-  and \"competitive females.\" \n\nThe lesson offers a wide variety of opportunities
-  for student movement, collaboration, creativity, and active engagement.\n"
+  that species. \n\nOnce they have collected all 24 specimens (cards) students analyze
+  this data (for Part 2) to generate a general observation: \"across nonhuman animal
+  species, females tend to be more caring (contributing more parental investment),
+  while males tend to be more adapted to attracting and competing for mates. These
+  are known as *conventional sex roles.* Students then identify *sex-role-reversed
+  species,* such as jacanas (a bird) and guardian frogs, which have \"caring\" males
+  and \"competitive\" females.\n\nPart 3 dives into fascinating geography, videos
+  from the field, and real data to test whether the Smooth Guardian Frog (*Limnonectes
+  palavenensis*) is truly the first known sex-role-reversed frog species, with caring
+  males and competitive females. The lesson begins with an atmospheric video that
+  immerses students in the sights, sounds, and mysteries of the island of Borneo.
+  Students are then given a brief introduction to the geography of the region and
+  learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei).
+  The rest of the lesson focuses on Dr. Johana Goyes Vallejos' research in the forests
+  of Brunei. Students analyze her actual data to test hypotheses by synthesizing information
+  and analyzing a scatter plot to determine that this fascinating species is indeed
+  the first frog known to have \"caring males\" and \"competitive females.\" \n\nThe
+  lesson offers a wide variety of opportunities for student movement, collaboration,
+  creativity, and active engagement.\n"
 QuickPrep: |
   1. Check out lesson multimedia above
   2. Look over [Teaching Materials](#teaching_materials)

@@ -71,7 +71,7 @@
           "parts": [
             {
               "part": 1,
-              "title": "Defining a Pattern in Nature – Which sex tends to be caring vs competitive?",
+              "title": "Defining a Pattern in Nature",
               "preface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy. Don't be intimidated by the length of the presentation–you will zip through the slides! In Part 2, students will analyze this data.",
               "itemList": [
                 {
@@ -134,23 +134,9 @@
             },
             {
               "part": 2,
-              "title": "Analyzing Data from Part 1 to Draw Conclusions",
-              "preface": "Students reorganize, validate, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
+              "title": "Analyzing Data from Part 1",
+              "preface": "Students organize, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
               "itemList": [
-                {
-                  "itemTitle": "Presentation",
-                  "itemCat": "presentation",
-                  "links": [
-                    {
-                      "linkText": "Present Now",
-                      "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/present"
-                    },
-                    {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/template/preview"
-                    }
-                  ]
-                },
                 {
                   "itemTitle": "Student Worksheet",
                   "itemCat": null,
@@ -183,9 +169,24 @@
             },
             {
               "part": 3,
-              "title": "Let's Go to Borneo! Testing hypotheses with real data from the field",
+              "title": "Let's Go to Borneo!",
               "preface": "Students use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
-              "itemList": null
+              "itemList": [
+                {
+                  "itemTitle": "Presentation",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/present"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/template/preview"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }

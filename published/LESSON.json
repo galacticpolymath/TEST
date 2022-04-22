@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.8",
   "galacticPubsVer": "0.6.9",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-21 18:17:07",
+  "LastUpdated": "2022-04-21 19:10:11",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Live",
@@ -23,7 +23,7 @@
   "Section": {
     "overview": {
       "__component": "lesson-plan.overview",
-      "EstLessonTime": "180 min. (~3 classes)",
+      "EstLessonTime": "150 min. (~3 classes)",
       "ForGrades": "5-8",
       "TargetSubject": "Science",
       "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Learning Objective(s):\n1. Explain how animal behavior facilitates in survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Understand that biological data are variable.\n4. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why biological exceptions matter to science and society.\n\n#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist + use of authentic data \n",
@@ -53,7 +53,7 @@
       "SteamEpaulette_vert": {
         "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette_vert.png"
       },
-      "Description": "This lesson puts students in the role of scientists, collecting and analyzing real data to answer questions. In Part 1, students \"collect\" data through a card-based activity called \"Role With It.\" Briefly, students get a male or female card of 1 out of 12 species. When their card is called, students introduce it with a \"song\" and dance that match the attributes of the species it represents. The class then records data on sexual signal exaggeration and parental investment for that species. Once they have collected all 24 specimens (cards) students analyze this data to generate a general observation: \"across nonhuman animal species, females tend to be more caring (contributing more parental investment), while males tend to be more adapted to attracting and competing for mates. These are known as *conventional sex roles.* Students then identify *sex-role-reversed species,* such as jacanas (a bird) and guardian frogs, which have \"caring\" males and \"competitive\" females.\n\nPart 2 dives into fascinating geography, videos from the field, and real data to test whether the Smooth Guardian Frog (*Limnonectes palavenensis*) is truly the first known sex-role-reversed frog species, with caring males and competitive females. The lesson begins with an atmospheric video that immerses students in the sights, sounds, and mysteries of the island of Borneo. Students are then given a brief introduction to the geography of the region and learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes Vallejos' research in the forests of Brunei. Students analyze her actual data to test hypotheses by synthesizing information and analyzing a scatter plot to determine that this fascinating species is indeed the first frog known to have \"caring males\" and \"competitive females.\" \n\nThe lesson offers a wide variety of opportunities for student movement, collaboration, creativity, and active engagement.\n"
+      "Description": "This lesson puts students in the role of scientists, collecting and analyzing real data to answer questions. In Part 1, students \"collect\" data through a card-based activity called \"Role With It.\" Briefly, students get a male or female card of 1 out of 12 species. When their card is called, students introduce it with a \"song\" and dance that match the attributes of the species it represents. The class then records data on sexual signal exaggeration and parental investment for that species. \n\nOnce they have collected all 24 specimens (cards) students analyze this data (for Part 2) to generate a general observation: \"across nonhuman animal species, females tend to be more caring (contributing more parental investment), while males tend to be more adapted to attracting and competing for mates. These are known as *conventional sex roles.* Students then identify *sex-role-reversed species,* such as jacanas (a bird) and guardian frogs, which have \"caring\" males and \"competitive\" females.\n\nPart 3 dives into fascinating geography, videos from the field, and real data to test whether the Smooth Guardian Frog (*Limnonectes palavenensis*) is truly the first known sex-role-reversed frog species, with caring males and competitive females. The lesson begins with an atmospheric video that immerses students in the sights, sounds, and mysteries of the island of Borneo. Students are then given a brief introduction to the geography of the region and learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes Vallejos' research in the forests of Brunei. Students analyze her actual data to test hypotheses by synthesizing information and analyzing a scatter plot to determine that this fascinating species is indeed the first frog known to have \"caring males\" and \"competitive females.\" \n\nThe lesson offers a wide variety of opportunities for student movement, collaboration, creativity, and active engagement.\n"
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -192,7 +192,7 @@
               "parts": [
                 {
                   "part": 1,
-                  "title": "Defining a Pattern in Nature – Which sex tends to be caring vs competitive?",
+                  "title": "Defining a Pattern in Nature",
                   "preface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy. Don't be intimidated by the length of the presentation–you will zip through the slides! In Part 2, students will analyze this data.",
                   "itemList": [
                     {
@@ -255,23 +255,9 @@
                 },
                 {
                   "part": 2,
-                  "title": "Analyzing Data from Part 1 to Draw Conclusions",
-                  "preface": "Students reorganize, validate, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
+                  "title": "Analyzing Data from Part 1",
+                  "preface": "Students organize, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
                   "itemList": [
-                    {
-                      "itemTitle": "Presentation",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/present"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/template/preview"
-                        }
-                      ]
-                    },
                     {
                       "itemTitle": "Student Worksheet",
                       "itemCat": null,
@@ -304,9 +290,24 @@
                 },
                 {
                   "part": 3,
-                  "title": "Let's Go to Borneo! Testing hypotheses with real data from the field",
+                  "title": "Let's Go to Borneo!",
                   "preface": "Students use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
-                  "itemList": null
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/present"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/template/preview"
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -323,7 +324,7 @@
         "parts": [
           {
             "partNum": 1,
-            "partTitle": "Defining a Pattern in Nature – Which sex tends to be caring vs competitive?",
+            "partTitle": "Defining a Pattern in Nature",
             "partDur": 60,
             "partPreface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy. Don't be intimidated by the length of the presentation–you will zip through the slides! In Part 2, students will analyze this data.",
             "chunks": [
@@ -362,7 +363,7 @@
                     "StepTitle": "Across animals, is one sex more involved in *caring* for young, while the other is focused on *competing* for mates?",
                     "StepQuickDescription": "Set up our driving question and define the language we'll be using. ",
                     "StepDetails": null,
-                    "Vocab": "- **sex= a category (male or female) determined by which gametes an individual produces; eggs=female and sperm:** male\n- **gender:** a complex social category based on how an individual identifies (e.g. male, female, nonbinary)",
+                    "Vocab": "sex: a category (male or female) determined by which gametes an individual produces (i.e. eggs for females and sperm for males)\n- **gender:** a complex social category based on how an individual identifies (e.g. male, female, nonbinary)",
                     "VariantNotes": null,
                     "TeachingTips": "We always use *sex*, rather than *gender* to refer to nonhuman animals, since we can't ask animals how they identify. However, there is some [very interesting ongoing research looking into animal genders](https://www.discovermagazine.com/planet-earth/is-gender-identity-unique-to-humans)."
                   },
@@ -370,19 +371,19 @@
                     "Step": 4,
                     "StepTitle": "\"Role With It\" Rules",
                     "StepQuickDescription": "A card-based simulated data collection activity involving \"song\" and dance",
-                    "StepDetails": "Students each get *at least* 1 card from the [♧'\"Role With It\" Cards'](https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/view?usp=sharing). This card is their \"specimen\" (male or female of a  species), which they will introduce to the class as they collect its data. Each card has provided sexual signal values (from 0 to 3) for visual and acoustic (sound) traits. Zero means a specimen doesn't have that type of signal; 3 means that sex of that species has a very exaggerated trait. Students will build a dataset of relative sexual signal elaboration (e.g. how fancy the feathers and songs are) and parental investment for each sex across 12 different species.\nThe presentation guides the game. When a specimen's common name is called, the student with that card must stand up and introduce it. They will repeat their name 3-5 times at a volume corresponding to the Acoustic Signal Score on their card. Simultaneously, they will do a dance that is at the level of the Visual Display Score on their card. After the introduction, the student will read for their classmates the Parental Investment information on the card. Everyone then records display scores and parental contributions, which they will use for futher analysis. Then the next card is introduced. \n",
+                    "StepDetails": "Students each get *at least* 1 card from the [♧'\"Role With It\" Cards'](https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/view?usp=sharing). This card is their \"specimen\" (male or female of a  species), which they will introduce to the class as they collect its data. Each card has provided sexual signal values (from 0 to 3) for visual and acoustic (sound) traits. Zero means a specimen doesn't have that type of signal; 3 means that sex of that species has a very exaggerated trait. Students will build a dataset of relative sexual signal elaboration (e.g. how fancy the feathers and songs are) and parental investment for each sex across 12 different species.\nThe presentation guides the game. When a specimen's common name is called, the student with that card must stand up and introduce it. They will repeat their name 3-5 times at a volume corresponding to the Acoustic Signal Score on their card. Simultaneously, they will do a dance that is at the level of the Visual Display Score on their card. \nAfter the introduction, the student will read for their classmates the Parental Investment information on the card. Everyone then records display scores and parental contributions, which they will use for futher analysis. Then the next card is introduced. \n",
                     "Vocab": "- **signals:** traits evolved to communicate something to a receiver (e.g. \"danger,\" \"I'm here,\" or \"mine\")\n- **sexual signals:** traits evolved specifically to communicate in the context of mate attraction, competition, or both\n- **visual signals:** traits evolved to communicate by sight (e.g. feather shapes and colors; antlers; or bright patches of skin)\n- **acoustic signals:** traits evolved to communicate through sound (e.g. bird and whale song; cricket chirps; or frog calls)",
                     "VariantNotes": null,
-                    "TeachingTips": "- We've included 30sec timers in the presentation to keep things moving along, as students will find much of the goings on *quite* entertaining.\n- It's a good idea to demonstrate the \"song\" and dances, and set rules for what a \"3\" means in terms of movement and volume. One of us demoed a floss and while one student \"died of cringe,\" another confided that it made her day. Have fun! :)"
+                    "TeachingTips": "We've included 30sec timers in the presentation to keep things moving along, as students will find much of the goings on *quite* entertaining.\nIt's a good idea to demonstrate the \"song\" and dances, and set rules for what a \"3\" means in terms of movement and volume. One of us demoed a floss and while one student \"died of cringe,\" another confided that it made her day. Have fun! :)"
                   },
                   {
                     "Step": 5,
-                    "StepTitle": "Pass out cards and give students 2min. to trade",
+                    "StepTitle": "Pass out cards and let students trade",
                     "StepQuickDescription": null,
                     "StepDetails": "Each student should have at least 1 card. In small classes, students may have several. In a large class (>24), you will need to have more than 1 deck to allow each student to have a card. If you have multiple students introducing a specimen, you should call on one to read the *Parental Contributions* section.",
                     "Vocab": null,
                     "VariantNotes": null,
-                    "TeachingTips": "Allowing students to trade acommodates extroverts who may want a card with high signal values as well as introverts who may want to trade down. Your demonstrations and encouragement can especially help your more introverted students overcome their stagefright. "
+                    "TeachingTips": "Once they have the data, Part 2 can be done independently for homework or during another class period."
                   }
                 ]
               },
@@ -409,7 +410,7 @@
                 "steps": [
                   {
                     "Step": 7,
-                    "StepTitle": "Pause or Pivot",
+                    "StepTitle": "Collect work to finish later in class or assign homework",
                     "StepQuickDescription": "If you finished, have students make sure they've totaled all their scores in Table 1.",
                     "StepDetails": "If you don't quite get through the P1 Presentation, simply collect student papers (you can have them place cards on top of their worksheet packet and stack them). They should have recorded which cards they had on Q1-5, as well, so it's straightforward to pick up where you left off on data collection at the last species in Table 1 on the worksheet. ",
                     "Vocab": null,
@@ -422,9 +423,9 @@
           },
           {
             "partNum": 2,
-            "partTitle": "Analyzing Data from Part 1 to Draw Conclusions",
+            "partTitle": "Analyzing Data from Part 1",
             "partDur": 45,
-            "partPreface": "Students reorganize, validate, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
+            "partPreface": "Students organize, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
             "chunks": [
               {
                 "chunkTitle": "(Re)organizing the Data",
@@ -471,7 +472,7 @@
           },
           {
             "partNum": 3,
-            "partTitle": "Let's Go to Borneo! Testing hypotheses with real data from the field",
+            "partTitle": "Let's Go to Borneo!",
             "partDur": null,
             "partPreface": "Students use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
             "chunks": []

@@ -7,7 +7,7 @@
     "parts": [
       {
         "partNum": 1,
-        "partTitle": "Defining a Pattern in Nature – Which sex tends to be caring vs competitive?",
+        "partTitle": "Defining a Pattern in Nature",
         "partDur": 60,
         "partPreface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy. Don't be intimidated by the length of the presentation–you will zip through the slides! In Part 2, students will analyze this data.",
         "chunks": [
@@ -46,7 +46,7 @@
                 "StepTitle": "Across animals, is one sex more involved in *caring* for young, while the other is focused on *competing* for mates?",
                 "StepQuickDescription": "Set up our driving question and define the language we'll be using. ",
                 "StepDetails": null,
-                "Vocab": "- **sex= a category (male or female) determined by which gametes an individual produces; eggs=female and sperm:** male\n- **gender:** a complex social category based on how an individual identifies (e.g. male, female, nonbinary)",
+                "Vocab": "sex: a category (male or female) determined by which gametes an individual produces (i.e. eggs for females and sperm for males)\n- **gender:** a complex social category based on how an individual identifies (e.g. male, female, nonbinary)",
                 "VariantNotes": null,
                 "TeachingTips": "We always use *sex*, rather than *gender* to refer to nonhuman animals, since we can't ask animals how they identify. However, there is some [very interesting ongoing research looking into animal genders](https://www.discovermagazine.com/planet-earth/is-gender-identity-unique-to-humans)."
               },
@@ -54,19 +54,19 @@
                 "Step": 4,
                 "StepTitle": "\"Role With It\" Rules",
                 "StepQuickDescription": "A card-based simulated data collection activity involving \"song\" and dance",
-                "StepDetails": "Students each get *at least* 1 card from the [♧'\"Role With It\" Cards'](https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/view?usp=sharing). This card is their \"specimen\" (male or female of a  species), which they will introduce to the class as they collect its data. Each card has provided sexual signal values (from 0 to 3) for visual and acoustic (sound) traits. Zero means a specimen doesn't have that type of signal; 3 means that sex of that species has a very exaggerated trait. Students will build a dataset of relative sexual signal elaboration (e.g. how fancy the feathers and songs are) and parental investment for each sex across 12 different species.\nThe presentation guides the game. When a specimen's common name is called, the student with that card must stand up and introduce it. They will repeat their name 3-5 times at a volume corresponding to the Acoustic Signal Score on their card. Simultaneously, they will do a dance that is at the level of the Visual Display Score on their card. After the introduction, the student will read for their classmates the Parental Investment information on the card. Everyone then records display scores and parental contributions, which they will use for futher analysis. Then the next card is introduced. \n",
+                "StepDetails": "Students each get *at least* 1 card from the [♧'\"Role With It\" Cards'](https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/view?usp=sharing). This card is their \"specimen\" (male or female of a  species), which they will introduce to the class as they collect its data. Each card has provided sexual signal values (from 0 to 3) for visual and acoustic (sound) traits. Zero means a specimen doesn't have that type of signal; 3 means that sex of that species has a very exaggerated trait. Students will build a dataset of relative sexual signal elaboration (e.g. how fancy the feathers and songs are) and parental investment for each sex across 12 different species.\nThe presentation guides the game. When a specimen's common name is called, the student with that card must stand up and introduce it. They will repeat their name 3-5 times at a volume corresponding to the Acoustic Signal Score on their card. Simultaneously, they will do a dance that is at the level of the Visual Display Score on their card. \nAfter the introduction, the student will read for their classmates the Parental Investment information on the card. Everyone then records display scores and parental contributions, which they will use for futher analysis. Then the next card is introduced. \n",
                 "Vocab": "- **signals:** traits evolved to communicate something to a receiver (e.g. \"danger,\" \"I'm here,\" or \"mine\")\n- **sexual signals:** traits evolved specifically to communicate in the context of mate attraction, competition, or both\n- **visual signals:** traits evolved to communicate by sight (e.g. feather shapes and colors; antlers; or bright patches of skin)\n- **acoustic signals:** traits evolved to communicate through sound (e.g. bird and whale song; cricket chirps; or frog calls)",
                 "VariantNotes": null,
-                "TeachingTips": "- We've included 30sec timers in the presentation to keep things moving along, as students will find much of the goings on *quite* entertaining.\n- It's a good idea to demonstrate the \"song\" and dances, and set rules for what a \"3\" means in terms of movement and volume. One of us demoed a floss and while one student \"died of cringe,\" another confided that it made her day. Have fun! :)"
+                "TeachingTips": "We've included 30sec timers in the presentation to keep things moving along, as students will find much of the goings on *quite* entertaining.\nIt's a good idea to demonstrate the \"song\" and dances, and set rules for what a \"3\" means in terms of movement and volume. One of us demoed a floss and while one student \"died of cringe,\" another confided that it made her day. Have fun! :)"
               },
               {
                 "Step": 5,
-                "StepTitle": "Pass out cards and give students 2min. to trade",
+                "StepTitle": "Pass out cards and let students trade",
                 "StepQuickDescription": null,
                 "StepDetails": "Each student should have at least 1 card. In small classes, students may have several. In a large class (>24), you will need to have more than 1 deck to allow each student to have a card. If you have multiple students introducing a specimen, you should call on one to read the *Parental Contributions* section.",
                 "Vocab": null,
                 "VariantNotes": null,
-                "TeachingTips": "Allowing students to trade acommodates extroverts who may want a card with high signal values as well as introverts who may want to trade down. Your demonstrations and encouragement can especially help your more introverted students overcome their stagefright. "
+                "TeachingTips": "Once they have the data, Part 2 can be done independently for homework or during another class period."
               }
             ]
           },
@@ -93,7 +93,7 @@
             "steps": [
               {
                 "Step": 7,
-                "StepTitle": "Pause or Pivot",
+                "StepTitle": "Collect work to finish later in class or assign homework",
                 "StepQuickDescription": "If you finished, have students make sure they've totaled all their scores in Table 1.",
                 "StepDetails": "If you don't quite get through the P1 Presentation, simply collect student papers (you can have them place cards on top of their worksheet packet and stack them). They should have recorded which cards they had on Q1-5, as well, so it's straightforward to pick up where you left off on data collection at the last species in Table 1 on the worksheet. ",
                 "Vocab": null,
@@ -106,9 +106,9 @@
       },
       {
         "partNum": 2,
-        "partTitle": "Analyzing Data from Part 1 to Draw Conclusions",
+        "partTitle": "Analyzing Data from Part 1",
         "partDur": 45,
-        "partPreface": "Students reorganize, validate, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
+        "partPreface": "Students organize, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
         "chunks": [
           {
             "chunkTitle": "(Re)organizing the Data",
@@ -155,7 +155,7 @@
       },
       {
         "partNum": 3,
-        "partTitle": "Let's Go to Borneo! Testing hypotheses with real data from the field",
+        "partTitle": "Let's Go to Borneo!",
         "partDur": null,
         "partPreface": "Students use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
         "chunks": []
