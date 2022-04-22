@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.8",
   "galacticPubsVer": "0.6.9",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-21 19:15:54",
+  "LastUpdated": "2022-04-21 23:41:34",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Live",
@@ -53,7 +53,7 @@
       "SteamEpaulette_vert": {
         "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette_vert.png"
       },
-      "Description": "This lesson puts students in the role of scientists, collecting and analyzing real data to answer questions. In Part 1, students \"collect\" data through a card-based activity called \"Role With It.\" Briefly, students get a male or female card of 1 out of 12 species. When their card is called, students introduce it with a \"song\" and dance that match the attributes of the species it represents. The class then records data on sexual signal exaggeration and parental investment for that species. \n\nOnce they have collected all 24 specimens (cards) students analyze this data (for Part 2) to generate a general observation: \"across nonhuman animal species, females tend to be more caring (contributing more parental investment), while males tend to be more adapted to attracting and competing for mates. These are known as *conventional sex roles.* Students then identify *sex-role-reversed species,* such as jacanas (a bird) and guardian frogs, which have \"caring\" males and \"competitive\" females.\n\nPart 3 dives into fascinating geography, videos from the field, and real data to test whether the Smooth Guardian Frog (*Limnonectes palavenensis*) is truly the first known sex-role-reversed frog species, with caring males and competitive females. The lesson begins with an atmospheric video that immerses students in the sights, sounds, and mysteries of the island of Borneo. Students are then given a brief introduction to the geography of the region and learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes Vallejos' research in the forests of Brunei. Students analyze her actual data to test hypotheses by synthesizing information and analyzing a scatter plot to determine that this fascinating species is indeed the first frog known to have \"caring males\" and \"competitive females.\" \n\nThe lesson offers a wide variety of opportunities for student movement, collaboration, creativity, and active engagement.\n"
+      "Description": "This lesson puts students in the role of scientists, collecting and analyzing real data to answer questions. In Part 1, students \"collect\" data through a card-based activity called \"Role With It.\" Briefly, students get a male or female card of 1 out of 12 species. When their card is called, students introduce it with a \"song\" and dance that match the attributes of the species it represents. The class then records data on sexual signal exaggeration and parental investment for that species. \n\nOnce they have collected all 24 specimens (cards) students analyze this data (for Part 2) to generate a general observation: \"across nonhuman animal species, females tend to be more caring (contributing more parental investment), while males tend to be more adapted to attracting and competing for mates. These are known as *conventional sex roles.* Students then identify *sex-role-reversed species,* such as jacanas (a bird) and guardian frogs, which have \"caring males\" and \"competitive females\".\n\nPart 3 lets students use real data to test whether the Smooth Guardian Frog (*Limnonectes palavenensis*) is truly the first known sex-role-reversed frog species, with \"caring males\" and \"competitive females\". The lesson begins with an atmospheric video that immerses students in the sights, sounds, and mysteries of the island of Borneo. Students are then given a brief introduction to the geography of the region and learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes Vallejos' research in the forests of Brunei. Students test hypotheses by synthesizing information and analyzing a scatter plot to determine that this fascinating species is indeed the first frog known to have \"caring males\" and \"competitive females.\" \n\nThe lesson offers a wide variety of opportunities for student movement, collaboration, creativity, and active engagement.\n"
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -77,8 +77,8 @@
           "order": 2,
           "type": "video",
           "title": "Borneo Atmospheric Video",
-          "description": "This video sets the ambience for the beginning of Part 2 of our \"Guardian Frogs\" lesson. It situates students in the geographic location, sights, and sounds, and a sense of mystery regarding the island of Borneo.",
-          "lessonRelevance": "For Part 2: An atmospheric video plays as students enter the classroom, immediately immersing them in the lesson's sights, sounds, geographic location, and sense of mystery.",
+          "description": "This video sets the ambience for the beginning of Part 3 of our \"Guardian Frogs\" lesson. It situates students in the geographic location, sights, and sounds, and a sense of mystery regarding the island of Borneo.",
+          "lessonRelevance": "For Part 3: An atmospheric video plays as students enter the classroom, immediately immersing them in the lesson's sights, sounds, geographic location, and sense of mystery.",
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "keywords": null,
@@ -92,7 +92,7 @@
           "type": "video",
           "title": "Do Female Frogs Call?",
           "description": "Dr. Johana Goyes-Vallejos discovers that in the smooth guardian frog of Borneo, female frogs call. In frog species, typically male frogs call, while females stay silent. Dr. Johana Goyes-Vallejos shows that in the smooth guardian frog of Borneo (Limnonectes palavanensis) this is not the case and that female frogs call, too, producing spontaneous vocalizations to attract males. Dr. Goyes-Vallejos’ discovery that female frogs call suggests that L. palavanensis exhibits a reversal in calling behavior and possibly a sex-role-reversed mating system, which would be the first ever observed in a frog species. ",
-          "lessonRelevance": "For Part 2: We show parts of this video to introduce students to Dr. Goyes-Vallejos and her research. They will then analyze some of her data.",
+          "lessonRelevance": "For Part 3: We show parts of this video to introduce students to Dr. Goyes-Vallejos and her research. They will then analyze some of her data.",
           "by": "iBiology",
           "byLink": "https://www.youtube.com/channel/UCsvqEZBO-kNmwuDBbKbfL6A",
           "keywords": null,
@@ -106,7 +106,7 @@
           "type": "video",
           "title": "Calling behavior of male and female Guardian Frogs",
           "description": "Electronic Supplementary Material: Calling behavior of males and females of a Bornean frog with male parental care and possible sex-role reversal (Goyes Vallejos, J., Ulmar Grafe, T., Ahmad Sah, H.H. et al. Behav Ecol Sociobiol. 2017. 71: 95).",
-          "lessonRelevance": "For Part 2: Background video showing that male and female Guardian Frogs look similar, but have a distinct call.",
+          "lessonRelevance": "For Part 3: Background video showing that male and female Guardian Frogs look similar, but have a distinct call.",
           "by": "Johana Goyes Vallejos",
           "byLink": "https://www.youtube.com/channel/UCwXrzGpv_1ogTfz7lwKCf7A",
           "keywords": null,
@@ -131,7 +131,7 @@
               "itemsGroup": [
                 {
                   "item": "Presentation",
-                  "itemExplanation": "x 2 Parts"
+                  "itemExplanation": "x 2 (for Parts 1&2 and Part 3)"
                 }
               ]
             },
@@ -141,11 +141,11 @@
               "itemsGroup": [
                 {
                   "item": "Teacher Worksheet",
-                  "itemExplanation": "x 2 Parts"
+                  "itemExplanation": "x 2 (for Parts 1&2 and Part 3)"
                 },
                 {
                   "item": "Student Worksheet",
-                  "itemExplanation": "x 2 Parts"
+                  "itemExplanation": "x 2 (for Parts 1&2 and Part 3)"
                 },
                 {
                   "item": "\"Role With It Cards\"",
@@ -194,7 +194,50 @@
                   "part": 1,
                   "title": "Defining a Pattern in Nature",
                   "preface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy. Don't be intimidated by the length of the presentation–you will zip through the slides! In Part 2, students will analyze this data.",
-                  "itemList": null
+                  "itemList": [
+                    {
+                      "itemTitle": "Student Worksheet for Parts 1 & 2",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet for Parts 1 & 2",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
+                        },
+                        {
+                          "linkText": "ERROR: 'Copy to My Google Drive' link missing",
+                          "url": null
+                        }
+                      ]
+                    }
+                  ]
                 },
                 {
                   "part": 2,
@@ -417,7 +460,90 @@
             "partTitle": "Let's Go to Borneo!",
             "partDur": null,
             "partPreface": "Students use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
-            "chunks": []
+            "chunks": [
+              {
+                "chunkTitle": "Where in the world is Borneo?",
+                "chunkStart": 0,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Immersion in a tropical forest",
+                    "StepQuickDescription": "As students are streaming into the class, have Slide 2 playing [▶'Borneo Atmospheric Video'](https://www.youtube.com/watch?v=G7xvfIhL6bU) with sound on :loud_sound:",
+                    "StepDetails": "This looping video alternates between showing a planetary view of where we're going in this trip to sights and sounds from the field.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": "The graphic scrolling along the bottom of the video is a sound [*spectrogram*](https://en.wikipedia.org/wiki/Spectrogram). It shows frequency along the vertical Y axis and time scrolling along the X axis."
+                  },
+                  {
+                    "Step": 2,
+                    "StepTitle": "Geopolitical boundaries",
+                    "StepQuickDescription": null,
+                    "StepDetails": "A few slides check in with your students' geographical knowledge and show the 3 countries that claim the island of [Borneo](https://en.wikipedia.org/wiki/Borneo): Malaysia, Indonesia, and the tiny sultanate of Brunei. The rest of the lesson will focus on the research Dr. Johana Goyes Vallejos conducted in Brunei.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Quick Review",
+                "chunkStart": 10,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": "What did we learn yesterday?",
+                    "StepQuickDescription": "Slides prompt a quick review of the general pattern that students found in their data in Part 2.",
+                    "StepDetails": "Here we introduce the term *sex roles* and *conventional sex roles* in particular to describe the finding that in 75% of the species we looked at in Parts 1-2, males were \"competitive\" and females were \"caring.\" We then highlight the exceptional species (pipefish, jacanas, and guardian frogs).",
+                    "Vocab": "- **sex roles:** in nonhuman animals, behaviors and attributes that typically apply to one sex or the other\n- **conventional sex roles:** \"caring females\" and \"competitive males\"; the pattern in most animal species wherein females contribute more to ensure the survival of offspring, while males spend more effort toward attracting and competing for mates\n- **sex-role-reversal:** \"caring males\" and \"competitive females\"; this is a less common pattern among animals, in which males contribute more to parental care and females compete for access to mates",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Setting Up for Student Analysis",
+                "chunkStart": 15,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 4,
+                    "StepTitle": "Watch Video",
+                    "StepQuickDescription": "Students learn about Johana and the motivations for her research with [▶'Calling behavior of male and female Guardian Frogs'](https://www.youtube.com/watch?v=LAqSHDdTKMw)",
+                    "StepDetails": "This video sets up the background information and sets up the driving question for Part 3: \"Is the Smooth Guardian Frog fo Borneo the first sex-role-reversed frog species known to science?\"",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 5,
+                    "StepTitle": "Introduce the criteria for sex role reversal",
+                    "StepQuickDescription": null,
+                    "StepDetails": "Students will determine if the Guardian Frogs meet a set of 3 criteria to be considered the first sex role reversed frog species. Two are provided in the background information (Males are known to provide parental care by guarding eggs and transporting tadpoles to water; females are also known to call, which is normally a trait only found in males). Students will spend the rest of the class time testing out the third criteria: Do females signal more often than males?",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Independent Work",
+                "chunkStart": 25,
+                "chunkDur": 20,
+                "steps": [
+                  {
+                    "Step": 6,
+                    "StepTitle": "Students complete the worksheet packet on their own",
+                    "StepQuickDescription": "Students add missing labels to a graph of male and female call rates.",
+                    "StepDetails": "In order to complete the primary task, students will have to compare the units of the X and Y axis on a scatter plot to the values in the table in order to figure out how to label the figure. They will also have to compare the relative values of males and females in order to label the legend key. Once they have figured out the main task, students are asked to interpret whether the data meet criterion 3: that females call more than males (they do). Finally, students are asked to write a persuasive paragraph synthesizing what they have learned to  explain why guardian frogs deserve more research funding and what will be lost if they are allowed to go extinct.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
@@ -425,7 +551,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n Instead of telling students, \"In animal species with *conventional sex roles,* males invest more in attracting and competing for mates, while females invest more in parental care,\" we have students collect data in a fun, interactive format and draw this conclusion from the data. They are then more invested in understanding cases of *sex role reversed species* that are the exceptions to this role, and have \"caring males\" and \"competitive females.\" In part 2, they dive into the hypothesis-based framework and follow along in the footsteps of an early career Latina scientist, Dr. Johana Goyes-Vallejos. They analyze real graphs and data she collected on the island of Borneo to determine if the Smooth Guardian Frog (*Limnonectes palavanensis*) is the first sex-role-reversed frog species known to science. \n#### Research Background\n #### Research Background\n\n#### Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=doi.org%2F10.1007%2Fs00265-017-2323-3&btnG=)\n",
+      "Content": "#### Connection to Research\n Instead of telling students that a pattern exists, we have them discover it for themselves. That is, rather than telling them, \"In animal species with *conventional sex roles,* males invest more in attracting and competing for mates, while females invest more in parental care,\" we have students collect data in a fun, interactive format and draw this conclusion from the data. They are then more invested in understanding cases of *sex role reversed species* that are the exceptions to this rule, and have \"caring males\" and \"competitive females.\" \n\nIn part 2, students follow in the footsteps of an early career Latina scientist, Dr. Johana Goyes Vallejos, testing the same hypotheses she did during her PhD research. Students analyze a real graph and table she collected on the island of Borneo to determine if the Smooth Guardian Frog (*Limnonectes palavanensis*) is the first sex-role-reversed frog species known to science. (It is!) \n#### Research Background\n Watch [▶'Do Female Frogs Call?'](https://www.youtube.com/watch?v=eX5abcrmE7g&t=170s) to get a nice summary of Dr. Johana Goyes Vallejos’ scientific journey.\n\nWhile pursuing a PhD in ecology and evolutionary biology at the University of Connecticut, Johana heard about a poorly studied frog called the Smooth Guardian Frog (*Limnonectes palavanensis*), found only on the island of Borneo in Southeast Asia. In a couple of scientific papers in the 1980s, a researcher had described a highly unusual behavior--the males guard eggs hidden under the leaf litter (thus, the common name of the species). When the eggs hatch, the male then carries the tadpoles (on his back!) to small pools of water where they can develop into adult frogs.\nJohana, who was deeply interested in parental care behavior decided to fly to the tiny sultanate of Brunei (ruled by a sultan, rather than a king) and learn about this frog herself. She established a study population, tracking individuals and recording audio of frog calls, often on her own at night, wading through thick mud and fording streams. During her observations, she noticed a tiny peep. It sounded very different from the male calls she had been used to hearing. After careful observation, she confirmed that indeed, these were female calls, which had never been described before by anyone. (See [▶'Calling behavior of male and female Guardian Frogs'](https://www.youtube.com/watch?v=LAqSHDdTKMw))\n\nOut of 8,000+ known frog species, Johana had found one of only a couple that are known to have calling females. Previously, scientists had thought females might be physiologically incapable of producing calls. In contrast, when she started focusing on female calling behavior, she found that they were actually calling *more* than males! Students will recapitulate this finding by analyzing a figure showing male and female calling rates.\n\nAs [Borneo is now being heavily deforested](https://en.wikipedia.org/wiki/Deforestation_in_Borneo), populations of Guardian Frogs are declining. In the final assignment, students are asked to synthesize everything they’ve learned to write a persuasive paragraph about why these exceptional frogs matter and what we stand to lose if they are lost. \n\n#### Researcher Bio\nDr. Johana Goyes Vallejos is a Preparing Future Faculty for Faculty Diversity Postdoctoral Fellow in the Division of Biological Sciences at the University of Missouri, Columbia. She graduated with a B.Sc. in Biology with a minor in Genetics from the Universidad del Valle in Cali, Colombia. She received her Ph.D. in Ecology and Evolutionary Biology from the\nUniversity of Connecticut, studying mating systems, parental care behavior, and acoustic\ncommunication in frogs. Her research has taken her to many tropical forests across the\nworld, including Panama, Costa Rica, Guyana, the Philippines, Malaysia and Brunei\nDarussalam. \n\nAt the University of Missouri, Dr. Goyes Vallejos continues her research on\nmating behavior and parental care strategies using frogs with elaborate parental behaviors\nas study systems. In addition, since 2018, she serves as a research mentor for an NSF-\nfunded Research Experience for Undergraduates program in Costa Rica, providing\nhands-on training in animal behavior and field research to undergraduate students\nbelonging to minoritized groups in STEM. She is passionate about sharing her research findings with scientific and non-scientific audiences through various media outlets. When not chasing frogs in remote forests around the world Dr. Goyes Vallejos enjoys salsa dancing, storytelling and crocheting amigurumis. \n\n[Learn more about Johana at her website](https://jogoyesvallejos.weebly.com/)\n\n#### Further Reading and Listening\n- [The Shape of The World Podcast: When the girl frog sings](https://shapeoftheworldshow.com/2019/05/04/episode-10-when-the-girl-frog-sings/) (May 2019)\n- [FrogLife.org| Female communication in anurans: duets, ultrasonic calls and sex-role reversal](http://www.froglife.org/2019/08/29/croaking-science-female-communication-in-anurans-duets-ultrasonic-calls-and-sex-role-reversal/) (August 2019)\n- [National Geographic España| Los padrazos del mundo de los anfibios](https://www.nationalgeographic.com.es/ciencia/grandes-reportajes/padrazos-mundo-anfibios_13763) (March 2019)\n- [The New York Times| ​Devoted Dads of the Amphibian World](https://www.nytimes.com/2018/12/04/science/frogs-parenting-reproduction.html) (December 2018)\n- [KU Today| Extraordinary 'faithful father' revealed by study of smooth guardian frog of Borneo](https://today.ku.edu/2018/12/13/research-smooth-guardian-frog-borneo-details-extraordinary-faithful-father) (December 2018)\n- [Science Magazine: These female frogs are the first of their kind to croon to their guys](http://www.sciencemag.org/news/2017/06/these-female-frogs-are-first-their-kind-croon-their-guys)​ (June 2017)\n- [Science & Vie| Chez la grenouille de Bornéo, c'est madame qui chante](https://www.science-et-vie.com/nature-et-enviro/chez-la-grenouille-de-borneo-c-est-madame-qui-chante-8925) (June 2017)\n\n#### Related Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=doi.org%2F10.1007%2Fs00265-017-2323-3&btnG=)\n",
       "InitiallyExpanded": true
     },
     "standards-header": {

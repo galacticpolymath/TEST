@@ -158,7 +158,90 @@
         "partTitle": "Let's Go to Borneo!",
         "partDur": null,
         "partPreface": "Students use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
-        "chunks": []
+        "chunks": [
+          {
+            "chunkTitle": "Where in the world is Borneo?",
+            "chunkStart": 0,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 1,
+                "StepTitle": "Immersion in a tropical forest",
+                "StepQuickDescription": "As students are streaming into the class, have Slide 2 playing [▶'Borneo Atmospheric Video'](https://www.youtube.com/watch?v=G7xvfIhL6bU) with sound on :loud_sound:",
+                "StepDetails": "This looping video alternates between showing a planetary view of where we're going in this trip to sights and sounds from the field.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": "The graphic scrolling along the bottom of the video is a sound [*spectrogram*](https://en.wikipedia.org/wiki/Spectrogram). It shows frequency along the vertical Y axis and time scrolling along the X axis."
+              },
+              {
+                "Step": 2,
+                "StepTitle": "Geopolitical boundaries",
+                "StepQuickDescription": null,
+                "StepDetails": "A few slides check in with your students' geographical knowledge and show the 3 countries that claim the island of [Borneo](https://en.wikipedia.org/wiki/Borneo): Malaysia, Indonesia, and the tiny sultanate of Brunei. The rest of the lesson will focus on the research Dr. Johana Goyes Vallejos conducted in Brunei.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Quick Review",
+            "chunkStart": 10,
+            "chunkDur": 5,
+            "steps": [
+              {
+                "Step": 3,
+                "StepTitle": "What did we learn yesterday?",
+                "StepQuickDescription": "Slides prompt a quick review of the general pattern that students found in their data in Part 2.",
+                "StepDetails": "Here we introduce the term *sex roles* and *conventional sex roles* in particular to describe the finding that in 75% of the species we looked at in Parts 1-2, males were \"competitive\" and females were \"caring.\" We then highlight the exceptional species (pipefish, jacanas, and guardian frogs).",
+                "Vocab": "- **sex roles:** in nonhuman animals, behaviors and attributes that typically apply to one sex or the other\n- **conventional sex roles:** \"caring females\" and \"competitive males\"; the pattern in most animal species wherein females contribute more to ensure the survival of offspring, while males spend more effort toward attracting and competing for mates\n- **sex-role-reversal:** \"caring males\" and \"competitive females\"; this is a less common pattern among animals, in which males contribute more to parental care and females compete for access to mates",
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Setting Up for Student Analysis",
+            "chunkStart": 15,
+            "chunkDur": 10,
+            "steps": [
+              {
+                "Step": 4,
+                "StepTitle": "Watch Video",
+                "StepQuickDescription": "Students learn about Johana and the motivations for her research with [▶'Calling behavior of male and female Guardian Frogs'](https://www.youtube.com/watch?v=LAqSHDdTKMw)",
+                "StepDetails": "This video sets up the background information and sets up the driving question for Part 3: \"Is the Smooth Guardian Frog fo Borneo the first sex-role-reversed frog species known to science?\"",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              },
+              {
+                "Step": 5,
+                "StepTitle": "Introduce the criteria for sex role reversal",
+                "StepQuickDescription": null,
+                "StepDetails": "Students will determine if the Guardian Frogs meet a set of 3 criteria to be considered the first sex role reversed frog species. Two are provided in the background information (Males are known to provide parental care by guarding eggs and transporting tadpoles to water; females are also known to call, which is normally a trait only found in males). Students will spend the rest of the class time testing out the third criteria: Do females signal more often than males?",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          },
+          {
+            "chunkTitle": "Independent Work",
+            "chunkStart": 25,
+            "chunkDur": 20,
+            "steps": [
+              {
+                "Step": 6,
+                "StepTitle": "Students complete the worksheet packet on their own",
+                "StepQuickDescription": "Students add missing labels to a graph of male and female call rates.",
+                "StepDetails": "In order to complete the primary task, students will have to compare the units of the X and Y axis on a scatter plot to the values in the table in order to figure out how to label the figure. They will also have to compare the relative values of males and females in order to label the legend key. Once they have figured out the main task, students are asked to interpret whether the data meet criterion 3: that females call more than males (they do). Finally, students are asked to write a persuasive paragraph synthesizing what they have learned to  explain why guardian frogs deserve more research funding and what will be lost if they are allowed to go extinct.",
+                "Vocab": null,
+                "VariantNotes": null,
+                "TeachingTips": null
+              }
+            ]
+          }
+        ]
       }
     ]
   }

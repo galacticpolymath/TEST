@@ -10,7 +10,7 @@
           "itemsGroup": [
             {
               "item": "Presentation",
-              "itemExplanation": "x 2 Parts"
+              "itemExplanation": "x 2 (for Parts 1&2 and Part 3)"
             }
           ]
         },
@@ -20,11 +20,11 @@
           "itemsGroup": [
             {
               "item": "Teacher Worksheet",
-              "itemExplanation": "x 2 Parts"
+              "itemExplanation": "x 2 (for Parts 1&2 and Part 3)"
             },
             {
               "item": "Student Worksheet",
-              "itemExplanation": "x 2 Parts"
+              "itemExplanation": "x 2 (for Parts 1&2 and Part 3)"
             },
             {
               "item": "\"Role With It Cards\"",
@@ -73,7 +73,50 @@
               "part": 1,
               "title": "Defining a Pattern in Nature",
               "preface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy. Don't be intimidated by the length of the presentation–you will zip through the slides! In Part 2, students will analyze this data.",
-              "itemList": null
+              "itemList": [
+                {
+                  "itemTitle": "Student Worksheet for Parts 1 & 2",
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet for Parts 1 & 2",
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
+                    },
+                    {
+                      "linkText": "ERROR: 'Copy to My Google Drive' link missing",
+                      "url": null
+                    }
+                  ]
+                }
+              ]
             },
             {
               "part": 2,
