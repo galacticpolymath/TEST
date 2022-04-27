@@ -30,6 +30,13 @@
           "summary": "Tweaks to acknowledgments & procedure",
           "notes": null,
           "acknowledgments": null
+        },
+        {
+          "version": "1.0.2",
+          "date": "Apr 26, 2022",
+          "summary": "Reorganized P2: Table 2 to match Table 1 order.",
+          "notes": null,
+          "acknowledgments": "Wilkins found this error when teaching 7th grade class."
         }
       ]
     }
