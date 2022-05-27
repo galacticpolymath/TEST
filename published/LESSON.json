@@ -4,7 +4,7 @@
   "TemplateVer": "0.2.8",
   "galacticPubsVer": "0.6.9",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-04-27 13:43:35",
+  "LastUpdated": "2022-05-27 09:47:24",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
   "PublicationStatus": "Live",
@@ -24,9 +24,9 @@
     "overview": {
       "__component": "lesson-plan.overview",
       "EstLessonTime": "150 min. (~3 classes)",
-      "ForGrades": "5-8",
+      "ForGrades": "5-9",
       "TargetSubject": "Science",
-      "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Learning Objective(s):\n1. Explain how animal behavior facilitates in survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Understand that biological data are variable.\n4. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why biological exceptions matter to science and society.\n\n#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist + use of authentic data \n",
+      "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Learning Objective(s):\n1. Explain how animal behavior facilitates survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Understand that there is always variability in scientific data.\n4. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why biological exceptions matter to science and society.\n\n#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist + use of authentic data \n",
       "Tags": [
         {
           "Value": "sex differences"
@@ -183,11 +183,11 @@
           "gradeVariantNotes": null,
           "resources": [
             {
-              "grades": "Grades 5-8",
-              "gradePrefix": "G5-8",
+              "grades": "Grades 44690",
+              "gradePrefix": "G44690",
               "links": {
-                "linkText": "Download G5-8 Materials for All Parts",
-                "url": "https://drive.google.com/drive/folders/1tY4ukKZxi4QfjfFwfHJIrsqK02oBhjFm"
+                "linkText": [],
+                "url": []
               },
               "parts": [
                 {
@@ -552,7 +552,7 @@
                     "StepQuickDescription": "Students add missing labels to a graph of male and female call rates.",
                     "StepDetails": "In order to complete the primary task, students will have to compare the units of the X and Y axis on a scatter plot to the values in the table in order to figure out how to label the figure. They will also have to compare the relative values of males and females in order to label the legend key. Once they have figured out the main task, students are asked to interpret whether the data meet criterion 3: that females call more than males (they do). Finally, students are asked to write a persuasive paragraph synthesizing what they have learned to  explain why guardian frogs deserve more research funding and what will be lost if they are allowed to go extinct.",
                     "Vocab": null,
-                    "VariantNotes": null,
+                    "VariantNotes": "If you'd like to have students refer to outside resources for their final essay, you can assign one of the articles listed in [the Background Section](#background).",
                     "TeachingTips": "When you finish teaching this lesson, we would really love to hear what you thought! Please fill out a simple survey in the Feedback section below."
                   }
                 ]
@@ -888,6 +888,13 @@
               "summary": "Reorganized P2: Table 2 to match Table 1 order.",
               "notes": null,
               "acknowledgments": "Wilkins found this error when teaching 7th grade class."
+            },
+            {
+              "version": "1.0.3",
+              "date": "May 26, 2022",
+              "summary": "Tweaks to worksheets and expanded to G5-9",
+              "notes": null,
+              "acknowledgments": "Erica Valerie suggested changes, all of which were incorporated. "
             }
           ]
         }

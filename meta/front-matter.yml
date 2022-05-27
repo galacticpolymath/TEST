@@ -3,7 +3,7 @@ ShortTitle: guardianFrogs
 TemplateVer: 0.2.8
 galacticPubsVer: 0.6.9
 FirstPublicationDate: 2022-04-01 15:16:29
-LastUpdated: 2022-04-27 13:43:35
+LastUpdated: 2022-05-27 09:47:24
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
 PublicationStatus: Live
@@ -18,14 +18,14 @@ SponsorLogo: assets/orig-client-media_NoEdit/MU_bio_logo.png
 LessonBanner: assets/banners_etc/banner.png
 TargetSubject: Science
 LessonEnvir: Classroom
-ForGrades: 5-8
+ForGrades: 5-9
 EstLessonTime: 150 min. (~3 classes)
 LearningEpaulette: assets/learning-plots/GP-Learning-Epaulette.png
 LearningEpaulette_vert: assets/learning-plots/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 101
 LearningChart: assets/learning-plots/GP-Learning-Chart.png
-LearningChart_params_centralText: grades\n5-8
+LearningChart_params_centralText: grades\n5-9
 LearningChart_params_caption: ''
 LearningChart_params_captionN: no
 SupportingMedia: assets/supporting-media/goyespaper.png
@@ -36,9 +36,9 @@ EssentialQ: |-
   - How can we use scientific methods to identify a general pattern?
   - Why do exceptions matter in science and in life?
 LearningObj: |
-  1. Explain how animal behavior facilitates in survival and reproduction.
+  1. Explain how animal behavior facilitates survival and reproduction.
   2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.
-  3. Understand that biological data are variable.
+  3. Understand that there is always variability in scientific data.
   4. Learn to test hypotheses by interpreting authentic scientific graphs and data.
   5. Cite evidence to support explanatory claims.
   6. Integrate multiple lines of evidence to explain why biological exceptions matter to science and society.
