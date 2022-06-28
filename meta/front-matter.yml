@@ -5,10 +5,10 @@ Country: United States
 lang: en
 lng: eng
 locale: en-US
-TemplateVer: 0.3.1
-galacticPubsVer: 0.7.4
+TemplateVer: 0.3.3
+galacticPubsVer: 0.8.0
 FirstPublicationDate: 2022-04-01 15:16:29
-LastUpdated: 2022-06-15 20:03:36
+LastUpdated: 2022-06-28 17:04:00
 URL: https://galacticpolymath.com/lessons/2
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
@@ -25,6 +25,7 @@ LessonBanner: assets/banners_etc/banner.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 5-9
+GradesOrYears: Grades
 EstLessonTime: 150 min. (~3 classes)
 LearningEpaulette: assets/learning-plots/GP-Learning-Epaulette.png
 LearningEpaulette_vert: assets/learning-plots/GP-Learning-Epaulette_vert.png
@@ -41,6 +42,12 @@ DrivingQ: |-
 EssentialQ: |-
   - How can we use scientific methods to identify a general pattern?
   - Why do exceptions matter in science and in life?
+Hooks: ''
+LearningSummary: ''
+MiscMD: "#### Hooks\n- Part 1: Highly interactive card-based activity that simulates
+  data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo,
+  first person narrative of an early career Latina scientist + use of authentic data
+  \n"
 LearningObj: |
   1. Explain how animal behavior facilitates survival and reproduction.
   2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.
@@ -48,10 +55,6 @@ LearningObj: |
   4. Understand that there is always variability in scientific data.
   5. Cite evidence to support explanatory claims.
   6. Integrate multiple lines of evidence to explain why biological exceptions matter to science and society.
-MiscMD: "#### Hooks\n- Part 1: Highly interactive card-based activity that simulates
-  data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo,
-  first person narrative of an early career Latina scientist + use of authentic data
-  \n"
 Tags:
 - sex differences
 - frogs

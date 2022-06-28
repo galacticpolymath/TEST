@@ -89,34 +89,6 @@
                   ]
                 },
                 {
-                  "itemTitle": "Student Worksheet for Parts 1 & 2",
-                  "itemCat": null,
-                  "links": [
-                    {
-                      "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Teacher Worksheet for Parts 1 & 2",
-                  "itemCat": null,
-                  "links": [
-                    {
-                      "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/"
-                    }
-                  ]
-                },
-                {
                   "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
                   "itemCat": null,
                   "links": [
@@ -158,7 +130,7 @@
                   ]
                 },
                 {
-                  "itemTitle": "Student Worksheet",
+                  "itemTitle": null,
                   "itemCat": null,
                   "links": [
                     {
@@ -172,7 +144,7 @@
                   ]
                 },
                 {
-                  "itemTitle": "Teacher Worksheet",
+                  "itemTitle": null,
                   "itemCat": null,
                   "links": [
                     {
