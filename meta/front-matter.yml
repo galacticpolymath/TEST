@@ -6,9 +6,9 @@ lang: en
 lng: eng
 locale: en-US
 TemplateVer: 0.3.3
-galacticPubsVer: 0.8.0
+galacticPubsVer: 0.8.1
 FirstPublicationDate: 2022-04-01 15:16:29
-LastUpdated: 2022-06-29 15:33:05
+LastUpdated: 2022-06-30 11:50:14
 URL: https://galacticpolymath.com/lessons/2
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
@@ -86,8 +86,8 @@ Description: "This lesson puts students in the role of scientists, collecting an
   the first frog known to have \"caring males\" and \"competitive females.\" \n\nThe
   lesson offers a wide variety of opportunities for student movement, collaboration,
   creativity, and active engagement.\n"
-QuickPrep: |
-  1. Check out lesson multimedia above
+QuickPrep: |-
+  1. Check out lesson multimedia below
   2. Look over [Teaching Materials](#teaching_materials)
   3. Read our easy [Procedure](#procedure)
   4. Teach it and [let us know what you think!](#feedback)
