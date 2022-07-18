@@ -89,6 +89,34 @@
                   ]
                 },
                 {
+                  "itemTitle": "STUDENT Worksheet (P1&2)",
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "TEACHER Worksheet (P1&2)",
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/template/preview"
+                    }
+                  ]
+                },
+                {
                   "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
                   "itemCat": null,
                   "links": [
@@ -97,8 +125,8 @@
                       "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
                     },
                     {
-                      "linkText": "ERROR: 'Copy to My Google Drive' link missing",
-                      "url": null
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
                     }
                   ]
                 }
@@ -125,12 +153,12 @@
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/template/preview"
+                      "url": "https://docs.google.com/presentation/d/1xbdlYA0wENBzUntjVrTTbD3arBFSrBhi5-gMCX5wmiA/template/preview"
                     }
                   ]
                 },
                 {
-                  "itemTitle": null,
+                  "itemTitle": "STUDENT Worksheet (P3)",
                   "itemCat": null,
                   "links": [
                     {
@@ -139,12 +167,12 @@
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1pFSciyHTTZclKGkx8qYPAvp8n_dXXR00I7IGLHCUOQI/"
+                      "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/template/preview"
                     }
                   ]
                 },
                 {
-                  "itemTitle": null,
+                  "itemTitle": "TEACHER Worksheet (P3)",
                   "itemCat": null,
                   "links": [
                     {
@@ -153,7 +181,7 @@
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1pUnNjrLkayEH_1K1iulty1cXUvgHyXWgZ-oofdWXgKA/"
+                      "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/template/preview"
                     }
                   ]
                 }
