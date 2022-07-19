@@ -12,7 +12,7 @@
   "TemplateVer": "0.3.4",
   "galacticPubsVer": "0.8.6",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-07-18 21:09:52",
+  "LastUpdated": "2022-07-19 15:21:26",
   "URL": "https://galacticpolymath.com/lessons/2",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
@@ -221,35 +221,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "STUDENT Worksheet (P1&2)",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "TEACHER Worksheet (P1&2)",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
+                      "itemTitle": "STUDENT Worksheet (P3)",
                       "itemCat": null,
                       "links": [
                         {
@@ -257,8 +229,8 @@
                           "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
+                          "linkText": "ERROR: 'Copy to My Google Drive' link missing",
+                          "url": null
                         }
                       ]
                     }
@@ -290,7 +262,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "STUDENT Worksheet (P3)",
+                      "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
                       "itemCat": null,
                       "links": [
                         {
@@ -299,12 +271,12 @@
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1pFSciyHTTZclKGkx8qYPAvp8n_dXXR00I7IGLHCUOQI/template/preview"
+                          "url": "https://docs.google.com/document/d/1pFSciyHTTZclKGkx8qYPAvp8n_dXXR00I7IGLHCUOQI/"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "TEACHER Worksheet (P3)",
+                      "itemTitle": "TEACHER Worksheet (P1&2)",
                       "itemCat": null,
                       "links": [
                         {
@@ -313,7 +285,7 @@
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1pUnNjrLkayEH_1K1iulty1cXUvgHyXWgZ-oofdWXgKA/template/preview"
+                          "url": "https://docs.google.com/document/d/1pUnNjrLkayEH_1K1iulty1cXUvgHyXWgZ-oofdWXgKA/"
                         }
                       ]
                     }
