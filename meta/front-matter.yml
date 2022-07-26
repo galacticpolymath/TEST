@@ -9,9 +9,9 @@ lng: eng
 locale: en-US
 DefaultLocale: en-US
 TemplateVer: 0.3.4
-galacticPubsVer: 0.8.6
+galacticPubsVer: 0.8.7
 FirstPublicationDate: 2022-04-01 15:16:29
-LastUpdated: 2022-07-19 15:21:26
+LastUpdated: 2022-07-26 17:59:08
 URL: https://galacticpolymath.com/lessons/2
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
@@ -36,7 +36,7 @@ LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 107
 LearningChart: assets/learning-plots/GP-Learning-Chart.png
 LearningChart_params_centralText: grades\n5-9
-LearningChart_params_caption: ''
+LearningChart_params_caption: .na
 LearningChart_params_captionN: no
 SupportingMedia: assets/supporting-media/goyespaper.png
 DrivingQ: |-
@@ -45,8 +45,8 @@ DrivingQ: |-
 EssentialQ: |-
   - How can we use scientific methods to identify a general pattern?
   - Why do exceptions matter in science and in life?
-Hooks: ''
-LearningSummary: ''
+Hooks: .na
+LearningSummary: .na
 MiscMD: "#### Hooks\n- Part 1: Highly interactive card-based activity that simulates
   data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo,
   first person narrative of an early career Latina scientist + use of authentic data
@@ -94,8 +94,8 @@ QuickPrep: |-
   2. Look over [Teaching Materials](#teaching_materials)
   3. Read our easy [Procedure](#procedure)
   4. Teach it and [let us know what you think!](#feedback)
-Bonus: ''
-Extensions: ''
+Bonus: .na
+Extensions: .na
 Background: "Watch {vid3} to get a nice summary of Dr. Johana Goyes Vallejos’ scientific
   journey.\n\nWhile pursuing a PhD in ecology and evolutionary biology at the University
   of Connecticut, Johana heard about a poorly studied frog called the Smooth Guardian
@@ -173,7 +173,7 @@ Credits: "#### Lead Author and Creative Director:\nMatt Wilkins, PhD  \nIf you l
   to hear what’s coming up next!\n\n#### Sponsor and Producer\n[Johana Goyes Vallejos,
   PhD](https://jogoyesvallejos.weebly.com/)\n\n#### \"Role with It\" Animal Diversity
   Cards Illustrator\n[Anna Wilkins](https://www.annamationvisdev.com)"
-ScriptsToRun: ''
+ScriptsToRun: .na
 ReadyToCompile:
 - Front Matter
 - Standards Alignment
