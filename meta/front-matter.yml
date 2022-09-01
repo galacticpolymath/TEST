@@ -1,4 +1,5 @@
 id: 2
+UniqueID: .na
 ShortTitle: guardianFrogs
 Language: English
 Country: United States
@@ -8,10 +9,10 @@ lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.3.4
-galacticPubsVer: 0.8.8
+TemplateVer: 0.3.7
+galacticPubsVer: 0.8.9
 FirstPublicationDate: 2022-04-01 15:16:29
-LastUpdated: 2022-08-03 19:16:30
+LastUpdated: 2022-08-31 22:44:15
 URL: https://galacticpolymath.com/lessons/2
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
@@ -23,22 +24,25 @@ Subtitle: Why Exceptions Matter in Biology and Everyday Life
 SponsorName: Johana Goyes Vallejos
 SponsoredBy: '- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/)
   — Postdoc in the Division of Biological Sciences, University of Missouri – Columbia'
-SponsorLogo: assets/orig-client-media_NoEdit/MU_bio_logo.png
-LessonBanner: assets/banners_etc/banner.png
+SponsorLogo: assets/_banners_logos_etc/MU_bio_logo.png
+LessonBanner: assets/_banners_logos_etc/banner.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 5-9
 GradesOrYears: Grades
 EstLessonTime: 150 min. (~3 classes)
-LearningEpaulette: assets/learning-plots/GP-Learning-Epaulette.png
-LearningEpaulette_vert: assets/learning-plots/GP-Learning-Epaulette_vert.png
+PullStandardsInfoFrom: standardX
+LearningPlotCorrection: yes
+LearningChartFriendly: yes
+LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
+LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 107
-LearningChart: assets/learning-plots/GP-Learning-Chart.png
+LearningChart: assets/_learning-plots/GP-Learning-Chart.png
 LearningChart_params_centralText: grades\n5-9
 LearningChart_params_caption: .na
 LearningChart_params_captionN: no
-SupportingMedia: assets/supporting-media/goyespaper.png
+SupportingMedia: assets/_other-media-to-publish/goyespaper.png
 DrivingQ: |-
   - Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?
   - Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?
@@ -46,7 +50,10 @@ EssentialQ: |-
   - How can we use scientific methods to identify a general pattern?
   - Why do exceptions matter in science and in life?
 Hooks: .na
-LearningSummary: .na
+LearningSummary: Out of 8,000+ frog species, Guardian Frogs are one of the first to
+  show females that call & males that care for offspring. Students will gain wonder
+  and appreciation for how diverse animal mating systems are while doing fun activities
+  and analyzing real data.
 MiscMD: "#### Hooks\n- Part 1: Highly interactive card-based activity that simulates
   data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo,
   first person narrative of an early career Latina scientist + use of authentic data
