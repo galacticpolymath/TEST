@@ -11,9 +11,9 @@
   "locale": "en-US",
   "DefaultLocale": "en-US",
   "TemplateVer": "0.3.7",
-  "galacticPubsVer": "0.8.9",
+  "galacticPubsVer": "0.9.3",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-09-01 08:58:37",
+  "LastUpdated": "2022-09-08 22:54:59",
   "URL": "https://galacticpolymath.com/lessons/2",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
@@ -58,14 +58,13 @@
           "Value": "sexual selection"
         }
       ],
-      "LearningObj": "1. Explain how animal behavior facilitates survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n4. Understand that there is always variability in scientific data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why biological exceptions matter to science and society.\n",
       "SteamEpaulette": {
         "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette.png"
       },
       "SteamEpaulette_vert": {
-        "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette_vert.png",
-        "Description": "This lesson puts students in the role of scientists, collecting and analyzing real data to answer questions. In Part 1, students \"collect\" data through a card-based activity called \"Role With It.\" Briefly, students get a male or female card of 1 out of 12 species. When their card is called, students introduce it with a \"song\" and dance that match the attributes of the species it represents. The class then records data on sexual signal exaggeration and parental investment for that species. \n\nOnce they have collected all 24 specimens (cards) students analyze this data (for Part 2) to generate a general observation: \"across nonhuman animal species, females tend to be more caring (contributing more parental investment), while males tend to be more adapted to attracting and competing for mates.\" These are known as *conventional sex roles.* Students then identify *sex-role-reversed species,* such as jacanas (a bird) and guardian frogs, which have \"caring males\" and \"competitive females\".\n\nPart 3 lets students use real data to test whether the Smooth Guardian Frog (*Limnonectes palavenensis*) is truly the first known sex-role-reversed frog species, with \"caring males\" and \"competitive females\". The lesson begins with an atmospheric video that immerses students in the sights, sounds, and mysteries of the island of Borneo. Students are then given a brief introduction to the geography of the region and learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes Vallejos' research in the forests of Brunei. Students test hypotheses by synthesizing information and analyzing a scatter plot to determine that this fascinating species is indeed the first frog known to have \"caring males\" and \"competitive females.\" \n\nThe lesson offers a wide variety of opportunities for student movement, collaboration, creativity, and active engagement.\n"
-      }
+        "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette_vert.png"
+      },
+      "Description": "This lesson puts students in the role of scientists, collecting and analyzing real data to answer questions. In Part 1, students \"collect\" data through a card-based activity called \"Role With It.\" Briefly, students get a male or female card of 1 out of 12 species. When their card is called, students introduce it with a \"song\" and dance that match the attributes of the species it represents. The class then records data on sexual signal exaggeration and parental investment for that species. \n\nOnce they have collected all 24 specimens (cards) students analyze this data (for Part 2) to generate a general observation: \"across nonhuman animal species, females tend to be more caring (contributing more parental investment), while males tend to be more adapted to attracting and competing for mates.\" These are known as *conventional sex roles.* Students then identify *sex-role-reversed species,* such as jacanas (a bird) and guardian frogs, which have \"caring males\" and \"competitive females\".\n\nPart 3 lets students use real data to test whether the Smooth Guardian Frog (*Limnonectes palavenensis*) is truly the first known sex-role-reversed frog species, with \"caring males\" and \"competitive females\". The lesson begins with an atmospheric video that immerses students in the sights, sounds, and mysteries of the island of Borneo. Students are then given a brief introduction to the geography of the region and learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes Vallejos' research in the forests of Brunei. Students test hypotheses by synthesizing information and analyzing a scatter plot to determine that this fascinating species is indeed the first frog known to have \"caring males\" and \"competitive females.\" \n\nThe lesson offers a wide variety of opportunities for student movement, collaboration, creativity, and active engagement.\n"
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -260,6 +259,20 @@
                         {
                           "linkText": "Copy to My Google Drive",
                           "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "(P1)",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1Q37IPnIAQPkdTgCT-icgFsLeu9-JXB_OJKVx7yYLIP0/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1Q37IPnIAQPkdTgCT-icgFsLeu9-JXB_OJKVx7yYLIP0/template/preview"
                         }
                       ]
                     }
@@ -587,14 +600,15 @@
     "learning-chart": {
       "__component": "lesson-plan.learning-chart",
       "Title": "About the GP Learning Chart",
-      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are  standards across US grade band(s): .",
-      "Footnote": "**Notes on Standards**\n\n*Standards are broken down into ***Target*** and ***Connected*** categories. Target standards are directly reinforced or taught; connected standards are not fully addressed in the lesson, but connected enough to provide a foundation for teachers to build upon.",
+      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 18 standards across US grade band(s): 9-12, 5-6, 7-8.",
+      "Footnote": "",
       "Badge": {
         "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Chart.png"
       }
     },
     "standards": {
       "__component": "lesson-plan.standards",
+      "LearningObj": "1. Explain how animal behavior facilitates survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n4. Understand that there is always variability in scientific data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why biological exceptions matter to science and society.\n",
       "Data": [
         {
           "subject": "Math",
@@ -648,7 +662,7 @@
                   "standardsGroup": [
                     {
                       "codes": "SL.6.2",
-                      "grades": "06",
+                      "grades": "6",
                       "statements": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
                       "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
                       "subcat": null

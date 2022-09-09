@@ -1,5 +1,6 @@
 {
   "__component": "lesson-plan.standards",
+  "LearningObj": "1. Explain how animal behavior facilitates survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n4. Understand that there is always variability in scientific data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why biological exceptions matter to science and society.\n",
   "Data": [
     {
       "subject": "Math",
@@ -53,7 +54,7 @@
               "standardsGroup": [
                 {
                   "codes": "SL.6.2",
-                  "grades": "06",
+                  "grades": "6",
                   "statements": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
                   "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
                   "subcat": null
