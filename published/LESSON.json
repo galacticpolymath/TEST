@@ -10,10 +10,10 @@
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.3.7",
+  "TemplateVer": "0.3.8",
   "galacticPubsVer": "0.9.4",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-09-19 11:26:56",
+  "LastUpdated": "2022-11-17 12:00:36",
   "URL": "https://galacticpolymath.com/lessons/2",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
@@ -300,20 +300,6 @@
                         {
                           "linkText": "Copy to My Google Drive",
                           "url": "https://docs.google.com/document/d/1pFSciyHTTZclKGkx8qYPAvp8n_dXXR00I7IGLHCUOQI/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "TEACHER Worksheet (P3)",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1pUnNjrLkayEH_1K1iulty1cXUvgHyXWgZ-oofdWXgKA/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1pUnNjrLkayEH_1K1iulty1cXUvgHyXWgZ-oofdWXgKA/template/preview"
                         }
                       ]
                     },
