@@ -3,193 +3,755 @@
   "SectionTitle": "Teaching Materials",
   "Data": {
     "classroom": {
-      "resourceSummary": [
+      "gradeVariantNotes": [
         {
-          "nItems": 1,
-          "itemCat": "Digital Items",
-          "itemsGroup": [
-            {
-              "item": "Presentation",
-              "itemExplanation": "x 2 (for Parts 1&2 and Part 3)"
-            }
-          ]
+          "part": "1",
+          "partGradeVarNotes": null
         },
         {
-          "nItems": 3,
-          "itemCat": "Printed Items",
-          "itemsGroup": [
-            {
-              "item": "Teacher Worksheet",
-              "itemExplanation": "x 2 (for Parts 1&2 and Part 3)"
-            },
-            {
-              "item": "Student Worksheet",
-              "itemExplanation": "x 2 (for Parts 1&2 and Part 3)"
-            },
-            {
-              "item": "\"Role With It Cards\"",
-              "itemExplanation": "(Class set for Part 1: Print enough so each student has at least 1)"
-            }
-          ]
+          "part": "2",
+          "partGradeVarNotes": null
         },
         {
-          "nItems": 5,
-          "itemCat": "Other Requirements",
-          "itemsGroup": [
-            {
-              "item": "Teacher's computer",
-              "itemExplanation": null
-            },
-            {
-              "item": "Internet Connection",
-              "itemExplanation": null
-            },
-            {
-              "item": "Projector",
-              "itemExplanation": null
-            },
-            {
-              "item": "Speakers",
-              "itemExplanation": null
-            },
-            {
-              "item": "Scissors",
-              "itemExplanation": "(for cutting out cards)"
-            }
-          ]
+          "part": "3",
+          "partGradeVarNotes": null
         }
       ],
-      "gradeVariantNotes": null,
-      "resources": [
-        {
-          "grades": "Grades 5-9",
-          "gradePrefix": "G5-9",
+      "resources": {
+        "5-6": {
+          "grades": "Grades 5-6",
+          "gradePrefix": "G5-6",
           "links": {
-            "linkText": "Download G5-9 Materials for All Parts",
-            "url": "https://drive.google.com/drive/folders/1tY4ukKZxi4QfjfFwfHJIrsqK02oBhjFm"
+            "linkText": "Download G5-6 Materials for All Parts",
+            "url": "https://drive.google.com/drive/folders/192ElgQxyg9izVE0obqD4gjIbw30_jDh-"
           },
-          "parts": [
-            {
-              "part": 1,
-              "title": "Defining a Pattern in Nature",
-              "preface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy. Don't be intimidated by the length of the presentation–you will zip through the slides! In Part 2, students will analyze this data.",
+          "parts": {
+            "1": {
+              "part": "1",
+              "title": "Why Do I Like That?",
+              "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
               "itemList": [
                 {
-                  "itemTitle": "Presentation",
+                  "itemTitle": "Presentation (Part 1)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now",
-                      "url": "https://docs.google.com/presentation/d/1xbdlYA0wENBzUntjVrTTbD3arBFSrBhi5-gMCX5wmiA/present"
+                      "linkText": "Present Now (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/16Rt_jIkLXuTp2iE9sGKmiu8S1DgQ09PzDvCDY9OlNoA/present"
                     },
                     {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/presentation/d/1xbdlYA0wENBzUntjVrTTbD3arBFSrBhi5-gMCX5wmiA/template/preview"
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/16Rt_jIkLXuTp2iE9sGKmiu8S1DgQ09PzDvCDY9OlNoA/template/preview"
                     }
                   ]
                 },
                 {
-                  "itemTitle": "STUDENT Worksheet (P1&2)",
-                  "itemCat": null,
+                  "itemTitle": "Teacher Worksheet (Part 1)",
+                  "itemDescription": "Print 1 Copy",
+                  "itemCat": "document",
                   "links": [
                     {
-                      "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/export?format=pdf"
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1IsNwui58PWF3_cSEe3Bjdg7AcuIF0uADXUowo34vxbA/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/template/preview"
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1IsNwui58PWF3_cSEe3Bjdg7AcuIF0uADXUowo34vxbA/template/preview"
                     }
                   ]
                 },
                 {
-                  "itemTitle": "TEACHER Worksheet (P1&2)",
-                  "itemCat": null,
+                  "itemTitle": "Student Worksheet (Part 1)",
+                  "itemDescription": "Print 1 per Student",
+                  "itemCat": "document",
                   "links": [
                     {
-                      "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/export?format=pdf"
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/12rxYRAuVjQBjqygfVPbM9IyecmJJ6LCGSz7IUlefHO4/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
-                  "itemCat": null,
-                  "links": [
-                    {
-                      "linkText": "PDF",
-                      "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
-                    },
-                    {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/12rxYRAuVjQBjqygfVPbM9IyecmJJ6LCGSz7IUlefHO4/template/preview"
                     }
                   ]
                 }
               ]
             },
-            {
-              "part": 2,
-              "title": "Analyzing Data from Part 1",
-              "preface": "Students organize, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
-              "itemList": null
-            },
-            {
-              "part": 3,
-              "title": "Let's Go to Borneo!",
-              "preface": "Students use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
+            "2": {
+              "part": "2",
+              "title": "The Perception of Beauty",
+              "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
               "itemList": [
                 {
-                  "itemTitle": "Presentation",
+                  "itemTitle": "Presentation (Part 2)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now",
-                      "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/present"
+                      "linkText": "Present Now (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1MuKAYLniZ1K9etoAv4Ja2_EEmDYn8APq2ZUAig6SCEE/present"
                     },
                     {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/template/preview"
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1MuKAYLniZ1K9etoAv4Ja2_EEmDYn8APq2ZUAig6SCEE/template/preview"
                     }
                   ]
                 },
                 {
-                  "itemTitle": "STUDENT Worksheet (P3)",
-                  "itemCat": null,
+                  "itemTitle": "Student Worksheet (Part 2)",
+                  "itemDescription": "Print 1 per Student",
+                  "itemCat": "document",
                   "links": [
                     {
-                      "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/1pFSciyHTTZclKGkx8qYPAvp8n_dXXR00I7IGLHCUOQI/export?format=pdf"
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1OJngiHOOP6jB316AxtDGeaWvei-nq2TC-2bfFUw_QBI/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1pFSciyHTTZclKGkx8qYPAvp8n_dXXR00I7IGLHCUOQI/template/preview"
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1OJngiHOOP6jB316AxtDGeaWvei-nq2TC-2bfFUw_QBI/template/preview"
                     }
                   ]
                 },
                 {
-                  "itemTitle": "TEACHER Worksheet (P3)",
-                  "itemCat": null,
+                  "itemTitle": "Teacher Worksheet (Part 2)",
+                  "itemDescription": "Print 1 Copy",
+                  "itemCat": "document",
                   "links": [
                     {
-                      "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/1pUnNjrLkayEH_1K1iulty1cXUvgHyXWgZ-oofdWXgKA/export?format=pdf"
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1fBYNc0yvfcEHwMerrVJaRJI_2pS-oE3WL4yCdQw1yu4/export?format=pdf"
                     },
                     {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1pUnNjrLkayEH_1K1iulty1cXUvgHyXWgZ-oofdWXgKA/template/preview"
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1fBYNc0yvfcEHwMerrVJaRJI_2pS-oE3WL4yCdQw1yu4/template/preview"
                     }
                   ]
                 }
               ]
-            }
-          ]
+            },
+            "3": {
+              "part": "3",
+              "title": "Creature Stats",
+              "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+              "itemList": [
+                {
+                  "itemTitle": "Table (Part 3)",
+                  "itemDescription": null,
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Download (DRAFT FILE)",
+                      "url": "https://docs.google.com/presentation/d/15kAbl6wURUarsd0zcRk2L2pgbipuDA0EdgOufBbSNNI"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/15kAbl6wURUarsd0zcRk2L2pgbipuDA0EdgOufBbSNNI/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Presentation (Part 3)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1ab7_5cvV97yuGAG185aIHw0Of3SuRczHXukxOFzAU54/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1ab7_5cvV97yuGAG185aIHw0Of3SuRczHXukxOFzAU54/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Part 3)",
+                  "itemDescription": "Print 1 Copy",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1QwKJsVLD9BZIsr_l_cXAX-cAEYCHos_2E3ChX7_0SSc/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1QwKJsVLD9BZIsr_l_cXAX-cAEYCHos_2E3ChX7_0SSc/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Part 3)",
+                  "itemDescription": "Print 1 per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1uX2Ap8nNK7Xx97uDuL5qnIfqxO0tubL29PHj5oh_I3g/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1uX2Ap8nNK7Xx97uDuL5qnIfqxO0tubL29PHj5oh_I3g/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            "part": "last",
+            "title": "Assessments",
+            "preface": "",
+            "itemList": [
+              {
+                "itemTitle": "Teacher Assessment",
+                "itemDescription": null,
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Student Assessment",
+                "itemDescription": null,
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Genetic Rescue Unit Assessment Rubric",
+                "itemDescription": null,
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "9-12": {
+          "grades": "Grades 9-12",
+          "gradePrefix": "G9-12",
+          "links": {
+            "linkText": "Download G9-12 Materials for All Parts",
+            "url": "https://drive.google.com/drive/folders/1GYe1ayZxTMKbRyMELDN0ejhsNENnm5yM"
+          },
+          "parts": {
+            "1": {
+              "part": "1",
+              "title": "Why Do I Like That?",
+              "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Part 1)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1r7nDwzvOiNYQ1YAIDFSs0ef4ADEApqygUh7Ph1Kk3vA/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1r7nDwzvOiNYQ1YAIDFSs0ef4ADEApqygUh7Ph1Kk3vA/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Part 1)",
+                  "itemDescription": "Print 1 Copy",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1hQABDSFZ0k1cOHmxodHPJ81UnllLBnKgqVlRa60fAGk/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1hQABDSFZ0k1cOHmxodHPJ81UnllLBnKgqVlRa60fAGk/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Part 1)",
+                  "itemDescription": "Print 1 per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1dToffqdaP8E_FqOCXPw5xv2ZCUVPqdXc2fE0M7ygUOk/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1dToffqdaP8E_FqOCXPw5xv2ZCUVPqdXc2fE0M7ygUOk/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            "2": {
+              "part": "2",
+              "title": "The Perception of Beauty",
+              "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Part 2)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1cXDG0OWQ-fe9nZulUDFbfnBkj9eSc3MrSzU_s2o2Ldc/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1cXDG0OWQ-fe9nZulUDFbfnBkj9eSc3MrSzU_s2o2Ldc/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Part 2)",
+                  "itemDescription": "Print 1 Copy",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1Oei1L5GKGwKZHB0sEoEB8LT1GMGFhV_IJmvGkq-nrzo/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1Oei1L5GKGwKZHB0sEoEB8LT1GMGFhV_IJmvGkq-nrzo/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Part 2)",
+                  "itemDescription": "Print 1 per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1LUUedpnoXmvd7nyPWDZMj-6JBJWIHjUu0U3KL70mVyo/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1LUUedpnoXmvd7nyPWDZMj-6JBJWIHjUu0U3KL70mVyo/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            "3": {
+              "part": "3",
+              "title": "Creature Stats",
+              "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Part 3)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1CI3ANxJGwEYrEccSIF2hSYKILELFBoVSiOWEWlRSzLE/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1CI3ANxJGwEYrEccSIF2hSYKILELFBoVSiOWEWlRSzLE/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Handout/ Table (Part 3)",
+                  "itemDescription": "Print Classroom Set",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/13L5ZblefCyq12xLTXZgqNyvFNgnJiiOZ4BMVgl9Zsh4/export/pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/13L5ZblefCyq12xLTXZgqNyvFNgnJiiOZ4BMVgl9Zsh4/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet (Part 3)",
+                  "itemDescription": "Print 1 Copy",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/12eV_YjKfMjOV8tyMQpe6n2Nun6mEU8Cd_WnIoF1i9Ds/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/12eV_YjKfMjOV8tyMQpe6n2Nun6mEU8Cd_WnIoF1i9Ds/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet (Part 3)",
+                  "itemDescription": "Print 1 per Student",
+                  "itemCat": "document",
+                  "links": [
+                    {
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1Nrk_a8Q_iEULbQ7lBJnSdZmt0IccXCei8ZAQURJMbxg/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/document/d/1Nrk_a8Q_iEULbQ7lBJnSdZmt0IccXCei8ZAQURJMbxg/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            "part": "last",
+            "title": "Assessments",
+            "preface": "",
+            "itemList": [
+              {
+                "itemTitle": "Teacher Assessment",
+                "itemDescription": null,
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Student Assessment",
+                "itemDescription": null,
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Genetic Rescue Unit Assessment Rubric",
+                "itemDescription": null,
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
+                  }
+                ]
+              }
+            ]
+          }
         }
-      ]
+      }
+    },
+    "remote": {
+      "gradeVariantNotes": [
+        {
+          "part": "1",
+          "partGradeVarNotes": null
+        },
+        {
+          "part": "2",
+          "partGradeVarNotes": null
+        },
+        {
+          "part": "3",
+          "partGradeVarNotes": null
+        }
+      ],
+      "resources": {
+        "5-6": {
+          "grades": "Grades 5-6",
+          "gradePrefix": "G5-6",
+          "links": {
+            "linkText": "Download G5-6 Materials for All Parts",
+            "url": "https://drive.google.com/drive/folders/166k3F4gRGx5905iG8DB9-fmhR_arYjpZ"
+          },
+          "parts": {
+            "1": {
+              "part": "1",
+              "title": "Why Do I Like That?",
+              "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Part 1)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1emRmg4TdT8ZzBfQzgUuz9YAKBYlOKoBrfJyxtu2ZH0g/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1emRmg4TdT8ZzBfQzgUuz9YAKBYlOKoBrfJyxtu2ZH0g/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            "2": {
+              "part": "2",
+              "title": "The Perception of Beauty",
+              "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Part 2)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1ToEX7DF6toEaK0PCTxbBXj0nofwa7SAiDHMRrSa8WAo/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1ToEX7DF6toEaK0PCTxbBXj0nofwa7SAiDHMRrSa8WAo/template/preview"
+                    }
+                  ]
+                }
+              ]
+            },
+            "3": {
+              "part": "3",
+              "title": "Creature Stats",
+              "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation (Part 3)",
+                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1DJ6d9nXNWYjVGReJDDg2r9Iu_fwydoKSxwj6m-Jr8kU/present"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1DJ6d9nXNWYjVGReJDDg2r9Iu_fwydoKSxwj6m-Jr8kU/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Table (Part 3)",
+                  "itemDescription": null,
+                  "itemCat": "docx",
+                  "links": [
+                    {
+                      "linkText": "Download (DRAFT FILE)",
+                      "url": "https://docs.google.com/document/d/1qrkUcljPbjadum24UZHO9e884js0nCUL"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https://docs.google.com/document/d/1qrkUcljPbjadum24UZHO9e884js0nCUL"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Table (Part 3)",
+                  "itemDescription": null,
+                  "itemCat": "docx",
+                  "links": [
+                    {
+                      "linkText": "Download (DRAFT FILE)",
+                      "url": "https://docs.google.com/document/d/1ggPJ_LVd6a6A5zmGNkgx95GeFcjwfTOk"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https://docs.google.com/document/d/1ggPJ_LVd6a6A5zmGNkgx95GeFcjwfTOk"
+                    }
+                  ]
+                }
+              ]
+            },
+            "part": "last",
+            "title": "Assessments",
+            "preface": "",
+            "itemList": [
+              {
+                "itemTitle": "Teacher Assessment",
+                "itemDescription": null,
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Student Assessment",
+                "itemDescription": null,
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Genetic Rescue Unit Assessment Rubric",
+                "itemDescription": null,
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "7-8": {
+          "grades": "Grades 7-8",
+          "gradePrefix": "G7-8",
+          "links": {
+            "linkText": "Download G7-8 Materials for All Parts",
+            "url": "https://drive.google.com/drive/folders/1xvdnIyQ2O0rlARr6R2Ig7Q0QZqK72g-j"
+          },
+          "parts": {
+            "3": {
+              "part": "3",
+              "title": "Creature Stats",
+              "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+              "itemList": [
+                {
+                  "itemTitle": "Student Table (Part 3)",
+                  "itemDescription": null,
+                  "itemCat": "docx",
+                  "links": [
+                    {
+                      "linkText": "Download (DRAFT FILE)",
+                      "url": "https://docs.google.com/document/d/1yDvcGR4AYdj3t4WZJQ2P7FO5QBgOERsU"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https://docs.google.com/document/d/1yDvcGR4AYdj3t4WZJQ2P7FO5QBgOERsU"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Table (Part 3)",
+                  "itemDescription": null,
+                  "itemCat": "docx",
+                  "links": [
+                    {
+                      "linkText": "Download (DRAFT FILE)",
+                      "url": "https://docs.google.com/document/d/1yIAjtt3rkpLyMkOW468F6OPZuoJH9qQB"
+                    },
+                    {
+                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                      "url": "https://docs.google.com/document/d/1yIAjtt3rkpLyMkOW468F6OPZuoJH9qQB"
+                    }
+                  ]
+                }
+              ]
+            },
+            "part": "last",
+            "title": "Assessments",
+            "preface": "",
+            "itemList": [
+              {
+                "itemTitle": "Teacher Assessment",
+                "itemDescription": null,
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Student Assessment",
+                "itemDescription": null,
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Genetic Rescue Unit Assessment Rubric",
+                "itemDescription": null,
+                "itemCat": "document",
+                "links": [
+                  {
+                    "linkText": "PDF (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
     }
   }
 }

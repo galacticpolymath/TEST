@@ -1,22 +1,31 @@
-id: 2
+id: '999'
 UniqueID: lesson2_locale_1
-ShortTitle: guardianFrogs
+ShortTitle: TEST
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
+MediumTitle: '''The Guardian Frogs of Borneo''_Science_5-9 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.3.8
-galacticPubsVer: 0.9.4
+TemplateVer: 0.4.1
+galacticPubsVer: 0.9.5
 FirstPublicationDate: 2022-04-01 15:16:29
-LastUpdated: 2022-11-17 12:00:36
-URL: https://galacticpolymath.com/lessons/2
-GPCatalogPath: https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json
+LastUpdated: 2023-03-22 13:18:34
+URL: https://galacticpolymath.com/lessons/999
+GPCatalogPath: "https://catalog.galacticpolymath.com/lessons/origin\thttps://github.com/galacticpolymath/guardianFrogs_sci
+  (fetch)/LESSON.json"
 GitHubPath: git@github.com:galacticpolymath/guardianFrogs_sci.git
-PublicationStatus: Live
+GdriveDirName: TEST
+GdriveDirID: 1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2
+GdriveMetaID: 1mApvrZPNcTPOFGQW8p8tmzjOPjXO77Ya
+GdriveTeachItID: 1Dmx5Sj_k4SuVKzch0QCOSd29u9ku96lVzrD7e9El0XU
+GdrivePublishedID: 1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE
+GdrivePublicID: .na
+GdriveDirURL: https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2
+PublicationStatus: Draft
 RebuildAllMaterials: no
 ReleaseDate: '2022-04-22'
 Title: The Guardian Frogs of Borneo
@@ -24,8 +33,8 @@ Subtitle: Why Exceptions Matter in Biology and Everyday Life
 SponsorName: Johana Goyes Vallejos
 SponsoredBy: '- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/)
   — Postdoc in the Division of Biological Sciences, University of Missouri – Columbia'
-SponsorLogo: assets/_banners_logos_etc/MU_bio_logo.png
-LessonBanner: assets/_banners_logos_etc/banner.png
+SponsorLogo: .na
+LessonBanner: .na
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 5-9

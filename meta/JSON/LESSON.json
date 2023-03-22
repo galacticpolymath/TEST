@@ -1,22 +1,30 @@
 {
   "id": 2,
   "UniqueID": "lesson2_locale_1",
-  "ShortTitle": "guardianFrogs",
+  "ShortTitle": "TEST",
   "Language": "English",
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
+  "MediumTitle": "'The Guardian Frogs of Borneo'_Science_5-9 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.3.8",
-  "galacticPubsVer": "0.9.4",
+  "TemplateVer": "0.4.1",
+  "galacticPubsVer": "0.9.5",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2022-11-17 12:00:36",
-  "URL": "https://galacticpolymath.com/lessons/2",
-  "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
+  "LastUpdated": "2023-03-22 13:18:34",
+  "URL": "https://galacticpolymath.com/lessons/999",
+  "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/origin\thttps://github.com/galacticpolymath/guardianFrogs_sci (fetch)/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
+  "GdriveDirName": "TEST",
+  "GdriveDirID": "1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
+  "GdriveMetaID": "1mApvrZPNcTPOFGQW8p8tmzjOPjXO77Ya",
+  "GdriveTeachItID": "1Dmx5Sj_k4SuVKzch0QCOSd29u9ku96lVzrD7e9El0XU",
+  "GdrivePublishedID": "1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE",
+  "GdrivePublicID": null,
+  "GdriveDirURL": "https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
   "PublicationStatus": "Live",
   "RebuildAllMaterials": false,
   "ReleaseDate": "2022-04-22",
@@ -25,10 +33,10 @@
   "SponsorName": "Johana Goyes Vallejos",
   "SponsoredBy": "- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/) — Postdoc in the Division of Biological Sciences, University of Missouri – Columbia",
   "SponsorImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/MU_bio_logo.png"
+    "url": "https://catalog.galacticpolymath.com/lessons/origin\thttps://github.com/galacticpolymath/guardianFrogs_sci (fetch)/MU_bio_logo.png"
   },
   "CoverImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/banner.png"
+    "url": "https://catalog.galacticpolymath.com/lessons/origin\thttps://github.com/galacticpolymath/guardianFrogs_sci (fetch)/banner.png"
   },
   "Section": {
     "overview": {
@@ -59,10 +67,10 @@
         }
       ],
       "SteamEpaulette": {
-        "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette.png"
+        "url": "https://catalog.galacticpolymath.com/lessons/origin\thttps://github.com/galacticpolymath/guardianFrogs_sci (fetch)/GP-Learning-Epaulette.png"
       },
       "SteamEpaulette_vert": {
-        "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette_vert.png"
+        "url": "https://catalog.galacticpolymath.com/lessons/origin\thttps://github.com/galacticpolymath/guardianFrogs_sci (fetch)/GP-Learning-Epaulette_vert.png"
       },
       "Description": "This lesson puts students in the role of scientists, collecting and analyzing real data to answer questions. In Part 1, students \"collect\" data through a card-based activity called \"Role With It.\" Briefly, students get a male or female card of 1 out of 12 species. When their card is called, students introduce it with a \"song\" and dance that match the attributes of the species it represents. The class then records data on sexual signal exaggeration and parental investment for that species. \n\nOnce they have collected all 24 specimens (cards) students analyze this data (for Part 2) to generate a general observation: \"across nonhuman animal species, females tend to be more caring (contributing more parental investment), while males tend to be more adapted to attracting and competing for mates.\" These are known as *conventional sex roles.* Students then identify *sex-role-reversed species,* such as jacanas (a bird) and guardian frogs, which have \"caring males\" and \"competitive females\".\n\nPart 3 lets students use real data to test whether the Smooth Guardian Frog (*Limnonectes palavenensis*) is truly the first known sex-role-reversed frog species, with \"caring males\" and \"competitive females\". The lesson begins with an atmospheric video that immerses students in the sights, sounds, and mysteries of the island of Borneo. Students are then given a brief introduction to the geography of the region and learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes Vallejos' research in the forests of Brunei. Students test hypotheses by synthesizing information and analyzing a scatter plot to determine that this fascinating species is indeed the first frog known to have \"caring males\" and \"competitive females.\" \n\nThe lesson offers a wide variety of opportunities for student movement, collaboration, creativity, and active engagement.\n"
     },
@@ -70,64 +78,7 @@
       "__component": "lesson-plan.lesson-preview",
       "SectionTitle": "Lesson Preview",
       "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>",
-      "Multimedia": [
-        {
-          "order": 1,
-          "type": "pdf",
-          "title": "\"Role With It\" Cards",
-          "description": null,
-          "lessonRelevance": "Part of a fun simulated data collection activity. Students \"introduce\" both sexes of a set of species (by vocalizing and dancing) and build a data table.",
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "keywords": null,
-          "mainLink": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/preview",
-          "vimeoLink": null,
-          "filename": "GuardianFrogs_P1_Role With It_Cards.pdf",
-          "otherLink": null
-        },
-        {
-          "order": 2,
-          "type": "video",
-          "title": "Borneo Atmospheric Video",
-          "description": "This video sets the ambience for the beginning of Part 3 of our \"Guardian Frogs\" lesson. It situates students in the geographic location, sights, and sounds, and a sense of mystery regarding the island of Borneo.",
-          "lessonRelevance": "For Part 3: An atmospheric video plays as students enter the classroom, immediately immersing them in the lesson's sights, sounds, geographic location, and sense of mystery.",
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "keywords": null,
-          "mainLink": "https://www.youtube.com/embed/hR28Rd53S6g",
-          "vimeoLink": null,
-          "filename": null,
-          "otherLink": null
-        },
-        {
-          "order": 3,
-          "type": "video",
-          "title": "Do Female Frogs Call?",
-          "description": "Dr. Johana Goyes-Vallejos discovers that in the smooth guardian frog of Borneo, female frogs call. In frog species, typically male frogs call, while females stay silent. Dr. Johana Goyes-Vallejos shows that in the smooth guardian frog of Borneo (Limnonectes palavanensis) this is not the case and that female frogs call, too, producing spontaneous vocalizations to attract males. Dr. Goyes-Vallejos’ discovery that female frogs call suggests that L. palavanensis exhibits a reversal in calling behavior and possibly a sex-role-reversed mating system, which would be the first ever observed in a frog species. ",
-          "lessonRelevance": "For Part 3: We show parts of this video to introduce students to Dr. Goyes-Vallejos and her research. They will then analyze some of her data.",
-          "by": "iBiology",
-          "byLink": "https://www.youtube.com/channel/UCsvqEZBO-kNmwuDBbKbfL6A",
-          "keywords": null,
-          "mainLink": "https://www.youtube.com/embed/eX5abcrmE7g",
-          "vimeoLink": null,
-          "filename": null,
-          "otherLink": null
-        },
-        {
-          "order": 4,
-          "type": "video",
-          "title": "Calling behavior of male and female Guardian Frogs",
-          "description": "Electronic Supplementary Material: Calling behavior of males and females of a Bornean frog with male parental care and possible sex-role reversal (Goyes Vallejos, J., Ulmar Grafe, T., Ahmad Sah, H.H. et al. Behav Ecol Sociobiol. 2017. 71: 95).",
-          "lessonRelevance": "For Part 3: Background video showing that male and female Guardian Frogs look similar, but have a distinct call.",
-          "by": "Johana Goyes Vallejos",
-          "byLink": "https://www.youtube.com/channel/UCwXrzGpv_1ogTfz7lwKCf7A",
-          "keywords": null,
-          "mainLink": "https://www.youtube.com/embed/LAqSHDdTKMw",
-          "vimeoLink": null,
-          "filename": null,
-          "otherLink": null
-        }
-      ],
+      "Multimedia": null,
       "InitiallyExpanded": true
     },
     "teaching-materials": {
@@ -135,193 +86,755 @@
       "SectionTitle": "Teaching Materials",
       "Data": {
         "classroom": {
-          "resourceSummary": [
+          "gradeVariantNotes": [
             {
-              "nItems": 1,
-              "itemCat": "Digital Items",
-              "itemsGroup": [
-                {
-                  "item": "Presentation",
-                  "itemExplanation": "x 2 (for Parts 1&2 and Part 3)"
-                }
-              ]
+              "part": "1",
+              "partGradeVarNotes": null
             },
             {
-              "nItems": 3,
-              "itemCat": "Printed Items",
-              "itemsGroup": [
-                {
-                  "item": "Teacher Worksheet",
-                  "itemExplanation": "x 2 (for Parts 1&2 and Part 3)"
-                },
-                {
-                  "item": "Student Worksheet",
-                  "itemExplanation": "x 2 (for Parts 1&2 and Part 3)"
-                },
-                {
-                  "item": "\"Role With It Cards\"",
-                  "itemExplanation": "(Class set for Part 1: Print enough so each student has at least 1)"
-                }
-              ]
+              "part": "2",
+              "partGradeVarNotes": null
             },
             {
-              "nItems": 5,
-              "itemCat": "Other Requirements",
-              "itemsGroup": [
-                {
-                  "item": "Teacher's computer",
-                  "itemExplanation": null
-                },
-                {
-                  "item": "Internet Connection",
-                  "itemExplanation": null
-                },
-                {
-                  "item": "Projector",
-                  "itemExplanation": null
-                },
-                {
-                  "item": "Speakers",
-                  "itemExplanation": null
-                },
-                {
-                  "item": "Scissors",
-                  "itemExplanation": "(for cutting out cards)"
-                }
-              ]
+              "part": "3",
+              "partGradeVarNotes": null
             }
           ],
-          "gradeVariantNotes": null,
-          "resources": [
-            {
-              "grades": "Grades 5-9",
-              "gradePrefix": "G5-9",
+          "resources": {
+            "5-6": {
+              "grades": "Grades 5-6",
+              "gradePrefix": "G5-6",
               "links": {
-                "linkText": "Download G5-9 Materials for All Parts",
-                "url": "https://drive.google.com/drive/folders/1tY4ukKZxi4QfjfFwfHJIrsqK02oBhjFm"
+                "linkText": "Download G5-6 Materials for All Parts",
+                "url": "https://drive.google.com/drive/folders/192ElgQxyg9izVE0obqD4gjIbw30_jDh-"
               },
-              "parts": [
-                {
-                  "part": 1,
-                  "title": "Defining a Pattern in Nature",
-                  "preface": "Students \"collect\" data in a fun activity blending creative movement, cards, animal videos, and data literacy. Don't be intimidated by the length of the presentation–you will zip through the slides! In Part 2, students will analyze this data.",
+              "parts": {
+                "1": {
+                  "part": "1",
+                  "title": "Why Do I Like That?",
+                  "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
                   "itemList": [
                     {
-                      "itemTitle": "Presentation",
+                      "itemTitle": "Presentation (Part 1)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/1xbdlYA0wENBzUntjVrTTbD3arBFSrBhi5-gMCX5wmiA/present"
+                          "linkText": "Present Now (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/16Rt_jIkLXuTp2iE9sGKmiu8S1DgQ09PzDvCDY9OlNoA/present"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/1xbdlYA0wENBzUntjVrTTbD3arBFSrBhi5-gMCX5wmiA/template/preview"
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/16Rt_jIkLXuTp2iE9sGKmiu8S1DgQ09PzDvCDY9OlNoA/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "STUDENT Worksheet (P1&2)",
-                      "itemCat": null,
+                      "itemTitle": "Teacher Worksheet (Part 1)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/export?format=pdf"
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1IsNwui58PWF3_cSEe3Bjdg7AcuIF0uADXUowo34vxbA/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/template/preview"
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1IsNwui58PWF3_cSEe3Bjdg7AcuIF0uADXUowo34vxbA/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "TEACHER Worksheet (P1&2)",
-                      "itemCat": null,
+                      "itemTitle": "Student Worksheet (Part 1)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/export?format=pdf"
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/12rxYRAuVjQBjqygfVPbM9IyecmJJ6LCGSz7IUlefHO4/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/"
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/12rxYRAuVjQBjqygfVPbM9IyecmJJ6LCGSz7IUlefHO4/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                {
-                  "part": 2,
-                  "title": "Analyzing Data from Part 1",
-                  "preface": "Students organize, analyze, and interpret the data they collected in Part 1. They will define the pattern of *conventional sex roles* from the data  (most species have \"caring females\" and \"competitive males\"), and identify exceptional species that buck the trend.",
-                  "itemList": null
-                },
-                {
-                  "part": 3,
-                  "title": "Let's Go to Borneo!",
-                  "preface": "Students use real data collected from the field in Borneo to test whether Guardian Frogs are the first known amphibian with sex role reversal (caring males and competitive females).",
+                "2": {
+                  "part": "2",
+                  "title": "The Perception of Beauty",
+                  "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
                   "itemList": [
                     {
-                      "itemTitle": "Presentation",
+                      "itemTitle": "Presentation (Part 2)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/present"
+                          "linkText": "Present Now (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1MuKAYLniZ1K9etoAv4Ja2_EEmDYn8APq2ZUAig6SCEE/present"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/1iH4-CCvup14kiu6juEt4w8FnQlgyTxHn3oimebkrtEc/template/preview"
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1MuKAYLniZ1K9etoAv4Ja2_EEmDYn8APq2ZUAig6SCEE/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "STUDENT Worksheet (P3)",
-                      "itemCat": null,
+                      "itemTitle": "Student Worksheet (Part 2)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1pFSciyHTTZclKGkx8qYPAvp8n_dXXR00I7IGLHCUOQI/export?format=pdf"
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1OJngiHOOP6jB316AxtDGeaWvei-nq2TC-2bfFUw_QBI/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1pFSciyHTTZclKGkx8qYPAvp8n_dXXR00I7IGLHCUOQI/template/preview"
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1OJngiHOOP6jB316AxtDGeaWvei-nq2TC-2bfFUw_QBI/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "TEACHER Worksheet (P3)",
-                      "itemCat": null,
+                      "itemTitle": "Teacher Worksheet (Part 2)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1pUnNjrLkayEH_1K1iulty1cXUvgHyXWgZ-oofdWXgKA/export?format=pdf"
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1fBYNc0yvfcEHwMerrVJaRJI_2pS-oE3WL4yCdQw1yu4/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1pUnNjrLkayEH_1K1iulty1cXUvgHyXWgZ-oofdWXgKA/template/preview"
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1fBYNc0yvfcEHwMerrVJaRJI_2pS-oE3WL4yCdQw1yu4/template/preview"
                         }
                       ]
                     }
                   ]
-                }
-              ]
+                },
+                "3": {
+                  "part": "3",
+                  "title": "Creature Stats",
+                  "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+                  "itemList": [
+                    {
+                      "itemTitle": "Table (Part 3)",
+                      "itemDescription": null,
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Download (DRAFT FILE)",
+                          "url": "https://docs.google.com/presentation/d/15kAbl6wURUarsd0zcRk2L2pgbipuDA0EdgOufBbSNNI"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/15kAbl6wURUarsd0zcRk2L2pgbipuDA0EdgOufBbSNNI/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Presentation (Part 3)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1ab7_5cvV97yuGAG185aIHw0Of3SuRczHXukxOFzAU54/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1ab7_5cvV97yuGAG185aIHw0Of3SuRczHXukxOFzAU54/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 3)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1QwKJsVLD9BZIsr_l_cXAX-cAEYCHos_2E3ChX7_0SSc/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1QwKJsVLD9BZIsr_l_cXAX-cAEYCHos_2E3ChX7_0SSc/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Part 3)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1uX2Ap8nNK7Xx97uDuL5qnIfqxO0tubL29PHj5oh_I3g/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1uX2Ap8nNK7Xx97uDuL5qnIfqxO0tubL29PHj5oh_I3g/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "part": "last",
+                "title": "Assessments",
+                "preface": "",
+                "itemList": [
+                  {
+                    "itemTitle": "Teacher Assessment",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
+                      }
+                    ]
+                  },
+                  {
+                    "itemTitle": "Student Assessment",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
+                      }
+                    ]
+                  },
+                  {
+                    "itemTitle": "Genetic Rescue Unit Assessment Rubric",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            "9-12": {
+              "grades": "Grades 9-12",
+              "gradePrefix": "G9-12",
+              "links": {
+                "linkText": "Download G9-12 Materials for All Parts",
+                "url": "https://drive.google.com/drive/folders/1GYe1ayZxTMKbRyMELDN0ejhsNENnm5yM"
+              },
+              "parts": {
+                "1": {
+                  "part": "1",
+                  "title": "Why Do I Like That?",
+                  "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Part 1)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1r7nDwzvOiNYQ1YAIDFSs0ef4ADEApqygUh7Ph1Kk3vA/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1r7nDwzvOiNYQ1YAIDFSs0ef4ADEApqygUh7Ph1Kk3vA/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 1)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1hQABDSFZ0k1cOHmxodHPJ81UnllLBnKgqVlRa60fAGk/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1hQABDSFZ0k1cOHmxodHPJ81UnllLBnKgqVlRa60fAGk/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Part 1)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1dToffqdaP8E_FqOCXPw5xv2ZCUVPqdXc2fE0M7ygUOk/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1dToffqdaP8E_FqOCXPw5xv2ZCUVPqdXc2fE0M7ygUOk/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "2": {
+                  "part": "2",
+                  "title": "The Perception of Beauty",
+                  "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Part 2)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1cXDG0OWQ-fe9nZulUDFbfnBkj9eSc3MrSzU_s2o2Ldc/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1cXDG0OWQ-fe9nZulUDFbfnBkj9eSc3MrSzU_s2o2Ldc/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 2)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1Oei1L5GKGwKZHB0sEoEB8LT1GMGFhV_IJmvGkq-nrzo/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1Oei1L5GKGwKZHB0sEoEB8LT1GMGFhV_IJmvGkq-nrzo/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Part 2)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1LUUedpnoXmvd7nyPWDZMj-6JBJWIHjUu0U3KL70mVyo/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1LUUedpnoXmvd7nyPWDZMj-6JBJWIHjUu0U3KL70mVyo/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "3": {
+                  "part": "3",
+                  "title": "Creature Stats",
+                  "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Part 3)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1CI3ANxJGwEYrEccSIF2hSYKILELFBoVSiOWEWlRSzLE/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1CI3ANxJGwEYrEccSIF2hSYKILELFBoVSiOWEWlRSzLE/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Handout/ Table (Part 3)",
+                      "itemDescription": "Print Classroom Set",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/13L5ZblefCyq12xLTXZgqNyvFNgnJiiOZ4BMVgl9Zsh4/export/pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/13L5ZblefCyq12xLTXZgqNyvFNgnJiiOZ4BMVgl9Zsh4/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 3)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/12eV_YjKfMjOV8tyMQpe6n2Nun6mEU8Cd_WnIoF1i9Ds/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/12eV_YjKfMjOV8tyMQpe6n2Nun6mEU8Cd_WnIoF1i9Ds/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Worksheet (Part 3)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1Nrk_a8Q_iEULbQ7lBJnSdZmt0IccXCei8ZAQURJMbxg/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1Nrk_a8Q_iEULbQ7lBJnSdZmt0IccXCei8ZAQURJMbxg/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "part": "last",
+                "title": "Assessments",
+                "preface": "",
+                "itemList": [
+                  {
+                    "itemTitle": "Teacher Assessment",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
+                      }
+                    ]
+                  },
+                  {
+                    "itemTitle": "Student Assessment",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
+                      }
+                    ]
+                  },
+                  {
+                    "itemTitle": "Genetic Rescue Unit Assessment Rubric",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
+                      }
+                    ]
+                  }
+                ]
+              }
             }
-          ]
+          }
+        },
+        "remote": {
+          "gradeVariantNotes": [
+            {
+              "part": "1",
+              "partGradeVarNotes": null
+            },
+            {
+              "part": "2",
+              "partGradeVarNotes": null
+            },
+            {
+              "part": "3",
+              "partGradeVarNotes": null
+            }
+          ],
+          "resources": {
+            "5-6": {
+              "grades": "Grades 5-6",
+              "gradePrefix": "G5-6",
+              "links": {
+                "linkText": "Download G5-6 Materials for All Parts",
+                "url": "https://drive.google.com/drive/folders/166k3F4gRGx5905iG8DB9-fmhR_arYjpZ"
+              },
+              "parts": {
+                "1": {
+                  "part": "1",
+                  "title": "Why Do I Like That?",
+                  "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Part 1)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1emRmg4TdT8ZzBfQzgUuz9YAKBYlOKoBrfJyxtu2ZH0g/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1emRmg4TdT8ZzBfQzgUuz9YAKBYlOKoBrfJyxtu2ZH0g/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "2": {
+                  "part": "2",
+                  "title": "The Perception of Beauty",
+                  "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Part 2)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1ToEX7DF6toEaK0PCTxbBXj0nofwa7SAiDHMRrSa8WAo/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1ToEX7DF6toEaK0PCTxbBXj0nofwa7SAiDHMRrSa8WAo/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "3": {
+                  "part": "3",
+                  "title": "Creature Stats",
+                  "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation (Part 3)",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1DJ6d9nXNWYjVGReJDDg2r9Iu_fwydoKSxwj6m-Jr8kU/present"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1DJ6d9nXNWYjVGReJDDg2r9Iu_fwydoKSxwj6m-Jr8kU/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Table (Part 3)",
+                      "itemDescription": null,
+                      "itemCat": "docx",
+                      "links": [
+                        {
+                          "linkText": "Download (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1qrkUcljPbjadum24UZHO9e884js0nCUL"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1qrkUcljPbjadum24UZHO9e884js0nCUL"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Student Table (Part 3)",
+                      "itemDescription": null,
+                      "itemCat": "docx",
+                      "links": [
+                        {
+                          "linkText": "Download (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1ggPJ_LVd6a6A5zmGNkgx95GeFcjwfTOk"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1ggPJ_LVd6a6A5zmGNkgx95GeFcjwfTOk"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "part": "last",
+                "title": "Assessments",
+                "preface": "",
+                "itemList": [
+                  {
+                    "itemTitle": "Teacher Assessment",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
+                      }
+                    ]
+                  },
+                  {
+                    "itemTitle": "Student Assessment",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
+                      }
+                    ]
+                  },
+                  {
+                    "itemTitle": "Genetic Rescue Unit Assessment Rubric",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            "7-8": {
+              "grades": "Grades 7-8",
+              "gradePrefix": "G7-8",
+              "links": {
+                "linkText": "Download G7-8 Materials for All Parts",
+                "url": "https://drive.google.com/drive/folders/1xvdnIyQ2O0rlARr6R2Ig7Q0QZqK72g-j"
+              },
+              "parts": {
+                "3": {
+                  "part": "3",
+                  "title": "Creature Stats",
+                  "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+                  "itemList": [
+                    {
+                      "itemTitle": "Student Table (Part 3)",
+                      "itemDescription": null,
+                      "itemCat": "docx",
+                      "links": [
+                        {
+                          "linkText": "Download (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1yDvcGR4AYdj3t4WZJQ2P7FO5QBgOERsU"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1yDvcGR4AYdj3t4WZJQ2P7FO5QBgOERsU"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Table (Part 3)",
+                      "itemDescription": null,
+                      "itemCat": "docx",
+                      "links": [
+                        {
+                          "linkText": "Download (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1yIAjtt3rkpLyMkOW468F6OPZuoJH9qQB"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1yIAjtt3rkpLyMkOW468F6OPZuoJH9qQB"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "part": "last",
+                "title": "Assessments",
+                "preface": "",
+                "itemList": [
+                  {
+                    "itemTitle": "Teacher Assessment",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
+                      }
+                    ]
+                  },
+                  {
+                    "itemTitle": "Student Assessment",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
+                      }
+                    ]
+                  },
+                  {
+                    "itemTitle": "Genetic Rescue Unit Assessment Rubric",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          }
         }
       }
     },
@@ -576,7 +1089,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n Instead of telling students that a pattern exists, we have them discover it for themselves. That is, rather than telling them, \"In animal species with *conventional sex roles,* males invest more in attracting and competing for mates, while females invest more in parental care,\" we have students collect data in a fun, interactive format and draw this conclusion from the data. They are then more invested in understanding cases of *sex role reversed species* that are the exceptions to this rule, and have \"caring males\" and \"competitive females.\" \n\nIn part 2, students follow in the footsteps of an early career Latina scientist, Dr. Johana Goyes Vallejos, testing the same hypotheses she did during her PhD research. Students analyze a real graph and table she collected on the island of Borneo to determine if the Smooth Guardian Frog (*Limnonectes palavanensis*) is the first sex-role-reversed frog species known to science. (It is!) \n#### Research Background\n Watch [▶'Do Female Frogs Call?'](https://www.youtube.com/watch?v=eX5abcrmE7g&t=170s) to get a nice summary of Dr. Johana Goyes Vallejos’ scientific journey.\n\nWhile pursuing a PhD in ecology and evolutionary biology at the University of Connecticut, Johana heard about a poorly studied frog called the Smooth Guardian Frog (*Limnonectes palavanensis*), found only on the island of Borneo in Southeast Asia. In a couple of scientific papers in the 1980s, a researcher had described a highly unusual behavior--the males guard eggs hidden under the leaf litter (thus, the common name of the species). When the eggs hatch, the male then carries the tadpoles (on his back!) to small pools of water where they can develop into adult frogs.\nJohana, who was deeply interested in parental care behavior decided to fly to the tiny sultanate of Brunei (ruled by a sultan, rather than a king) and learn about this frog herself. She established a study population, tracking individuals and recording audio of frog calls, often on her own at night, wading through thick mud and fording streams. During her observations, she noticed a tiny peep. It sounded very different from the male calls she had been used to hearing. After careful observation, she confirmed that indeed, these were female calls, which had never been described before by anyone. (See [▶'Calling behavior of male and female Guardian Frogs'](https://www.youtube.com/watch?v=LAqSHDdTKMw))\n\nOut of 8,000+ known frog species, Johana had found one of only a couple that are known to have calling females. Previously, scientists had thought females might be physiologically incapable of producing calls. In contrast, when she started focusing on female calling behavior, she found that they were actually calling *more* than males! Students will recapitulate this finding by analyzing a figure showing male and female calling rates.\n\nAs [Borneo is now being heavily deforested](https://en.wikipedia.org/wiki/Deforestation_in_Borneo), populations of Guardian Frogs are declining. In the final assignment, students are asked to synthesize everything they’ve learned to write a persuasive paragraph about why these exceptional frogs matter and what we stand to lose if they are lost. \n\n#### Researcher Bio\nDr. Johana Goyes Vallejos is a Preparing Future Faculty for Faculty Diversity Postdoctoral Fellow in the Division of Biological Sciences at the University of Missouri, Columbia. She graduated with a B.Sc. in Biology with a minor in Genetics from the Universidad del Valle in Cali, Colombia. She received her Ph.D. in Ecology and Evolutionary Biology from the\nUniversity of Connecticut, studying mating systems, parental care behavior, and acoustic\ncommunication in frogs. Her research has taken her to many tropical forests across the\nworld, including Panama, Costa Rica, Guyana, the Philippines, Malaysia and Brunei\nDarussalam. \n\nAt the University of Missouri, Dr. Goyes Vallejos continues her research on\nmating behavior and parental care strategies using frogs with elaborate parental behaviors\nas study systems. In addition, since 2018, she serves as a research mentor for an NSF-\nfunded Research Experience for Undergraduates program in Costa Rica, providing\nhands-on training in animal behavior and field research to undergraduate students\nbelonging to minoritized groups in STEM. She is passionate about sharing her research findings with scientific and non-scientific audiences through various media outlets. When not chasing frogs in remote forests around the world Dr. Goyes Vallejos enjoys salsa dancing, storytelling and crocheting amigurumis. \n\n[Learn more about Johana at her website](https://jogoyesvallejos.weebly.com/)\n\n#### Further Reading and Listening\n- [The Shape of The World Podcast: When the girl frog sings](https://shapeoftheworldshow.com/2019/05/04/episode-10-when-the-girl-frog-sings/) (May 2019)\n- [FrogLife.org| Female communication in anurans: duets, ultrasonic calls and sex-role reversal](http://www.froglife.org/2019/08/29/croaking-science-female-communication-in-anurans-duets-ultrasonic-calls-and-sex-role-reversal/) (August 2019)\n- [National Geographic España| Los padrazos del mundo de los anfibios](https://www.nationalgeographic.com.es/ciencia/grandes-reportajes/padrazos-mundo-anfibios_13763) (March 2019)\n- [The New York Times| ​Devoted Dads of the Amphibian World](https://www.nytimes.com/2018/12/04/science/frogs-parenting-reproduction.html) (December 2018)\n- [KU Today| Extraordinary 'faithful father' revealed by study of smooth guardian frog of Borneo](https://today.ku.edu/2018/12/13/research-smooth-guardian-frog-borneo-details-extraordinary-faithful-father) (December 2018)\n- [Science Magazine: These female frogs are the first of their kind to croon to their guys](http://www.sciencemag.org/news/2017/06/these-female-frogs-are-first-their-kind-croon-their-guys)​ (June 2017)\n- [Science & Vie| Chez la grenouille de Bornéo, c'est madame qui chante](https://www.science-et-vie.com/nature-et-enviro/chez-la-grenouille-de-borneo-c-est-madame-qui-chante-8925) (June 2017)\n\n#### Related Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=Calling+behavior+of+males+and+females+of+a+Bornean+frog+with+male+parental+care+and+possible+sex-role+reversal&btnG=)\n",
+      "Content": "#### Connection to Research\n Instead of telling students that a pattern exists, we have them discover it for themselves. That is, rather than telling them, \"In animal species with *conventional sex roles,* males invest more in attracting and competing for mates, while females invest more in parental care,\" we have students collect data in a fun, interactive format and draw this conclusion from the data. They are then more invested in understanding cases of *sex role reversed species* that are the exceptions to this rule, and have \"caring males\" and \"competitive females.\" \n\nIn part 2, students follow in the footsteps of an early career Latina scientist, Dr. Johana Goyes Vallejos, testing the same hypotheses she did during her PhD research. Students analyze a real graph and table she collected on the island of Borneo to determine if the Smooth Guardian Frog (*Limnonectes palavanensis*) is the first sex-role-reversed frog species known to science. (It is!) \n#### Research Background\n Watch [▶'Do Female Frogs Call?'](https://www.youtube.com/watch?v=eX5abcrmE7g&t=170s) to get a nice summary of Dr. Johana Goyes Vallejos’ scientific journey.\n\nWhile pursuing a PhD in ecology and evolutionary biology at the University of Connecticut, Johana heard about a poorly studied frog called the Smooth Guardian Frog (*Limnonectes palavanensis*), found only on the island of Borneo in Southeast Asia. In a couple of scientific papers in the 1980s, a researcher had described a highly unusual behavior--the males guard eggs hidden under the leaf litter (thus, the common name of the species). When the eggs hatch, the male then carries the tadpoles (on his back!) to small pools of water where they can develop into adult frogs.\nJohana, who was deeply interested in parental care behavior decided to fly to the tiny sultanate of Brunei (ruled by a sultan, rather than a king) and learn about this frog herself. She established a study population, tracking individuals and recording audio of frog calls, often on her own at night, wading through thick mud and fording streams. During her observations, she noticed a tiny peep. It sounded very different from the male calls she had been used to hearing. After careful observation, she confirmed that indeed, these were female calls, which had never been described before by anyone. (See [▶'Calling behavior of male and female Guardian Frogs'](https://www.youtube.com/watch?v=LAqSHDdTKMw))\n\nOut of 8,000+ known frog species, Johana had found one of only a couple that are known to have calling females. Previously, scientists had thought females might be physiologically incapable of producing calls. In contrast, when she started focusing on female calling behavior, she found that they were actually calling *more* than males! Students will recapitulate this finding by analyzing a figure showing male and female calling rates.\n\nAs [Borneo is now being heavily deforested](https://en.wikipedia.org/wiki/Deforestation_in_Borneo), populations of Guardian Frogs are declining. In the final assignment, students are asked to synthesize everything they’ve learned to write a persuasive paragraph about why these exceptional frogs matter and what we stand to lose if they are lost. \n\n#### Researcher Bio\nDr. Johana Goyes Vallejos is a Preparing Future Faculty for Faculty Diversity Postdoctoral Fellow in the Division of Biological Sciences at the University of Missouri, Columbia. She graduated with a B.Sc. in Biology with a minor in Genetics from the Universidad del Valle in Cali, Colombia. She received her Ph.D. in Ecology and Evolutionary Biology from the\nUniversity of Connecticut, studying mating systems, parental care behavior, and acoustic\ncommunication in frogs. Her research has taken her to many tropical forests across the\nworld, including Panama, Costa Rica, Guyana, the Philippines, Malaysia and Brunei\nDarussalam. \n\nAt the University of Missouri, Dr. Goyes Vallejos continues her research on\nmating behavior and parental care strategies using frogs with elaborate parental behaviors\nas study systems. In addition, since 2018, she serves as a research mentor for an NSF-\nfunded Research Experience for Undergraduates program in Costa Rica, providing\nhands-on training in animal behavior and field research to undergraduate students\nbelonging to minoritized groups in STEM. She is passionate about sharing her research findings with scientific and non-scientific audiences through various media outlets. When not chasing frogs in remote forests around the world Dr. Goyes Vallejos enjoys salsa dancing, storytelling and crocheting amigurumis. \n\n[Learn more about Johana at her website](https://jogoyesvallejos.weebly.com/)\n\n#### Further Reading and Listening\n- [The Shape of The World Podcast: When the girl frog sings](https://shapeoftheworldshow.com/2019/05/04/episode-10-when-the-girl-frog-sings/) (May 2019)\n- [FrogLife.org| Female communication in anurans: duets, ultrasonic calls and sex-role reversal](http://www.froglife.org/2019/08/29/croaking-science-female-communication-in-anurans-duets-ultrasonic-calls-and-sex-role-reversal/) (August 2019)\n- [National Geographic España| Los padrazos del mundo de los anfibios](https://www.nationalgeographic.com.es/ciencia/grandes-reportajes/padrazos-mundo-anfibios_13763) (March 2019)\n- [The New York Times| ​Devoted Dads of the Amphibian World](https://www.nytimes.com/2018/12/04/science/frogs-parenting-reproduction.html) (December 2018)\n- [KU Today| Extraordinary 'faithful father' revealed by study of smooth guardian frog of Borneo](https://today.ku.edu/2018/12/13/research-smooth-guardian-frog-borneo-details-extraordinary-faithful-father) (December 2018)\n- [Science Magazine: These female frogs are the first of their kind to croon to their guys](http://www.sciencemag.org/news/2017/06/these-female-frogs-are-first-their-kind-croon-their-guys)​ (June 2017)\n- [Science & Vie| Chez la grenouille de Bornéo, c'est madame qui chante](https://www.science-et-vie.com/nature-et-enviro/chez-la-grenouille-de-borneo-c-est-madame-qui-chante-8925) (June 2017)\n\n#### Related Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/origin\thttps://github.com/galacticpolymath/guardianFrogs_sci (fetch)/goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=Calling+behavior+of+males+and+females+of+a+Bornean+frog+with+male+parental+care+and+possible+sex-role+reversal&btnG=)\n",
       "InitiallyExpanded": true
     },
     "standards-header": {
@@ -589,7 +1102,7 @@
       "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 18 standards across US grade band(s): 9-12, 5-6, 7-8.",
       "Footnote": "",
       "Badge": {
-        "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Chart.png"
+        "url": "https://catalog.galacticpolymath.com/lessons/origin\thttps://github.com/galacticpolymath/guardianFrogs_sci (fetch)/GP-Learning-Chart.png"
       }
     },
     "standards": {
