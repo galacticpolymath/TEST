@@ -1,5 +1,5 @@
 {
-  "id": 2,
+  "id": "999",
   "UniqueID": "lesson2_locale_1",
   "ShortTitle": "TEST",
   "Language": "English",
@@ -14,7 +14,7 @@
   "TemplateVer": "0.4.1",
   "galacticPubsVer": "0.9.5",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2023-03-22 13:18:34",
+  "LastUpdated": "2023-03-22 13:20:46",
   "URL": "https://galacticpolymath.com/lessons/999",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/origin\thttps://github.com/galacticpolymath/guardianFrogs_sci (fetch)/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
@@ -25,7 +25,7 @@
   "GdrivePublishedID": "1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE",
   "GdrivePublicID": null,
   "GdriveDirURL": "https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
-  "PublicationStatus": "Live",
+  "PublicationStatus": "Draft",
   "RebuildAllMaterials": false,
   "ReleaseDate": "2022-04-22",
   "Title": "The Guardian Frogs of Borneo",
@@ -33,10 +33,10 @@
   "SponsorName": "Johana Goyes Vallejos",
   "SponsoredBy": "- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/) — Postdoc in the Division of Biological Sciences, University of Missouri – Columbia",
   "SponsorImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/origin\thttps://github.com/galacticpolymath/guardianFrogs_sci (fetch)/MU_bio_logo.png"
+    "url": null
   },
   "CoverImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/origin\thttps://github.com/galacticpolymath/guardianFrogs_sci (fetch)/banner.png"
+    "url": null
   },
   "Section": {
     "overview": {
