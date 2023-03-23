@@ -1,5 +1,5 @@
 {
-  "id": "999",
+  "id": 999,
   "UniqueID": "lesson2_locale_1",
   "ShortTitle": "TEST",
   "Language": "English",
@@ -14,7 +14,7 @@
   "TemplateVer": "0.4.1",
   "galacticPubsVer": "0.9.5",
   "FirstPublicationDate": "2022-04-01 15:16:29",
-  "LastUpdated": "2023-03-22 17:20:29",
+  "LastUpdated": "2023-03-23 15:26:24",
   "URL": "https://galacticpolymath.com/lessons/999",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/origin\thttps://github.com/galacticpolymath/guardianFrogs_sci (fetch)/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/TEST.git",
