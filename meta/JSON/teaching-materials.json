@@ -6,7 +6,7 @@
       "gradeVariantNotes": [
         {
           "part": "1",
-          "partGradeVarNotes": null
+          "partGradeVarNotes": "Overall notes on content adaptions across different grade levels"
         },
         {
           "part": "2",
@@ -17,8 +17,8 @@
           "partGradeVarNotes": null
         }
       ],
-      "resources": {
-        "5-6": {
+      "resources": [
+        {
           "grades": "Grades 5-6",
           "gradePrefix": "G5-6",
           "links": {
@@ -29,6 +29,9 @@
             "1": {
               "part": "1",
               "title": "Why Do I Like That?",
+              "tags": [
+                "experiment"
+              ],
               "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
               "itemList": [
                 {
@@ -81,6 +84,9 @@
             "2": {
               "part": "2",
               "title": "The Perception of Beauty",
+              "tags": [
+                "Real Data Analysis"
+              ],
               "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
               "itemList": [
                 {
@@ -133,6 +139,9 @@
             "3": {
               "part": "3",
               "title": "Creature Stats",
+              "tags": [
+                ["experiment", "outdoors", "card game"]
+              ],
               "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
               "itemList": [
                 {
@@ -249,7 +258,7 @@
             ]
           }
         },
-        "9-12": {
+        {
           "grades": "Grades 9-12",
           "gradePrefix": "G9-12",
           "links": {
@@ -260,6 +269,9 @@
             "1": {
               "part": "1",
               "title": "Why Do I Like That?",
+              "tags": [
+                "experiment"
+              ],
               "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
               "itemList": [
                 {
@@ -312,6 +324,9 @@
             "2": {
               "part": "2",
               "title": "The Perception of Beauty",
+              "tags": [
+                "Real Data Analysis"
+              ],
               "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
               "itemList": [
                 {
@@ -364,6 +379,9 @@
             "3": {
               "part": "3",
               "title": "Creature Stats",
+              "tags": [
+                ["experiment", "outdoors", "card game"]
+              ],
               "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
               "itemList": [
                 {
@@ -480,13 +498,13 @@
             ]
           }
         }
-      }
+      ]
     },
     "remote": {
       "gradeVariantNotes": [
         {
           "part": "1",
-          "partGradeVarNotes": null
+          "partGradeVarNotes": "Overall notes on content adaptions across different grade levels"
         },
         {
           "part": "2",
@@ -497,8 +515,8 @@
           "partGradeVarNotes": null
         }
       ],
-      "resources": {
-        "5-6": {
+      "resources": [
+        {
           "grades": "Grades 5-6",
           "gradePrefix": "G5-6",
           "links": {
@@ -509,6 +527,9 @@
             "1": {
               "part": "1",
               "title": "Why Do I Like That?",
+              "tags": [
+                "experiment"
+              ],
               "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
               "itemList": [
                 {
@@ -531,6 +552,9 @@
             "2": {
               "part": "2",
               "title": "The Perception of Beauty",
+              "tags": [
+                "Real Data Analysis"
+              ],
               "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
               "itemList": [
                 {
@@ -553,6 +577,9 @@
             "3": {
               "part": "3",
               "title": "Creature Stats",
+              "tags": [
+                ["experiment", "outdoors", "card game"]
+              ],
               "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
               "itemList": [
                 {
@@ -654,7 +681,7 @@
             ]
           }
         },
-        "7-8": {
+        {
           "grades": "Grades 7-8",
           "gradePrefix": "G7-8",
           "links": {
@@ -665,6 +692,9 @@
             "3": {
               "part": "3",
               "title": "Creature Stats",
+              "tags": [
+                ["experiment", "outdoors", "card game"]
+              ],
               "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
               "itemList": [
                 {
@@ -751,7 +781,7 @@
             ]
           }
         }
-      }
+      ]
     }
   }
 }
