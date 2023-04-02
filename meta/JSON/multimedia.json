@@ -1,3 +1,200 @@
 [
-  null
+  {
+    "order": "0",
+    "type": "video",
+    "title": "Trailer: I Like That!",
+    "description": null,
+    "lessonRelevance": "Trailer giving an overview of what this lesson entails.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://www.youtube.com/embed/QnoVSKx4G1c",
+    "otherLink": null
+  },
+  {
+    "order": "1",
+    "type": "video",
+    "title": "I Like That! How our eyes and brains interact to determine what we like and dislike",
+    "description": "This video explores how things we see (visual stimuli) affect emotional states and interact with our memories and higher order thinking (cognition) to produce preferences and behavior. This basic framework is adapted from human and animal behavior research. We use this framework throughout the middle school-targeted lesson below. In the lesson, students perform an experiment to understand their own preferences and dive into research on fish, exploring how sensitivity to different frequencies of light affects mate preferences. We dive into this topic in detail in our second video supporting this lesson.",
+    "lessonRelevance": "This video sets up key vocabulary and concepts we will use throughout this lesson. It sets up activities that will have students trying to understand how emotion, memory, and higher-order connections explain their own preferences for certain images.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://www.youtube.com/embed/mw8OoXGIsj8",
+    "otherLink": null
+  },
+  {
+    "order": "2",
+    "type": "pdf",
+    "title": "Images for Part 1 Experiment",
+    "description": null,
+    "lessonRelevance": "Students will rank these images based on their arbitrary preferences. They will then conduct an experiment to try to understand why they ranked things as they did.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://docs.google.com/presentation/d/1b5pBKdYlMukFkCQjwposyRHdL3QMrq3-tgskbRXGkgo/edit",
+    "otherLink": null
+  },
+  {
+    "order": "3",
+    "type": "video",
+    "title": "How we see color - Colm Kelleher",
+    "description": null,
+    "lessonRelevance": "For Part 2, this video gives a nice explanation of what color is: different wavelengths of light reflected from objects and detected by our eyes and brain.",
+    "by": "TedEd",
+    "byLink": "https://www.youtube.com/teded",
+    "mainLink": "https://www.youtube.com/embed/l8_fZPHasdo",
+    "otherLink": null
+  },
+  {
+    "order": "4",
+    "type": "video",
+    "title": "The Science of Color Perception",
+    "description": null,
+    "lessonRelevance": "For Part 2, this neat video adds a bit more detail about color perception. (Only a short clip is embedded in presentation 2). We carried the \"cones\" characters into our original video (next in the playlist).",
+    "by": "Calder Ruhl Hansen",
+    "byLink": "https://www.youtube.com/c/CalderRuhlHansen",
+    "mainLink": "https://www.youtube.com/embed/poL7nDmqjmk",
+    "otherLink": null
+  },
+  {
+    "order": "5",
+    "type": "video",
+    "title": "How do we know what a fish likes? (And can we predict it?)",
+    "description": null,
+    "lessonRelevance": "Supports Part 2 activities analyzing real scientific data to follow in the footsteps of Drs. Tamra Mendelson and Tory Williams. Explains basics of how color vision works, contrasted against freshwater fish called darters which are used in the research covered here.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://www.youtube.com/embed/PGmPIHPX9eQ",
+    "otherLink": null
+  },
+  {
+    "order": "6",
+    "type": "pdf",
+    "title": "Creature Stats Character Sheets",
+    "description": null,
+    "lessonRelevance": "In Part 3, students apply what they've learned about visual processing in the brain to artworks. They will use these original character sheet designs to calculate proportions and test whether being outside the range of human variation makes a character inherently creepy or cute.",
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": "https://drive.google.com/file/d/1578pmIB8HS0n2XTgOI-fIPN_-LL4p1FR/view",
+    "otherLink": null
+  },
+  {
+    "order": "7",
+    "type": "video",
+    "title": "Darter facts: the colorful little fish | Animal Fact Files",
+    "description": null,
+    "lessonRelevance": "More Details on Darters (for Part 2). Supplement–not included in any lesson materials.",
+    "by": "Animal Fact Files",
+    "byLink": "https://www.youtube.com/c/AnimalFactFiles",
+    "mainLink": "https://www.youtube.com/embed/JnD1d4pIxO4",
+    "otherLink": null
+  },
+  {
+    "order": null,
+    "type": null,
+    "title": null,
+    "description": null,
+    "lessonRelevance": null,
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  },
+  {
+    "order": null,
+    "type": null,
+    "title": null,
+    "description": null,
+    "lessonRelevance": null,
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  },
+  {
+    "order": null,
+    "type": null,
+    "title": null,
+    "description": null,
+    "lessonRelevance": null,
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  },
+  {
+    "order": null,
+    "type": null,
+    "title": null,
+    "description": null,
+    "lessonRelevance": null,
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  },
+  {
+    "order": null,
+    "type": null,
+    "title": null,
+    "description": null,
+    "lessonRelevance": null,
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  },
+  {
+    "order": null,
+    "type": null,
+    "title": null,
+    "description": null,
+    "lessonRelevance": null,
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  },
+  {
+    "order": null,
+    "type": null,
+    "title": null,
+    "description": null,
+    "lessonRelevance": null,
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  },
+  {
+    "order": null,
+    "type": null,
+    "title": null,
+    "description": null,
+    "lessonRelevance": null,
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  },
+  {
+    "order": null,
+    "type": null,
+    "title": null,
+    "description": null,
+    "lessonRelevance": null,
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  },
+  {
+    "order": null,
+    "type": null,
+    "title": null,
+    "description": null,
+    "lessonRelevance": null,
+    "by": "Galactic Polymath",
+    "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+    "mainLink": null,
+    "otherLink": null
+  }
 ]
