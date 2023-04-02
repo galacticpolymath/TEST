@@ -5,7 +5,7 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-04-02 15:01:00
+LastUpdated: 2023-04-02 15:41:20
 MediumTitle: '''The Guardian Frogs of Borneo'' _Science_ 5-9  (en-US)'
 lang: en
 lng: eng
@@ -34,8 +34,10 @@ Subtitle: Why Exceptions Matter in Biology and Everyday Life
 SponsorName: Johana Goyes Vallejos
 SponsoredBy: '- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/)
   — Postdoc in the Division of Biological Sciences, University of Missouri – Columbia'
-SponsorLogo: .na
-LessonBanner: .na
+SponsorLogo:
+- assets/_banners_logos_etc/Fitzpatrick_lab_logo-transparent.png
+- assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo.png
+LessonBanner: assets/_banners_logos_etc/banner.png
 TargetSubject: Science
 LessonEnvir: Classroom
 ForGrades: 5-9
@@ -52,7 +54,7 @@ LearningChart: assets/_learning-plots/GP-Learning-Chart.png
 LearningChart_params_centralText: grades\n5-9
 LearningChart_params_caption: .na
 LearningChart_params_captionN: no
-SupportingMedia: assets/_other-media-to-publish/goyespaper.png
+SupportingMedia: assets/_other-media-to-publish/vocab.csv
 DrivingQ: |-
   - Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?
   - Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?

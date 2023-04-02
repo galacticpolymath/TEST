@@ -6,7 +6,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-02 14:36:10",
+  "LastUpdated": "2023-04-02 15:02:15",
   "MediumTitle": "'The Guardian Frogs of Borneo' _Science_ 5-9  (en-US)",
   "lang": "en",
   "lng": "eng",
@@ -34,9 +34,9 @@
   "SponsorName": "Johana Goyes Vallejos",
   "SponsoredBy": "- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/) — Postdoc in the Division of Biological Sciences, University of Missouri – Columbia",
   "SponsorImage": {
-    "url": null
+    "url": ["https://catalog.galacticpolymath.com/lessons/TEST/Fitzpatrick_lab_logo-transparent.png", "https://catalog.galacticpolymath.com/lessons/TEST/NSF_4-Color_bitmap_Logo.png"]
   },
   "CoverImage": {
-    "url": null
+    "url": "https://catalog.galacticpolymath.com/lessons/TEST/banner.png"
   }
 }

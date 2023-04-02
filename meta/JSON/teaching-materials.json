@@ -29,11 +29,11 @@
           "parts": {
             "1": {
               "part": "1",
-              "title": null,
+              "title": "Why Do I Like That?",
               "tags": [
                 null
               ],
-              "preface": null,
+              "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
               "itemList": [
                 {
                   "itemTitle": "Presentation (Part 1)",
@@ -84,11 +84,11 @@
             },
             "2": {
               "part": "2",
-              "title": null,
+              "title": "The Perception of Beauty",
               "tags": [
                 null
               ],
-              "preface": null,
+              "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
               "itemList": [
                 {
                   "itemTitle": "Presentation (Part 2)",
@@ -139,11 +139,11 @@
             },
             "3": {
               "part": "3",
-              "title": null,
+              "title": "Creature Stats",
               "tags": [
                 null
               ],
-              "preface": null,
+              "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
               "itemList": [
                 {
                   "itemTitle": "Table (Part 3)",
@@ -269,11 +269,11 @@
           "parts": {
             "1": {
               "part": "1",
-              "title": null,
+              "title": "Why Do I Like That?",
               "tags": [
                 null
               ],
-              "preface": null,
+              "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
               "itemList": [
                 {
                   "itemTitle": "Presentation (Part 1)",
@@ -324,11 +324,11 @@
             },
             "2": {
               "part": "2",
-              "title": null,
+              "title": "The Perception of Beauty",
               "tags": [
                 null
               ],
-              "preface": null,
+              "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
               "itemList": [
                 {
                   "itemTitle": "Presentation (Part 2)",
@@ -379,11 +379,11 @@
             },
             "3": {
               "part": "3",
-              "title": null,
+              "title": "Creature Stats",
               "tags": [
                 null
               ],
-              "preface": null,
+              "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
               "itemList": [
                 {
                   "itemTitle": "Presentation (Part 3)",
@@ -527,11 +527,11 @@
           "parts": {
             "1": {
               "part": "1",
-              "title": null,
+              "title": "Why Do I Like That?",
               "tags": [
                 null
               ],
-              "preface": null,
+              "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
               "itemList": [
                 {
                   "itemTitle": "Presentation (Part 1)",
@@ -552,11 +552,11 @@
             },
             "2": {
               "part": "2",
-              "title": null,
+              "title": "The Perception of Beauty",
               "tags": [
                 null
               ],
-              "preface": null,
+              "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
               "itemList": [
                 {
                   "itemTitle": "Presentation (Part 2)",
@@ -577,11 +577,11 @@
             },
             "3": {
               "part": "3",
-              "title": null,
+              "title": "Creature Stats",
               "tags": [
                 null
               ],
-              "preface": null,
+              "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
               "itemList": [
                 {
                   "itemTitle": "Presentation (Part 3)",
@@ -692,11 +692,11 @@
           "parts": {
             "3": {
               "part": "3",
-              "title": null,
+              "title": "Creature Stats",
               "tags": [
                 null
               ],
-              "preface": null,
+              "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
               "itemList": [
                 {
                   "itemTitle": "Student Table (Part 3)",
@@ -787,9 +787,9 @@
     "parts": [
       {
         "partNum": 1,
-        "partTitle": null,
+        "partTitle": "PartTitle",
         "partDur": 60,
-        "partPreface": null,
+        "partPreface": "PartPreface",
         "partPrep": {
           "PrepTitle": "Prep",
           "PrepDur": null,
@@ -984,9 +984,9 @@
       },
       {
         "partNum": 2,
-        "partTitle": null,
+        "partTitle": "Why Do I Like That?",
         "partDur": 60,
-        "partPreface": null,
+        "partPreface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
         "partPrep": {
           "PrepTitle": "Prep",
           "PrepDur": 10,
@@ -1121,9 +1121,9 @@
       },
       {
         "partNum": 3,
-        "partTitle": null,
+        "partTitle": "The Perception of Beauty",
         "partDur": null,
-        "partPreface": null,
+        "partPreface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
         "partPrep": {
           "PrepTitle": "Prep",
           "PrepDur": null,
