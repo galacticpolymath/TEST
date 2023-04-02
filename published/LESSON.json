@@ -6,8 +6,8 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-02 15:41:20",
-  "MediumTitle": "'The Guardian Frogs of Borneo' _Science_ 5-9  (en-US)",
+  "LastUpdated": "2023-04-02 16:12:24",
+  "MediumTitle": "'The Guardian Frogs of Borneo' |Science| G5-9 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
@@ -113,7 +113,7 @@
           "lessonRelevance": "Students will rank these images based on their arbitrary preferences. They will then conduct an experiment to try to understand why they ranked things as they did.",
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": "https://docs.google.com/presentation/d/1b5pBKdYlMukFkCQjwposyRHdL3QMrq3-tgskbRXGkgo/preview",
+          "mainLink": "https://docs.google.com/presentation/d/1b5pBKdYlMukFkCQjwposyRHdL3QMrq3-tgskbRXGkgo/edit",
           "otherLink": null
         },
         {
@@ -157,7 +157,7 @@
           "lessonRelevance": "In Part 3, students apply what they've learned about visual processing in the brain to artworks. They will use these original character sheet designs to calculate proportions and test whether being outside the range of human variation makes a character inherently creepy or cute.",
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": "https://drive.google.com/file/d/1578pmIB8HS0n2XTgOI-fIPN_-LL4p1FR/preview",
+          "mainLink": "https://drive.google.com/file/d/1578pmIB8HS0n2XTgOI-fIPN_-LL4p1FR/view",
           "otherLink": null
         },
         {
@@ -169,116 +169,6 @@
           "by": "Animal Fact Files",
           "byLink": "https://www.youtube.com/c/AnimalFactFiles",
           "mainLink": "https://www.youtube.com/embed/JnD1d4pIxO4",
-          "otherLink": null
-        },
-        {
-          "order": null,
-          "type": [],
-          "title": null,
-          "description": null,
-          "lessonRelevance": null,
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
-          "otherLink": null
-        },
-        {
-          "order": null,
-          "type": [],
-          "title": null,
-          "description": null,
-          "lessonRelevance": null,
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
-          "otherLink": null
-        },
-        {
-          "order": null,
-          "type": [],
-          "title": null,
-          "description": null,
-          "lessonRelevance": null,
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
-          "otherLink": null
-        },
-        {
-          "order": null,
-          "type": [],
-          "title": null,
-          "description": null,
-          "lessonRelevance": null,
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
-          "otherLink": null
-        },
-        {
-          "order": null,
-          "type": [],
-          "title": null,
-          "description": null,
-          "lessonRelevance": null,
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
-          "otherLink": null
-        },
-        {
-          "order": null,
-          "type": [],
-          "title": null,
-          "description": null,
-          "lessonRelevance": null,
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
-          "otherLink": null
-        },
-        {
-          "order": null,
-          "type": [],
-          "title": null,
-          "description": null,
-          "lessonRelevance": null,
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
-          "otherLink": null
-        },
-        {
-          "order": null,
-          "type": [],
-          "title": null,
-          "description": null,
-          "lessonRelevance": null,
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
-          "otherLink": null
-        },
-        {
-          "order": null,
-          "type": [],
-          "title": null,
-          "description": null,
-          "lessonRelevance": null,
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
-          "otherLink": null
-        },
-        {
-          "order": null,
-          "type": [],
-          "title": null,
-          "description": null,
-          "lessonRelevance": null,
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": null,
           "otherLink": null
         }
       ],
@@ -976,7 +866,7 @@
                 "url": "https://drive.google.com/drive/folders/1xvdnIyQ2O0rlARr6R2Ig7Q0QZqK72g-j"
               },
               "parts": {
-                "3": {
+                "1": {
                   "part": "3",
                   "title": "Creature Stats",
                   "tags": [
@@ -1073,9 +963,9 @@
         "parts": [
           {
             "partNum": 1,
-            "partTitle": "PartTitle",
+            "partTitle": "Why Do I Like That?",
             "partDur": 60,
-            "partPreface": "PartPreface",
+            "partPreface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
             "partPrep": {
               "PrepTitle": "Prep",
               "PrepDur": null,
@@ -1270,9 +1160,9 @@
           },
           {
             "partNum": 2,
-            "partTitle": "Why Do I Like That?",
+            "partTitle": "The Perception of Beauty",
             "partDur": 60,
-            "partPreface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
+            "partPreface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
             "partPrep": {
               "PrepTitle": "Prep",
               "PrepDur": 10,
@@ -1407,9 +1297,9 @@
           },
           {
             "partNum": 3,
-            "partTitle": "The Perception of Beauty",
+            "partTitle": "Creature Stats",
             "partDur": null,
-            "partPreface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
+            "partPreface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
             "partPrep": {
               "PrepTitle": "Prep",
               "PrepDur": null,
