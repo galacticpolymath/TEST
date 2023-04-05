@@ -15,6 +15,7 @@
               "name": "Algebra, Geometry, Trig, Calculus & Higher Level Thinking",
               "standardsGroup": [
                 {
+                  "parts": [],
                   "codes": "HSS-IC.B.6",
                   "grades": "9,10,11,12",
                   "statements": "Evaluate reports based on data.",
@@ -28,6 +29,7 @@
               "name": "Measurement, Data, Probability & Statistics",
               "standardsGroup": [
                 {
+                  "parts": [],
                   "codes": "HSS-ID.A.3",
                   "grades": "9,10,11,12",
                   "statements": "Interpret differences in shape, center, and spread in the context of the data sets, accounting for possible effects of extreme data points (outliers).",
@@ -53,6 +55,11 @@
               "name": "Language, Speaking & Listening",
               "standardsGroup": [
                 {
+                  "parts": [
+                    "1",
+                    "2",
+                    "3"
+                  ],
                   "codes": "SL.6.2",
                   "grades": "6",
                   "statements": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
@@ -66,6 +73,9 @@
               "name": "Reading",
               "standardsGroup": [
                 {
+                  "parts": [
+                    "2"
+                  ],
                   "codes": "RH.6-8.7",
                   "grades": "6,7,8",
                   "statements": "Integrate visual information (e.g., in charts, graphs, photographs, videos, or maps) with other information in print and digital texts.",
@@ -73,6 +83,7 @@
                   "subcat": null
                 },
                 {
+                  "parts": [],
                   "codes": "RST.9-10.7",
                   "grades": "9,10",
                   "statements": "Translate quantitative or technical information expressed in words in a text into visual form (e.g., a table or chart) and translate information expressed visually or mathematically (e.g., in an equation) into words.",
@@ -98,6 +109,15 @@
               "name": "Science & Engineering Practices",
               "standardsGroup": [
                 {
+                  "parts": [],
+                  "codes": "CEDS-M4",
+                  "grades": "6,7,8",
+                  "statements": "Apply scientific ideas, principles, and/or evidence to construct, revise and/or use an explanation for real-world phenomena, examples, or events.",
+                  "alignmentNotes": "- Students will integrate data visualization of real biological data and scientific text, using scientific ideas and principles to investigate an real example of exceptions to the rule in nature, with evidence for sex role reversal in Guardian Frogs.",
+                  "subcat": "Constructing Explanations & Designing Solutions"
+                },
+                {
+                  "parts": [],
                   "codes": "DATA-M4",
                   "grades": "6,7,8",
                   "statements": "Analyze and interpret data to provide evidence for phenomena.",
@@ -105,13 +125,7 @@
                   "subcat": "Analyzing Data"
                 },
                 {
-                  "codes": "AQDP-M1",
-                  "grades": "6,7,8",
-                  "statements": "Ask questions that arise from careful observation of phenomena, models, or unexpected results, to clarify and/or seek additional information.",
-                  "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through experience plotting boxplots and follow-up interpretation of data and discussion.",
-                  "subcat": "Ask Questions & Define Problems"
-                },
-                {
+                  "parts": [],
                   "codes": "DATA-M5",
                   "grades": "6,7,8",
                   "statements": "Apply concepts of statistics and probability (including mean, median, mode, and variability) to analyze and characterize data, using digital tools when feasible.",
@@ -119,13 +133,7 @@
                   "subcat": "Analyzing Data"
                 },
                 {
-                  "codes": "CEDS-H4",
-                  "grades": "9,10,11,12",
-                  "statements": "Apply scientific reasoning, theory, and/or models to link evidence to the claims to assess the extent to which the reasoning and data support the explanation or conclusion.",
-                  "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
-                  "subcat": "Constructing Explanations & Designing Solutions"
-                },
-                {
+                  "parts": [],
                   "codes": "AQDP-H1",
                   "grades": "9,10,11,12",
                   "statements": "Ask questions that arise from careful observation of phenomena, or unexpected results, to clarify and/or seek additional information.",
@@ -133,6 +141,15 @@
                   "subcat": "Ask Questions & Define Problems"
                 },
                 {
+                  "parts": [],
+                  "codes": "CEDS-H4",
+                  "grades": "9,10,11,12",
+                  "statements": "Apply scientific reasoning, theory, and/or models to link evidence to the claims to assess the extent to which the reasoning and data support the explanation or conclusion.",
+                  "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
+                  "subcat": "Constructing Explanations & Designing Solutions"
+                },
+                {
+                  "parts": [],
                   "codes": "DATA-H2",
                   "grades": "9,10,11,12",
                   "statements": "Apply concepts of statistics and probability (including determining function fits to data, slope, intercept, and correlation coefficient for linear fits) to scientific and engineering questions and problems, using digital tools when feasible.",
@@ -142,10 +159,33 @@
               ]
             },
             {
+              "slug": "DCI",
+              "name": "Disciplinary Core ideas",
+              "standardsGroup": [
+                {
+                  "parts": [],
+                  "codes": "LS1.B-M2",
+                  "grades": "6,7,8",
+                  "statements": "Animals engage in characteristic behaviors that increase the odds of reproduction.",
+                  "alignmentNotes": "- Students will explore a wide variety of animal mate attraction and parental behaviors that increase the odds of survival and reproduction and reflect on both the general pattern of \"caring females, competitive males\" and exceptions to this pattern.",
+                  "subcat": "Growth & Development of Organisms"
+                },
+                {
+                  "parts": [],
+                  "codes": "LS4.B-H2",
+                  "grades": "9,10,11,12",
+                  "statements": "The traits that positively affect survival are more likely to be reproduced, and thus are more common in the population.",
+                  "alignmentNotes": "- This standard is not explicitly addressed, but can easily be connected by asking students to explain how some of the behaviors covered in the lesson should be favored by selection (i.e. how they increase survival and/or reproduction of individuals who behave that way, compared to those who do not).",
+                  "subcat": "Natural Selection"
+                }
+              ]
+            },
+            {
               "slug": "CCC",
               "name": "Cross-Cutting Concepts",
               "standardsGroup": [
                 {
+                  "parts": [],
                   "codes": "PAT-M3",
                   "grades": "6,7,8",
                   "statements": "Patterns can be used to identify cause-and-effect relationships.",
@@ -153,24 +193,20 @@
                   "subcat": "Patterns"
                 },
                 {
+                  "parts": [],
+                  "codes": "PAT-M4",
+                  "grades": "6,7,8",
+                  "statements": "Graphs, charts, and images can be used to identify patterns in data.",
+                  "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through interpreting data represented in tables and scatter plots.",
+                  "subcat": "Patterns"
+                },
+                {
+                  "parts": [],
                   "codes": "PAT-H5",
                   "grades": "9,10,11,12",
                   "statements": "Empirical evidence is needed to identify patterns.",
                   "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
                   "subcat": "Patterns"
-                }
-              ]
-            },
-            {
-              "slug": "DCI",
-              "name": "Disciplinary Core ideas",
-              "standardsGroup": [
-                {
-                  "codes": "LS4.B-H2",
-                  "grades": "9,10,11,12",
-                  "statements": "The traits that positively affect survival are more likely to be reproduced, and thus are more common in the population.",
-                  "alignmentNotes": "- This standard is not explicitly addressed, but can easily be connected by asking students to explain how some of the behaviors covered in the lesson should be favored by selection (i.e. how they increase survival and/or reproduction of individuals who behave that way, compared to those who do not).",
-                  "subcat": "Natural Selection"
                 }
               ]
             }
@@ -191,6 +227,9 @@
               "name": "Evaluating Sources, Communicating Conclusions & Taking Action",
               "standardsGroup": [
                 {
+                  "parts": [
+                    "2"
+                  ],
                   "codes": "D4.1.6-8",
                   "grades": "6,7,8",
                   "statements": "Construct arguments using claims and evidence from multiple sources, while acknowledging the strengths and limitations of the arguments.",
@@ -212,41 +251,16 @@
           "name": "NGSS",
           "dimensions": [
             {
-              "slug": "DCI",
-              "name": "Disciplinary Core ideas",
-              "standardsGroup": [
-                {
-                  "codes": "LS1.B-M2",
-                  "grades": "6,7,8",
-                  "statements": "Animals engage in characteristic behaviors that increase the odds of reproduction.",
-                  "alignmentNotes": "- Students will explore a wide variety of animal mate attraction and parental behaviors that increase the odds of survival and reproduction and reflect on both the general pattern of \"caring females, competitive males\" and exceptions to this pattern. ",
-                  "subcat": "Growth & Development of Organisms"
-                }
-              ]
-            },
-            {
               "slug": "SEP",
               "name": "Science & Engineering Practices",
               "standardsGroup": [
                 {
-                  "codes": "CEDS-M4",
+                  "parts": [],
+                  "codes": "AQDP-M1",
                   "grades": "6,7,8",
-                  "statements": "Apply scientific ideas, principles, and/or evidence to construct, revise and/or use an explanation for real-world phenomena, examples, or events.",
-                  "alignmentNotes": "- Students will integrate data visualization of real biological data and scientific text, using scientific ideas and principles to investigate an real example of exceptions to the rule in nature, with evidence for sex role reversal in Guardian Frogs.",
-                  "subcat": "Constructing Explanations & Designing Solutions"
-                }
-              ]
-            },
-            {
-              "slug": "CCC",
-              "name": "Cross-Cutting Concepts",
-              "standardsGroup": [
-                {
-                  "codes": "PAT-M4",
-                  "grades": "6,7,8",
-                  "statements": "Graphs, charts, and images can be used to identify patterns in data.",
-                  "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through interpreting data represented in tables and scatter plots.",
-                  "subcat": "Patterns"
+                  "statements": "Ask questions that arise from careful observation of phenomena, models, or unexpected results, to clarify and/or seek additional information.",
+                  "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through experience plotting boxplots and follow-up interpretation of data and discussion.",
+                  "subcat": "Ask Questions & Define Problems"
                 }
               ]
             }

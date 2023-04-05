@@ -5,8 +5,8 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-04-05 09:34:57
-MediumTitle: '''The Guardian Frogs of Borneo'' |Science| G5-9 (en-US)'
+LastUpdated: 2023-04-05 11:50:01
+MediumTitle: '''Purely a Test Project'' |Science| G5-9 (en-US)'
 lang: en
 lng: eng
 locale: en-US
@@ -45,7 +45,6 @@ GradesOrYears: Grades
 EstLessonTime: 150 min. (~3 classes)
 PullStandardsInfoFrom: standardX
 LearningPlotCorrection: yes
-LearningChartFriendly: yes
 LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
 LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5

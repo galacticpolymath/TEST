@@ -6,8 +6,8 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-05 09:34:57",
-  "MediumTitle": "'The Guardian Frogs of Borneo' |Science| G5-9 (en-US)",
+  "LastUpdated": "2023-04-05 11:50:01",
+  "MediumTitle": "'Purely a Test Project' |Science| G5-9 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
@@ -21,16 +21,16 @@
   "GdriveDirName": "TEST",
   "GdriveDirID": "1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
   "GdriveMetaID": "1mApvrZPNcTPOFGQW8p8tmzjOPjXO77Ya",
-  "GdriveTeachItID": "1xESDpZ9BkNq4zy3lKdPTwlKqDZpVtwQHbLTe_brrrZo",
-  "GdriveStandardsID": "1OaMZwqhqlqamRgobK5fjgVTWNLrB6khxZxdw0CjzAIw",
+  "GdriveTeachItID": "1CAmIGdmCm7vwddNyfpf2ASLvnkPZOyBa7iWdoxMD170",
+  "GdriveStandardsID": "1xfKRECoOxhBEQUl2tLWCt4AjAwdGJsnJlh9_TQFzcr4",
   "GdrivePublishedID": "1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE",
   "GdrivePublicID": null,
   "GdriveDirURL": "https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
   "PublicationStatus": "Draft",
   "RebuildAllMaterials": false,
   "ReleaseDate": "2022-04-22",
-  "Title": "The Guardian Frogs of Borneo",
-  "Subtitle": "Why Exceptions Matter in Biology and Everyday Life",
+  "Title": "Purely a Test Project",
+  "Subtitle": "Contains pieces of multiple lessons",
   "SponsorName": "Johana Goyes Vallejos",
   "SponsoredBy": "- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/) — Postdoc in the Division of Biological Sciences, University of Missouri – Columbia",
   "SponsorImage": {
@@ -83,94 +83,7 @@
       "SectionTitle": "Lesson Preview",
       "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>",
       "Multimedia": [
-        {
-          "order": "0",
-          "type": "video",
-          "title": "Trailer: I Like That!",
-          "description": null,
-          "lessonRelevance": "Trailer giving an overview of what this lesson entails.",
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": "https://www.youtube.com/embed/QnoVSKx4G1c",
-          "otherLink": null
-        },
-        {
-          "order": "1",
-          "type": "video",
-          "title": "I Like That! How our eyes and brains interact to determine what we like and dislike",
-          "description": "This video explores how things we see (visual stimuli) affect emotional states and interact with our memories and higher order thinking (cognition) to produce preferences and behavior. This basic framework is adapted from human and animal behavior research. We use this framework throughout the middle school-targeted lesson below. In the lesson, students perform an experiment to understand their own preferences and dive into research on fish, exploring how sensitivity to different frequencies of light affects mate preferences. We dive into this topic in detail in our second video supporting this lesson.",
-          "lessonRelevance": "This video sets up key vocabulary and concepts we will use throughout this lesson. It sets up activities that will have students trying to understand how emotion, memory, and higher-order connections explain their own preferences for certain images.",
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": "https://www.youtube.com/embed/mw8OoXGIsj8",
-          "otherLink": null
-        },
-        {
-          "order": "2",
-          "type": "pdf",
-          "title": "Images for Part 1 Experiment",
-          "description": null,
-          "lessonRelevance": "Students will rank these images based on their arbitrary preferences. They will then conduct an experiment to try to understand why they ranked things as they did.",
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": "https://docs.google.com/presentation/d/1b5pBKdYlMukFkCQjwposyRHdL3QMrq3-tgskbRXGkgo/edit",
-          "otherLink": null
-        },
-        {
-          "order": "3",
-          "type": "video",
-          "title": "How we see color - Colm Kelleher",
-          "description": null,
-          "lessonRelevance": "For Part 2, this video gives a nice explanation of what color is: different wavelengths of light reflected from objects and detected by our eyes and brain.",
-          "by": "TedEd",
-          "byLink": "https://www.youtube.com/teded",
-          "mainLink": "https://www.youtube.com/embed/l8_fZPHasdo",
-          "otherLink": null
-        },
-        {
-          "order": "4",
-          "type": "video",
-          "title": "The Science of Color Perception",
-          "description": null,
-          "lessonRelevance": "For Part 2, this neat video adds a bit more detail about color perception. (Only a short clip is embedded in presentation 2). We carried the \"cones\" characters into our original video (next in the playlist).",
-          "by": "Calder Ruhl Hansen",
-          "byLink": "https://www.youtube.com/c/CalderRuhlHansen",
-          "mainLink": "https://www.youtube.com/embed/poL7nDmqjmk",
-          "otherLink": null
-        },
-        {
-          "order": "5",
-          "type": "video",
-          "title": "How do we know what a fish likes? (And can we predict it?)",
-          "description": null,
-          "lessonRelevance": "Supports Part 2 activities analyzing real scientific data to follow in the footsteps of Drs. Tamra Mendelson and Tory Williams. Explains basics of how color vision works, contrasted against freshwater fish called darters which are used in the research covered here.",
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": "https://www.youtube.com/embed/PGmPIHPX9eQ",
-          "otherLink": null
-        },
-        {
-          "order": "6",
-          "type": "pdf",
-          "title": "Creature Stats Character Sheets",
-          "description": null,
-          "lessonRelevance": "In Part 3, students apply what they've learned about visual processing in the brain to artworks. They will use these original character sheet designs to calculate proportions and test whether being outside the range of human variation makes a character inherently creepy or cute.",
-          "by": "Galactic Polymath",
-          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": "https://drive.google.com/file/d/1578pmIB8HS0n2XTgOI-fIPN_-LL4p1FR/view",
-          "otherLink": null
-        },
-        {
-          "order": "7",
-          "type": "video",
-          "title": "Darter facts: the colorful little fish | Animal Fact Files",
-          "description": null,
-          "lessonRelevance": "More Details on Darters (for Part 2). Supplement–not included in any lesson materials.",
-          "by": "Animal Fact Files",
-          "byLink": "https://www.youtube.com/c/AnimalFactFiles",
-          "mainLink": "https://www.youtube.com/embed/JnD1d4pIxO4",
-          "otherLink": null
-        }
+        null
       ],
       "InitiallyExpanded": true
     },
@@ -178,7 +91,7 @@
       "__component": "teaching-resources.teaching-resources",
       "SectionTitle": "Teaching Materials",
       "Data": {
-        "lessonDur": "2 x 60 min",
+        "lessonDur": "Part 1: NA min, Part 0:  min",
         "classroom": {
           "gradeVariantNotes": [
             {
@@ -205,11 +118,11 @@
               "parts": {
                 "1": {
                   "part": "1",
-                  "title": "Why Do I Like That?",
+                  "title": null,
                   "tags": [
                     null
                   ],
-                  "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Presentation (Part 1)",
@@ -260,11 +173,11 @@
                 },
                 "2": {
                   "part": "2",
-                  "title": "The Perception of Beauty",
+                  "title": null,
                   "tags": [
                     null
                   ],
-                  "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Presentation (Part 2)",
@@ -315,11 +228,11 @@
                 },
                 "3": {
                   "part": "3",
-                  "title": "Creature Stats",
+                  "title": null,
                   "tags": [
                     null
                   ],
-                  "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Table (Part 3)",
@@ -445,11 +358,11 @@
               "parts": {
                 "1": {
                   "part": "1",
-                  "title": "Why Do I Like That?",
+                  "title": null,
                   "tags": [
                     null
                   ],
-                  "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Presentation (Part 1)",
@@ -500,11 +413,11 @@
                 },
                 "2": {
                   "part": "2",
-                  "title": "The Perception of Beauty",
+                  "title": null,
                   "tags": [
                     null
                   ],
-                  "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Presentation (Part 2)",
@@ -555,11 +468,11 @@
                 },
                 "3": {
                   "part": "3",
-                  "title": "Creature Stats",
+                  "title": null,
                   "tags": [
                     null
                   ],
-                  "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Presentation (Part 3)",
@@ -703,11 +616,11 @@
               "parts": {
                 "1": {
                   "part": "1",
-                  "title": "Why Do I Like That?",
+                  "title": null,
                   "tags": [
                     null
                   ],
-                  "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Presentation (Part 1)",
@@ -728,11 +641,11 @@
                 },
                 "2": {
                   "part": "2",
-                  "title": "The Perception of Beauty",
+                  "title": null,
                   "tags": [
                     null
                   ],
-                  "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Presentation (Part 2)",
@@ -753,11 +666,11 @@
                 },
                 "3": {
                   "part": "3",
-                  "title": "Creature Stats",
+                  "title": null,
                   "tags": [
                     null
                   ],
-                  "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Presentation (Part 3)",
@@ -868,11 +781,11 @@
               "parts": {
                 "1": {
                   "part": "3",
-                  "title": "Creature Stats",
+                  "title": null,
                   "tags": [
                     null
                   ],
-                  "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Student Table (Part 3)",
@@ -963,185 +876,69 @@
         "parts": [
           {
             "partNum": 1,
-            "partTitle": "Why Do I Like That?",
-            "partDur": 60,
-            "partPreface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
+            "partTitle": null,
+            "partDur": null,
+            "partPreface": null,
             "partPrep": {
               "PrepTitle": "Prep",
-              "PrepDur": null,
-              "PrepQuickDescription": "Cut out class set of image cards (1 per group of ~2)",
-              "PrepDetails": "Have students do one of the following:\n- Read [this article](https://blogs.scientificamerican.com/observations/more-recycling-wont-solve-plastic-pollution/)\n- [Watch this video ](https://www.youtube.com/watch?v=iO3SA4YyEYU)",
+              "PrepDur": 10,
+              "PrepQuickDescription": "Print out handouts. Assemble supplies.",
+              "PrepDetails": "Make a bulleted list like this:\n- First thing needed (hit ALT+Enter for new line)\n- Second thing needed",
               "PrepVariantNotes": null,
-              "PrepTeachingTips": null
+              "PrepTeachingTips": "We expect a basic understanding of...X. If they need background, read [this article](paste URL)."
             },
             "chunks": [
               {
-                "chunkTitle": "Getting Started",
+                "chunkTitle": "******\nWrite Over This Text A2:K:4  (but don't delete row!)\n******\nChunk 1 Title; you don't need to repeat this across steps in the same chunk.",
                 "chunkStart": 0,
-                "chunkDur": 5,
+                "chunkDur": 10,
                 "steps": [
                   {
                     "Step": 1,
-                    "StepTitle": "Puzzle Warm-Up",
-                    "StepQuickDescription": "What question are we investigating?",
-                    "StepDetails": "Students interpret a series of images (rebus puzzle) to determine the focus of this lesson. Their answers are recorded on the \"I Like That\" Part 1 worksheet.",
+                    "StepTitle": "******\nWrite Title; Be sure to refer to notes in each column header\n******\nStep 1 Title. Need 1 per Step.",
+                    "StepQuickDescription": "Concise Description",
+                    "StepDetails": "Details about this step. In this column, as well as StepQuickDescription, and Variant Notes, you can embed a link to a video. Ex: To insert a link to the video listed in the Multimedia tab with Order=1, simply add [ERROR: CHECK *{vid1}* REFERENCE. NO LINK FOUND]() anywhere in the text description. A formatted link with the video title will be added to the Procedure.JSON used to generate the lesson plan webpage.",
                     "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 2,
-                    "StepTitle": "Scientific Method",
-                    "StepQuickDescription": "Quick refresher of the scientific method",
-                    "StepDetails": "This lesson is a real experiment and the results are specific to each class that completes it. This is exactly what scientists face in their own labs when they ask questions that don't have answers yet. Because this requires students to have a solid understanding of the Scientific Method, the first part of the lesson is a recap of each step in that process.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
+                    "VariantNotes": "Notes about either classroom or remote differences or grade level differences if there are multiple grade variants (e.g. high school vs middle school)",
+                    "TeachingTips": "Teaching Tips"
                   }
                 ]
               },
               {
-                "chunkTitle": "Observation",
-                "chunkStart": 5,
+                "chunkTitle": "Chunk 2 Title",
+                "chunkStart": 10,
                 "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "Step 2 Title. Need 1 per Step.",
+                    "StepQuickDescription": "Concise Description",
+                    "StepDetails": "Students will play with the Cards handout: [ERROR: CHECK *{item3}* REFERENCE. NO LINK FOUND]()  (This would expand item3 to have a title and link to a pdf if it were listed in the Multimedia tab",
+                    "Vocab": null,
+                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
+                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Chunk 3 Title",
+                "chunkStart": 20,
+                "chunkDur": 25,
                 "steps": [
                   {
                     "Step": 3,
-                    "StepTitle": "Ranking Images",
-                    "StepQuickDescription": "The Image Cards present a set of ten images to the students which they must rank from favorite (#1) to least favorite (#10) on their worksheet (Qs 1-10).",
-                    "StepDetails": "Students have five minutes to complete this activity. Their observations form the basis for the next part of the scientific method. Students need either digital or printed copies of Images A - J (Image Cards) as well as the \"I Like That\" Part 1 Worksheet.",
-                    "Vocab": "- **stimulus:**  what you can see",
+                    "StepTitle": "Step 4 Title",
+                    "StepQuickDescription": "Concise Description",
+                    "StepDetails": "More Detailed description",
+                    "Vocab": null,
                     "VariantNotes": null,
-                    "TeachingTips": "Try to save the Image Cards and laminate them or put them in protective sleeves if you plan to teach the lesson multiple times to save on printed paper."
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Question",
-                "chunkStart": 15,
-                "chunkDur": 10,
-                "steps": [
+                    "TeachingTips": null
+                  },
                   {
                     "Step": 4,
-                    "StepTitle": "Watch Video 1",
-                    "StepQuickDescription": "The next step after collecting observations is questioning why they are the way they are.",
-                    "StepDetails": "By talking about visual stimuli, students understand why they ranked the 10 images the way they did. [▶ Trailer: I Like That!](https://youtu.be/QnoVSKx4G1c) explores how the eyes and brain interact to result in our visual preferences.",
-                    "Vocab": "- **stimulus:** something that causes an organ or tissue (like your brain) to react (plural is stimuli)",
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 5,
-                    "StepTitle": null,
-                    "StepQuickDescription": "Students next consider how the interface among Cognition, Perception, and Emotion of visual stimuli influenced their observations.",
-                    "StepDetails": "Check In: After watching the video and learning more about the Cognition, Perception, and Emotion triad, students answer Questions 11-15 on their worksheets about decision making and how it is influenced by these things.",
-                    "Vocab": "- **cognition:** how well you understand what you're perceiving\n- **perception:** our ability to see, hear, or become aware of a stimulus through our senses\n- **emotion:** a positive or negative feelings brought about by chemicals released in the brain\n- **preference:** whether you like or dislike something which is influenced by a combination of cognition, perception, and emotions",
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Hypothesis",
-                "chunkStart": 25,
-                "chunkDur": 10,
-                "steps": [
-                  {
-                    "Step": 6,
-                    "StepTitle": "Developing Hypotheses and Setting Up Experiments",
-                    "StepQuickDescription": "The next step in the scientific method is to develop a hypothesis that can be tested which gets at the \"Why.\"",
-                    "StepDetails": "The class tests the hypothesis that cognition and emotion determine how the images were ranked.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 7,
-                    "StepTitle": null,
-                    "StepQuickDescription": "To determine whether the hypothesis can be rejected or accepted with confidence, the group sets up an experiment.",
-                    "StepDetails": "The experiment must try to isolate two of the three effects (Cognition and Emotion) and measure how much each contributes to preference.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 8,
-                    "StepTitle": null,
-                    "StepQuickDescription": "Think - Pair",
-                    "StepDetails": "Using descriptive numerical scales, students discuss in pairs (or small groups) how they would rate their top-ranked images based on Emotion and Cognition.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": "Throughout the lesson, you will occasionally see *Think - Ink - Pair - Share*, or some combination thereof, on the presentation slides. The words not grayed out are the goals for that activity. *Think* means a student considers a question or challenge on their own, *Ink* indicates they should be writing their thoughts or answers down, *Pair* asks that once they have completed Think and/or Ink, students pair up (or get in small groups) and talk about the question or activity. Lastly, *Share* is when the class comes together and talks about the question or activity as a group."
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Prediction",
-                "chunkStart": 35,
-                "chunkDur": 10,
-                "steps": [
-                  {
-                    "Step": 9,
-                    "StepTitle": "Creating Predictions",
-                    "StepQuickDescription": "Think - Ink - Pair",
-                    "StepDetails": "Students learn how to develop predictions related to their hypothesis and experimental design by looking at example data. They have two minutes to think about the example presented to them and decide which responses they would predict. Students then discuss their answers in pairs or small groups.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 10,
-                    "StepTitle": null,
-                    "StepQuickDescription": "Adopting a prediction.",
-                    "StepDetails": "Once the class understands how to formulate a prediction, for the purposes of this study they adopt the following Prediction (P1): Top ranked images will have high cognitive and emotional scores.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Experiment",
-                "chunkStart": 45,
-                "chunkDur": 20,
-                "steps": [
-                  {
-                    "Step": 11,
-                    "StepTitle": "Collecting Data",
-                    "StepQuickDescription": "Working in pairs, students trade off being the \"scientist\" and \"test-subject.\"",
-                    "StepDetails": "The student acting as the \"scientist\" shows the \"test subject\" one image at a time and asks questions using the Cognitive and Emotion Score scales to collect data. Each pair has 10 minutes to complete the experiment, then they switch roles and repeat the process. The scientist should record the test subject's data on the test subject's worksheet (page 4).",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Results",
-                "chunkStart": 65,
-                "chunkDur": 10,
-                "steps": [
-                  {
-                    "Step": 12,
-                    "StepTitle": "Plotting Data",
-                    "StepQuickDescription": "Using the data from the experiment, students plot their results on graphs.",
-                    "StepDetails": "Students plot their data to make similar graphs as the ones used in the example data to practice making predictions. These graphs plot Emotion vs. Cognitive scores for the top and bottom five scores.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Conclusions",
-                "chunkStart": 75,
-                "chunkDur": 5,
-                "steps": [
-                  {
-                    "Step": 13,
-                    "StepTitle": "Discussing the Results",
-                    "StepQuickDescription": "Based on the class's data, what can be concluded about how cognition and emotion affect how images are ranked?",
-                    "StepDetails": "Students answer questions 9 - 15 on their worksheets. The class can also discuss as a group the results, why they may have ended up with the results that were observed, and how the experimental design may have affected any outcomes.",
+                    "StepTitle": "Step 4 Title",
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -1149,73 +946,48 @@
                 ]
               }
             ],
-            "partExt": [
-              {
-                "item": 1,
-                "itemTitle": "Watch The Story of Plastic",
-                "itemDescription": null,
-                "itemLink": "https://www.youtube.com/watch?v=mw8OoXGIsj8"
-              }
-            ]
+            "partExt": null
           },
           {
             "partNum": 2,
-            "partTitle": "The Perception of Beauty",
-            "partDur": 60,
-            "partPreface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
+            "partTitle": null,
+            "partDur": null,
+            "partPreface": null,
             "partPrep": {
               "PrepTitle": "Prep",
-              "PrepDur": 10,
-              "PrepQuickDescription": "1. Look over the slides\n2. Print out handouts",
+              "PrepDur": null,
+              "PrepQuickDescription": null,
               "PrepDetails": null,
               "PrepVariantNotes": null,
               "PrepTeachingTips": null
             },
             "chunks": [
               {
-                "chunkTitle": "Warm-Up",
+                "chunkTitle": "Chunk 1 Title",
                 "chunkStart": 0,
-                "chunkDur": 5,
+                "chunkDur": 10,
                 "steps": [
                   {
                     "Step": 1,
-                    "StepTitle": "Polymath Puzzle #2",
-                    "StepQuickDescription": "How many ladybugs are there?",
-                    "StepDetails": "Students see a set of squares and are tasked with counting how many ladybugs they see. This activity was developed by experimental psychologist, Akiyoshi Kitaoka, who studies visual illusions.",
+                    "StepTitle": "Step 1 Title",
+                    "StepQuickDescription": null,
+                    "StepDetails": "READ THIS ↓",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
-                  },
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Chunk 2 Title",
+                "chunkStart": 10,
+                "chunkDur": 30,
+                "steps": [
                   {
                     "Step": 2,
-                    "StepTitle": "Part 1 Review",
-                    "StepQuickDescription": "What patterns could be observed?",
-                    "StepDetails": "Students recall their data from Part 1 from the image ranking experiment and whether about whether they noticed any patterns.",
-                    "Vocab": "- **aesthetics:** a set of principles concerned with the nature and appreciation of beauty, especially in art.",
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "The Science of Perception",
-                "chunkStart": 5,
-                "chunkDur": 15,
-                "steps": [
-                  {
-                    "Step": 3,
-                    "StepTitle": "What is perception?",
-                    "StepQuickDescription": "Organizing and identifying sensory information.",
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
                     "StepDetails": null,
-                    "Vocab": "- **perception:** the ability to see, hear, and become aware of something through the senses.",
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 4,
-                    "StepTitle": null,
-                    "StepQuickDescription": "How does the human eye work?",
-                    "StepDetails": "The perception of beauty is often influenced by colors which is perceived using our eyes. Students learn more about how this process works in the interface between the eyes and brain.",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -1223,202 +995,80 @@
                 ]
               },
               {
-                "chunkTitle": "Preferences in the Animal Kingdom",
-                "chunkStart": 20,
-                "chunkDur": 20,
-                "steps": [
-                  {
-                    "Step": 5,
-                    "StepTitle": "Studying visual signals in fish",
-                    "StepQuickDescription": "An introduction to Dr. Mendelson's work with Darters.",
-                    "StepDetails": "Darters are great model organisms to study evolutionary changes in animal communication over time.",
-                    "Vocab": "- **model organism:** a non-human species used to study some biological phenomena or process to provide insight into how the phenomena or process works in other species.",
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 6,
-                    "StepTitle": null,
-                    "StepQuickDescription": "What a fish likes",
-                    "StepDetails": "Students watch [▶ The Science of Color Perception](https://www.youtube.com/watch?v=poL7nDmqjmk) which explains more about Dr. Mendelson's work on how fish preference is studied scientifically.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Analysis",
+                "chunkTitle": "Chunk 3 Title",
                 "chunkStart": 40,
                 "chunkDur": 5,
                 "steps": [
                   {
-                    "Step": 7,
-                    "StepTitle": "Box Plots",
-                    "StepQuickDescription": "Think - Ink - Pair - Share",
-                    "StepDetails": "Using actual data from Dr. Mendelson's studies, students consider how visual stimuli and fish perception interact to influence fish preferences (Q3 in the worksheet). They then learn about box plots and how they are used in data analysis.",
+                    "Step": 3,
+                    "StepTitle": null,
+                    "StepQuickDescription": "READ THIS →",
+                    "StepDetails": "When you've looked at this example text and understand how it works, select cells A4:K21 and delete. Don't delete the top row!",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
                   }
                 ]
-              },
-              {
-                "chunkTitle": "Conclusions",
-                "chunkStart": 45,
-                "chunkDur": 15,
-                "steps": [
-                  {
-                    "Step": 8,
-                    "StepTitle": "Independent Work",
-                    "StepQuickDescription": "Students reflect on their findings. This work can be done in class or for homework.",
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": "The beginning of Part 3 will include time to discuss take-homes from the analysis. Specifically, which is more important--cognition or emotion--for explaining students' ranked preferences for images?"
-                  }
-                ]
               }
             ],
-            "partExt": [
-              {
-                "item": 1,
-                "itemTitle": "Watch this",
-                "itemDescription": null,
-                "itemLink": "https://www.youtube.com/watch?v=iO3SA4YyEYU"
-              },
-              {
-                "item": 2,
-                "itemTitle": "Read this",
-                "itemDescription": null,
-                "itemLink": "https://www.statology.org/r-add-prefix-to-column-names/"
-              }
-            ]
+            "partExt": null
           },
           {
             "partNum": 3,
-            "partTitle": "Creature Stats",
+            "partTitle": null,
             "partDur": null,
-            "partPreface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
+            "partPreface": null,
             "partPrep": {
-              "PrepTitle": "Prep",
+              "PrepTitle": null,
               "PrepDur": null,
-              "PrepQuickDescription": "1. Look over the slides\n2. Print out handouts",
-              "PrepDetails": null,
+              "PrepQuickDescription": null,
+              "PrepDetails": "READ THIS ↑",
               "PrepVariantNotes": null,
-              "PrepTeachingTips": "You might have assign a reading from the Part 2 \"Going Further\" section for homework."
+              "PrepTeachingTips": null
             },
             "chunks": [
               {
-                "chunkTitle": "Warm-Up",
+                "chunkTitle": null,
                 "chunkStart": 0,
-                "chunkDur": 5,
-                "steps": [
-                  {
-                    "Step": 1,
-                    "StepTitle": "Cute vs. Creepy",
-                    "StepQuickDescription": "Quick write-up about how to define cute vs. creepy.",
-                    "StepDetails": "Students write briefly about how they might define something as being cute and creepy. They then look at a line-up of characters and write about which one they find the cutest vs. creepiest and why.",
-                    "Vocab": "- **phenotype:** physical appearance",
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Typicality",
-                "chunkStart": 5,
                 "chunkDur": 10,
                 "steps": [
                   {
-                    "Step": 2,
-                    "StepTitle": "Perception and preference affecting familiarity",
-                    "StepQuickDescription": "What do we mean when something is called \"typical\"?",
-                    "StepDetails": "After learning about what typicality means, students apply it to how it can influence preference through our different sensory systems.",
-                    "Vocab": "- **typicality:** within certain limits of what is typical, or occurs most often",
+                    "Step": 1,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
-                  },
+                  }
+                ]
+              },
+              {
+                "chunkTitle": null,
+                "chunkStart": 10,
+                "chunkDur": 15,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": null,
+                "chunkStart": 25,
+                "chunkDur": null,
+                "steps": [
                   {
                     "Step": 3,
                     "StepTitle": null,
-                    "StepQuickDescription": "How does \"atypicality\" influence our preferences?",
-                    "StepDetails": "While \"typical\" things often reflect what we prefer, on the other hand atypical things can cause us to feel repulsed or uneasy. Students use animated characters to dig deeper into this.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 4,
-                    "StepTitle": null,
-                    "StepQuickDescription": "Form a prediction",
-                    "StepDetails": "Students answer Q1-3 on their worksheet to form a prediction about how we percieve what is cute vs. creepy.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Creature Stats",
-                "chunkStart": 15,
-                "chunkDur": 15,
-                "steps": [
-                  {
-                    "Step": 5,
-                    "StepTitle": "Typical and Exaggerated Human Proportions",
-                    "StepQuickDescription": "Evaluate the characters",
-                    "StepDetails": "There are seven illustrated characters which have several different measurements for different parts of their bodies. Students use these to calculate different proportions, or ratios, between different body parts, such as eye height to eye width, by finishing Table 1 in the worksheet (Qs4-15). Lastly students mark the ratios on a pre-made histogram (Q16).",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": "Try to save the Creature Stats Character Sheets and laminate them or put them in protective sleeves if you plan to teach the lesson multiple times to save on printed paper."
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "How to read this graph?",
-                "chunkStart": 30,
-                "chunkDur": 15,
-                "steps": [
-                  {
-                    "Step": 6,
-                    "StepTitle": "Histograms",
-                    "StepQuickDescription": "What is a histogram?",
-                    "StepDetails": "Students go through an example of what a histogram is and how to interpret the data to draw conclusions.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 7,
-                    "StepTitle": "Dot Plots",
-                    "StepQuickDescription": "Understanding the data",
-                    "StepDetails": "Dot plots use similar data to histograms, but make display the data in a way that's a little easier to understand. Students practice looking at example dot plots and analyzing them for information.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Results & Conclusions",
-                "chunkStart": 45,
-                "chunkDur": 15,
-                "steps": [
-                  {
-                    "Step": 8,
-                    "StepTitle": "Data Analysis",
-                    "StepQuickDescription": "Drawing conclusions about cute vs. creepy.",
-                    "StepDetails": "Using the histogram data from Creature Stats, students draw final conclusions about how something could be labeled as cute or creepy based on ratios.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 9,
-                    "StepTitle": "Discussion",
-                    "StepQuickDescription": "Do the data support the predictions?",
-                    "StepDetails": "Students refer back to their predictions and discuss whether the data they collected and analyzed support them.",
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -1426,60 +1076,140 @@
                 ]
               }
             ],
-            "partExt": [
+            "partExt": null
+          },
+          {
+            "partNum": 4,
+            "partTitle": null,
+            "partDur": null,
+            "partPreface": null,
+            "partPrep": {
+              "PrepTitle": null,
+              "PrepDur": null,
+              "PrepQuickDescription": null,
+              "PrepDetails": null,
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
+            "chunks": [
               {
-                "item": 1,
-                "itemTitle": "Watch tomorrow's video",
-                "itemDescription": "[ERROR: CHECK *{vid 3}* REFERENCE. NO LINK FOUND]()",
-                "itemLink": null
+                "chunkTitle": null,
+                "chunkStart": 0,
+                "chunkDur": null,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": null,
+                "chunkStart": null,
+                "chunkDur": null,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
               }
-            ]
+            ],
+            "partExt": null
+          },
+          {
+            "partNum": 5,
+            "partTitle": null,
+            "partDur": null,
+            "partPreface": null,
+            "partPrep": {
+              "PrepTitle": null,
+              "PrepDur": null,
+              "PrepQuickDescription": null,
+              "PrepDetails": null,
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": null,
+                "chunkStart": 0,
+                "chunkDur": null,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 2,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "partExt": null
+          },
+          {
+            "partNum": 6,
+            "partTitle": null,
+            "partDur": null,
+            "partPreface": null,
+            "partPrep": {
+              "PrepTitle": null,
+              "PrepDur": null,
+              "PrepQuickDescription": null,
+              "PrepDetails": null,
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": null,
+                "chunkStart": 0,
+                "chunkDur": null,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "partExt": null
           }
         ],
-        "gatheredVocab": [
-          {
-            "term": "stimulus",
-            "definition": "what you can see"
-          },
-          {
-            "term": "cognition",
-            "definition": "how well you understand what you're perceiving"
-          },
-          {
-            "term": "perception",
-            "definition": "our ability to see, hear, or become aware of a stimulus through our senses"
-          },
-          {
-            "term": "emotion",
-            "definition": "a positive or negative feelings brought about by chemicals released in the brain"
-          },
-          {
-            "term": "preference",
-            "definition": "whether you like or dislike something which is influenced by a combination of cognition, perception, and emotions"
-          },
-          {
-            "term": "aesthetics",
-            "definition": "a set of principles concerned with the nature and appreciation of beauty, especially in art."
-          },
-          {
-            "term": "model organism",
-            "definition": "a non-human species used to study some biological phenomena or process to provide insight into how the phenomena or process works in other species."
-          },
-          {
-            "term": "phenotype",
-            "definition": "physical appearance"
-          },
-          {
-            "term": "typicality",
-            "definition": "within certain limits of what is typical, or occurs most often"
-          }
-        ]
+        "gatheredVocab": null
       }
     },
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n Instead of telling students that a pattern exists, we have them discover it for themselves. That is, rather than telling them, \"In animal species with *conventional sex roles,* males invest more in attracting and competing for mates, while females invest more in parental care,\" we have students collect data in a fun, interactive format and draw this conclusion from the data. They are then more invested in understanding cases of *sex role reversed species* that are the exceptions to this rule, and have \"caring males\" and \"competitive females.\" \n\nIn part 2, students follow in the footsteps of an early career Latina scientist, Dr. Johana Goyes Vallejos, testing the same hypotheses she did during her PhD research. Students analyze a real graph and table she collected on the island of Borneo to determine if the Smooth Guardian Frog (*Limnonectes palavanensis*) is the first sex-role-reversed frog species known to science. (It is!) \n#### Research Background\n Watch [ERROR: CHECK *{vid3}* REFERENCE. NO LINK FOUND]() to get a nice summary of Dr. Johana Goyes Vallejos’ scientific journey.\n\nWhile pursuing a PhD in ecology and evolutionary biology at the University of Connecticut, Johana heard about a poorly studied frog called the Smooth Guardian Frog (*Limnonectes palavanensis*), found only on the island of Borneo in Southeast Asia. In a couple of scientific papers in the 1980s, a researcher had described a highly unusual behavior--the males guard eggs hidden under the leaf litter (thus, the common name of the species). When the eggs hatch, the male then carries the tadpoles (on his back!) to small pools of water where they can develop into adult frogs.\nJohana, who was deeply interested in parental care behavior decided to fly to the tiny sultanate of Brunei (ruled by a sultan, rather than a king) and learn about this frog herself. She established a study population, tracking individuals and recording audio of frog calls, often on her own at night, wading through thick mud and fording streams. During her observations, she noticed a tiny peep. It sounded very different from the male calls she had been used to hearing. After careful observation, she confirmed that indeed, these were female calls, which had never been described before by anyone. (See [▶ How we see color - Colm Kelleher](https://www.youtube.com/watch?v=l8_fZPHasdo))\n\nOut of 8,000+ known frog species, Johana had found one of only a couple that are known to have calling females. Previously, scientists had thought females might be physiologically incapable of producing calls. In contrast, when she started focusing on female calling behavior, she found that they were actually calling *more* than males! Students will recapitulate this finding by analyzing a figure showing male and female calling rates.\n\nAs [Borneo is now being heavily deforested](https://en.wikipedia.org/wiki/Deforestation_in_Borneo), populations of Guardian Frogs are declining. In the final assignment, students are asked to synthesize everything they’ve learned to write a persuasive paragraph about why these exceptional frogs matter and what we stand to lose if they are lost. \n\n#### Researcher Bio\nDr. Johana Goyes Vallejos is a Preparing Future Faculty for Faculty Diversity Postdoctoral Fellow in the Division of Biological Sciences at the University of Missouri, Columbia. She graduated with a B.Sc. in Biology with a minor in Genetics from the Universidad del Valle in Cali, Colombia. She received her Ph.D. in Ecology and Evolutionary Biology from the\nUniversity of Connecticut, studying mating systems, parental care behavior, and acoustic\ncommunication in frogs. Her research has taken her to many tropical forests across the\nworld, including Panama, Costa Rica, Guyana, the Philippines, Malaysia and Brunei\nDarussalam. \n\nAt the University of Missouri, Dr. Goyes Vallejos continues her research on\nmating behavior and parental care strategies using frogs with elaborate parental behaviors\nas study systems. In addition, since 2018, she serves as a research mentor for an NSF-\nfunded Research Experience for Undergraduates program in Costa Rica, providing\nhands-on training in animal behavior and field research to undergraduate students\nbelonging to minoritized groups in STEM. She is passionate about sharing her research findings with scientific and non-scientific audiences through various media outlets. When not chasing frogs in remote forests around the world Dr. Goyes Vallejos enjoys salsa dancing, storytelling and crocheting amigurumis. \n\n[Learn more about Johana at her website](https://jogoyesvallejos.weebly.com/)\n\n#### Further Reading and Listening\n- [The Shape of The World Podcast: When the girl frog sings](https://shapeoftheworldshow.com/2019/05/04/episode-10-when-the-girl-frog-sings/) (May 2019)\n- [FrogLife.org| Female communication in anurans: duets, ultrasonic calls and sex-role reversal](http://www.froglife.org/2019/08/29/croaking-science-female-communication-in-anurans-duets-ultrasonic-calls-and-sex-role-reversal/) (August 2019)\n- [National Geographic España| Los padrazos del mundo de los anfibios](https://www.nationalgeographic.com.es/ciencia/grandes-reportajes/padrazos-mundo-anfibios_13763) (March 2019)\n- [The New York Times| ​Devoted Dads of the Amphibian World](https://www.nytimes.com/2018/12/04/science/frogs-parenting-reproduction.html) (December 2018)\n- [KU Today| Extraordinary 'faithful father' revealed by study of smooth guardian frog of Borneo](https://today.ku.edu/2018/12/13/research-smooth-guardian-frog-borneo-details-extraordinary-faithful-father) (December 2018)\n- [Science Magazine: These female frogs are the first of their kind to croon to their guys](http://www.sciencemag.org/news/2017/06/these-female-frogs-are-first-their-kind-croon-their-guys)​ (June 2017)\n- [Science & Vie| Chez la grenouille de Bornéo, c'est madame qui chante](https://www.science-et-vie.com/nature-et-enviro/chez-la-grenouille-de-borneo-c-est-madame-qui-chante-8925) (June 2017)\n\n#### Related Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/TEST/goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=Calling+behavior+of+males+and+females+of+a+Bornean+frog+with+male+parental+care+and+possible+sex-role+reversal&btnG=)\n",
+      "Content": "#### Connection to Research\n Instead of telling students that a pattern exists, we have them discover it for themselves. That is, rather than telling them, \"In animal species with *conventional sex roles,* males invest more in attracting and competing for mates, while females invest more in parental care,\" we have students collect data in a fun, interactive format and draw this conclusion from the data. They are then more invested in understanding cases of *sex role reversed species* that are the exceptions to this rule, and have \"caring males\" and \"competitive females.\" \n\nIn part 2, students follow in the footsteps of an early career Latina scientist, Dr. Johana Goyes Vallejos, testing the same hypotheses she did during her PhD research. Students analyze a real graph and table she collected on the island of Borneo to determine if the Smooth Guardian Frog (*Limnonectes palavanensis*) is the first sex-role-reversed frog species known to science. (It is!) \n#### Research Background\n Watch [ERROR: CHECK *{vid3}* REFERENCE. NO LINK FOUND]() to get a nice summary of Dr. Johana Goyes Vallejos’ scientific journey.\n\nWhile pursuing a PhD in ecology and evolutionary biology at the University of Connecticut, Johana heard about a poorly studied frog called the Smooth Guardian Frog (*Limnonectes palavanensis*), found only on the island of Borneo in Southeast Asia. In a couple of scientific papers in the 1980s, a researcher had described a highly unusual behavior--the males guard eggs hidden under the leaf litter (thus, the common name of the species). When the eggs hatch, the male then carries the tadpoles (on his back!) to small pools of water where they can develop into adult frogs.\nJohana, who was deeply interested in parental care behavior decided to fly to the tiny sultanate of Brunei (ruled by a sultan, rather than a king) and learn about this frog herself. She established a study population, tracking individuals and recording audio of frog calls, often on her own at night, wading through thick mud and fording streams. During her observations, she noticed a tiny peep. It sounded very different from the male calls she had been used to hearing. After careful observation, she confirmed that indeed, these were female calls, which had never been described before by anyone. (See [ERROR: CHECK *{vid4}* REFERENCE. NO LINK FOUND]())\n\nOut of 8,000+ known frog species, Johana had found one of only a couple that are known to have calling females. Previously, scientists had thought females might be physiologically incapable of producing calls. In contrast, when she started focusing on female calling behavior, she found that they were actually calling *more* than males! Students will recapitulate this finding by analyzing a figure showing male and female calling rates.\n\nAs [Borneo is now being heavily deforested](https://en.wikipedia.org/wiki/Deforestation_in_Borneo), populations of Guardian Frogs are declining. In the final assignment, students are asked to synthesize everything they’ve learned to write a persuasive paragraph about why these exceptional frogs matter and what we stand to lose if they are lost. \n\n#### Researcher Bio\nDr. Johana Goyes Vallejos is a Preparing Future Faculty for Faculty Diversity Postdoctoral Fellow in the Division of Biological Sciences at the University of Missouri, Columbia. She graduated with a B.Sc. in Biology with a minor in Genetics from the Universidad del Valle in Cali, Colombia. She received her Ph.D. in Ecology and Evolutionary Biology from the\nUniversity of Connecticut, studying mating systems, parental care behavior, and acoustic\ncommunication in frogs. Her research has taken her to many tropical forests across the\nworld, including Panama, Costa Rica, Guyana, the Philippines, Malaysia and Brunei\nDarussalam. \n\nAt the University of Missouri, Dr. Goyes Vallejos continues her research on\nmating behavior and parental care strategies using frogs with elaborate parental behaviors\nas study systems. In addition, since 2018, she serves as a research mentor for an NSF-\nfunded Research Experience for Undergraduates program in Costa Rica, providing\nhands-on training in animal behavior and field research to undergraduate students\nbelonging to minoritized groups in STEM. She is passionate about sharing her research findings with scientific and non-scientific audiences through various media outlets. When not chasing frogs in remote forests around the world Dr. Goyes Vallejos enjoys salsa dancing, storytelling and crocheting amigurumis. \n\n[Learn more about Johana at her website](https://jogoyesvallejos.weebly.com/)\n\n#### Further Reading and Listening\n- [The Shape of The World Podcast: When the girl frog sings](https://shapeoftheworldshow.com/2019/05/04/episode-10-when-the-girl-frog-sings/) (May 2019)\n- [FrogLife.org| Female communication in anurans: duets, ultrasonic calls and sex-role reversal](http://www.froglife.org/2019/08/29/croaking-science-female-communication-in-anurans-duets-ultrasonic-calls-and-sex-role-reversal/) (August 2019)\n- [National Geographic España| Los padrazos del mundo de los anfibios](https://www.nationalgeographic.com.es/ciencia/grandes-reportajes/padrazos-mundo-anfibios_13763) (March 2019)\n- [The New York Times| ​Devoted Dads of the Amphibian World](https://www.nytimes.com/2018/12/04/science/frogs-parenting-reproduction.html) (December 2018)\n- [KU Today| Extraordinary 'faithful father' revealed by study of smooth guardian frog of Borneo](https://today.ku.edu/2018/12/13/research-smooth-guardian-frog-borneo-details-extraordinary-faithful-father) (December 2018)\n- [Science Magazine: These female frogs are the first of their kind to croon to their guys](http://www.sciencemag.org/news/2017/06/these-female-frogs-are-first-their-kind-croon-their-guys)​ (June 2017)\n- [Science & Vie| Chez la grenouille de Bornéo, c'est madame qui chante](https://www.science-et-vie.com/nature-et-enviro/chez-la-grenouille-de-borneo-c-est-madame-qui-chante-8925) (June 2017)\n\n#### Related Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/TEST/goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=Calling+behavior+of+males+and+females+of+a+Bornean+frog+with+male+parental+care+and+possible+sex-role+reversal&btnG=)\n",
       "InitiallyExpanded": true
     },
     "standards-header": {
@@ -1489,7 +1219,7 @@
     "learning-chart": {
       "__component": "lesson-plan.learning-chart",
       "Title": "About the GP Learning Chart",
-      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 18 standards across US grade band(s): 9-12, 5-6, 7-8.",
+      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 18 standards across US grade band(s): 5-6, 7-8, 9-12.",
       "Footnote": "",
       "Badge": {
         "url": "https://catalog.galacticpolymath.com/lessons/TEST/GP-Learning-Chart.png"
@@ -1512,6 +1242,7 @@
                   "name": "Algebra, Geometry, Trig, Calculus & Higher Level Thinking",
                   "standardsGroup": [
                     {
+                      "parts": [],
                       "codes": "HSS-IC.B.6",
                       "grades": "9,10,11,12",
                       "statements": "Evaluate reports based on data.",
@@ -1525,6 +1256,7 @@
                   "name": "Measurement, Data, Probability & Statistics",
                   "standardsGroup": [
                     {
+                      "parts": [],
                       "codes": "HSS-ID.A.3",
                       "grades": "9,10,11,12",
                       "statements": "Interpret differences in shape, center, and spread in the context of the data sets, accounting for possible effects of extreme data points (outliers).",
@@ -1550,6 +1282,11 @@
                   "name": "Language, Speaking & Listening",
                   "standardsGroup": [
                     {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3"
+                      ],
                       "codes": "SL.6.2",
                       "grades": "6",
                       "statements": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
@@ -1563,6 +1300,9 @@
                   "name": "Reading",
                   "standardsGroup": [
                     {
+                      "parts": [
+                        "2"
+                      ],
                       "codes": "RH.6-8.7",
                       "grades": "6,7,8",
                       "statements": "Integrate visual information (e.g., in charts, graphs, photographs, videos, or maps) with other information in print and digital texts.",
@@ -1570,6 +1310,7 @@
                       "subcat": null
                     },
                     {
+                      "parts": [],
                       "codes": "RST.9-10.7",
                       "grades": "9,10",
                       "statements": "Translate quantitative or technical information expressed in words in a text into visual form (e.g., a table or chart) and translate information expressed visually or mathematically (e.g., in an equation) into words.",
@@ -1595,6 +1336,15 @@
                   "name": "Science & Engineering Practices",
                   "standardsGroup": [
                     {
+                      "parts": [],
+                      "codes": "CEDS-M4",
+                      "grades": "6,7,8",
+                      "statements": "Apply scientific ideas, principles, and/or evidence to construct, revise and/or use an explanation for real-world phenomena, examples, or events.",
+                      "alignmentNotes": "- Students will integrate data visualization of real biological data and scientific text, using scientific ideas and principles to investigate an real example of exceptions to the rule in nature, with evidence for sex role reversal in Guardian Frogs.",
+                      "subcat": "Constructing Explanations & Designing Solutions"
+                    },
+                    {
+                      "parts": [],
                       "codes": "DATA-M4",
                       "grades": "6,7,8",
                       "statements": "Analyze and interpret data to provide evidence for phenomena.",
@@ -1602,13 +1352,7 @@
                       "subcat": "Analyzing Data"
                     },
                     {
-                      "codes": "AQDP-M1",
-                      "grades": "6,7,8",
-                      "statements": "Ask questions that arise from careful observation of phenomena, models, or unexpected results, to clarify and/or seek additional information.",
-                      "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through experience plotting boxplots and follow-up interpretation of data and discussion.",
-                      "subcat": "Ask Questions & Define Problems"
-                    },
-                    {
+                      "parts": [],
                       "codes": "DATA-M5",
                       "grades": "6,7,8",
                       "statements": "Apply concepts of statistics and probability (including mean, median, mode, and variability) to analyze and characterize data, using digital tools when feasible.",
@@ -1616,13 +1360,7 @@
                       "subcat": "Analyzing Data"
                     },
                     {
-                      "codes": "CEDS-H4",
-                      "grades": "9,10,11,12",
-                      "statements": "Apply scientific reasoning, theory, and/or models to link evidence to the claims to assess the extent to which the reasoning and data support the explanation or conclusion.",
-                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
-                      "subcat": "Constructing Explanations & Designing Solutions"
-                    },
-                    {
+                      "parts": [],
                       "codes": "AQDP-H1",
                       "grades": "9,10,11,12",
                       "statements": "Ask questions that arise from careful observation of phenomena, or unexpected results, to clarify and/or seek additional information.",
@@ -1630,6 +1368,15 @@
                       "subcat": "Ask Questions & Define Problems"
                     },
                     {
+                      "parts": [],
+                      "codes": "CEDS-H4",
+                      "grades": "9,10,11,12",
+                      "statements": "Apply scientific reasoning, theory, and/or models to link evidence to the claims to assess the extent to which the reasoning and data support the explanation or conclusion.",
+                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
+                      "subcat": "Constructing Explanations & Designing Solutions"
+                    },
+                    {
+                      "parts": [],
                       "codes": "DATA-H2",
                       "grades": "9,10,11,12",
                       "statements": "Apply concepts of statistics and probability (including determining function fits to data, slope, intercept, and correlation coefficient for linear fits) to scientific and engineering questions and problems, using digital tools when feasible.",
@@ -1639,10 +1386,33 @@
                   ]
                 },
                 {
+                  "slug": "DCI",
+                  "name": "Disciplinary Core ideas",
+                  "standardsGroup": [
+                    {
+                      "parts": [],
+                      "codes": "LS1.B-M2",
+                      "grades": "6,7,8",
+                      "statements": "Animals engage in characteristic behaviors that increase the odds of reproduction.",
+                      "alignmentNotes": "- Students will explore a wide variety of animal mate attraction and parental behaviors that increase the odds of survival and reproduction and reflect on both the general pattern of \"caring females, competitive males\" and exceptions to this pattern.",
+                      "subcat": "Growth & Development of Organisms"
+                    },
+                    {
+                      "parts": [],
+                      "codes": "LS4.B-H2",
+                      "grades": "9,10,11,12",
+                      "statements": "The traits that positively affect survival are more likely to be reproduced, and thus are more common in the population.",
+                      "alignmentNotes": "- This standard is not explicitly addressed, but can easily be connected by asking students to explain how some of the behaviors covered in the lesson should be favored by selection (i.e. how they increase survival and/or reproduction of individuals who behave that way, compared to those who do not).",
+                      "subcat": "Natural Selection"
+                    }
+                  ]
+                },
+                {
                   "slug": "CCC",
                   "name": "Cross-Cutting Concepts",
                   "standardsGroup": [
                     {
+                      "parts": [],
                       "codes": "PAT-M3",
                       "grades": "6,7,8",
                       "statements": "Patterns can be used to identify cause-and-effect relationships.",
@@ -1650,24 +1420,20 @@
                       "subcat": "Patterns"
                     },
                     {
+                      "parts": [],
+                      "codes": "PAT-M4",
+                      "grades": "6,7,8",
+                      "statements": "Graphs, charts, and images can be used to identify patterns in data.",
+                      "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through interpreting data represented in tables and scatter plots.",
+                      "subcat": "Patterns"
+                    },
+                    {
+                      "parts": [],
                       "codes": "PAT-H5",
                       "grades": "9,10,11,12",
                       "statements": "Empirical evidence is needed to identify patterns.",
                       "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
                       "subcat": "Patterns"
-                    }
-                  ]
-                },
-                {
-                  "slug": "DCI",
-                  "name": "Disciplinary Core ideas",
-                  "standardsGroup": [
-                    {
-                      "codes": "LS4.B-H2",
-                      "grades": "9,10,11,12",
-                      "statements": "The traits that positively affect survival are more likely to be reproduced, and thus are more common in the population.",
-                      "alignmentNotes": "- This standard is not explicitly addressed, but can easily be connected by asking students to explain how some of the behaviors covered in the lesson should be favored by selection (i.e. how they increase survival and/or reproduction of individuals who behave that way, compared to those who do not).",
-                      "subcat": "Natural Selection"
                     }
                   ]
                 }
@@ -1688,6 +1454,9 @@
                   "name": "Evaluating Sources, Communicating Conclusions & Taking Action",
                   "standardsGroup": [
                     {
+                      "parts": [
+                        "2"
+                      ],
                       "codes": "D4.1.6-8",
                       "grades": "6,7,8",
                       "statements": "Construct arguments using claims and evidence from multiple sources, while acknowledging the strengths and limitations of the arguments.",
@@ -1709,41 +1478,16 @@
               "name": "NGSS",
               "dimensions": [
                 {
-                  "slug": "DCI",
-                  "name": "Disciplinary Core ideas",
-                  "standardsGroup": [
-                    {
-                      "codes": "LS1.B-M2",
-                      "grades": "6,7,8",
-                      "statements": "Animals engage in characteristic behaviors that increase the odds of reproduction.",
-                      "alignmentNotes": "- Students will explore a wide variety of animal mate attraction and parental behaviors that increase the odds of survival and reproduction and reflect on both the general pattern of \"caring females, competitive males\" and exceptions to this pattern. ",
-                      "subcat": "Growth & Development of Organisms"
-                    }
-                  ]
-                },
-                {
                   "slug": "SEP",
                   "name": "Science & Engineering Practices",
                   "standardsGroup": [
                     {
-                      "codes": "CEDS-M4",
+                      "parts": [],
+                      "codes": "AQDP-M1",
                       "grades": "6,7,8",
-                      "statements": "Apply scientific ideas, principles, and/or evidence to construct, revise and/or use an explanation for real-world phenomena, examples, or events.",
-                      "alignmentNotes": "- Students will integrate data visualization of real biological data and scientific text, using scientific ideas and principles to investigate an real example of exceptions to the rule in nature, with evidence for sex role reversal in Guardian Frogs.",
-                      "subcat": "Constructing Explanations & Designing Solutions"
-                    }
-                  ]
-                },
-                {
-                  "slug": "CCC",
-                  "name": "Cross-Cutting Concepts",
-                  "standardsGroup": [
-                    {
-                      "codes": "PAT-M4",
-                      "grades": "6,7,8",
-                      "statements": "Graphs, charts, and images can be used to identify patterns in data.",
-                      "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through interpreting data represented in tables and scatter plots.",
-                      "subcat": "Patterns"
+                      "statements": "Ask questions that arise from careful observation of phenomena, models, or unexpected results, to clarify and/or seek additional information.",
+                      "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through experience plotting boxplots and follow-up interpretation of data and discussion.",
+                      "subcat": "Ask Questions & Define Problems"
                     }
                   ]
                 }
