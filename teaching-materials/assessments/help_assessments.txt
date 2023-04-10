@@ -1,9 +1,0 @@
-
-*Important*
-Use the following naming convention for assessment files:
-- Key:
-  - LessonShortName_assessment_G5-6_TEACHER.docx
-- Student version:
-  - LessonShortName_assessment_G5-6_STUDENT.docx
-
-* In above examples, these files are for grade 5-6 versions of assessments.

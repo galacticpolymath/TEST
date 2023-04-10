@@ -16,37 +16,41 @@
         {
           "part": "3",
           "partGradeVarNotes": null
+        },
+        {
+          "part": "4",
+          "partGradeVarNotes": null
         }
       ],
       "resources": [
         {
-          "grades": "Grades 5-6",
-          "gradePrefix": "G5-6",
+          "grades": "Grades 7-12",
+          "gradePrefix": "G7-12",
           "links": {
-            "linkText": "Download G5-6 Materials for All Parts",
-            "url": "https://drive.google.com/drive/folders/192ElgQxyg9izVE0obqD4gjIbw30_jDh-"
+            "linkText": "Download G7-12 Materials for All Parts",
+            "url": "https://drive.google.com/drive/folders/1deOFzzAvZBO3S022aHBGqq3u6wGYSzCB"
           },
-          "parts": {
-            "1": {
+          "parts": [
+            {
               "part": "1",
-              "title": null,
+              "title": "What is a crystal?",
               "tags": [
-                null
+                ["comics", "cards", "hands-on"]
               ],
-              "preface": null,
+              "preface": "An original comic engages students in a card-based activity. Students will learn what a \"crystal\" is, and how it's structure and properties differ from \"amorphous solids\" like glass.",
               "itemList": [
                 {
-                  "itemTitle": "Presentation (Part 1)",
-                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                  "itemTitle": "Handout/ Card (Part 1)",
+                  "itemDescription": "Print 1 per Student",
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/16Rt_jIkLXuTp2iE9sGKmiu8S1DgQ09PzDvCDY9OlNoA/present"
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/export/pdf"
                     },
                     {
                       "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/16Rt_jIkLXuTp2iE9sGKmiu8S1DgQ09PzDvCDY9OlNoA/template/preview"
+                      "url": "https:/docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/template/preview"
                     }
                   ]
                 },
@@ -57,69 +61,24 @@
                   "links": [
                     {
                       "linkText": "PDF (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1IsNwui58PWF3_cSEe3Bjdg7AcuIF0uADXUowo34vxbA/export?format=pdf"
+                      "url": "https:/docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/export?format=pdf"
                     },
                     {
                       "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1IsNwui58PWF3_cSEe3Bjdg7AcuIF0uADXUowo34vxbA/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Student Worksheet (Part 1)",
-                  "itemDescription": "Print 1 per Student",
-                  "itemCat": "document",
-                  "links": [
-                    {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/12rxYRAuVjQBjqygfVPbM9IyecmJJ6LCGSz7IUlefHO4/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/12rxYRAuVjQBjqygfVPbM9IyecmJJ6LCGSz7IUlefHO4/template/preview"
+                      "url": "https:/docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/template/preview"
                     }
                   ]
                 }
               ]
             },
-            "2": {
+            {
               "part": "2",
-              "title": null,
+              "title": "Unit cells and their molecular building blocks.",
               "tags": [
-                null
+                ["comics", "hands-on"]
               ],
-              "preface": null,
+              "preface": "Students do construct toothpick-and-grape models to understand atomic arrangements inside the crystal *unit cell*.",
               "itemList": [
-                {
-                  "itemTitle": "Presentation (Part 2)",
-                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                  "itemCat": "presentation",
-                  "links": [
-                    {
-                      "linkText": "Present Now (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1MuKAYLniZ1K9etoAv4Ja2_EEmDYn8APq2ZUAig6SCEE/present"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1MuKAYLniZ1K9etoAv4Ja2_EEmDYn8APq2ZUAig6SCEE/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Student Worksheet (Part 2)",
-                  "itemDescription": "Print 1 per Student",
-                  "itemCat": "document",
-                  "links": [
-                    {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1OJngiHOOP6jB316AxtDGeaWvei-nq2TC-2bfFUw_QBI/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1OJngiHOOP6jB316AxtDGeaWvei-nq2TC-2bfFUw_QBI/template/preview"
-                    }
-                  ]
-                },
                 {
                   "itemTitle": "Teacher Worksheet (Part 2)",
                   "itemDescription": "Print 1 Copy",
@@ -127,51 +86,36 @@
                   "links": [
                     {
                       "linkText": "PDF (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1fBYNc0yvfcEHwMerrVJaRJI_2pS-oE3WL4yCdQw1yu4/export?format=pdf"
+                      "url": "https:/docs.google.com/document/d/1AhRceruzn8ytn1FSJg-tdxcw0Qmiz6U3OWS8eHG--jc/export?format=pdf"
                     },
                     {
                       "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1fBYNc0yvfcEHwMerrVJaRJI_2pS-oE3WL4yCdQw1yu4/template/preview"
+                      "url": "https:/docs.google.com/document/d/1AhRceruzn8ytn1FSJg-tdxcw0Qmiz6U3OWS8eHG--jc/template/preview"
                     }
                   ]
                 }
               ]
             },
-            "3": {
+            {
               "part": "3",
-              "title": null,
+              "title": "How do crystals get their shapes?",
               "tags": [
                 null
               ],
-              "preface": null,
+              "preface": "Students build multiple *unit cells* using paper foldables in order to understand different types of symmetry in crystal structures.",
               "itemList": [
                 {
-                  "itemTitle": "Table (Part 3)",
+                  "itemTitle": "Handout (Part 3)",
                   "itemDescription": null,
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Download (DRAFT FILE)",
-                      "url": "https://docs.google.com/presentation/d/15kAbl6wURUarsd0zcRk2L2pgbipuDA0EdgOufBbSNNI"
+                      "linkText": "PDF (DRAFT FILE)",
+                      "url": "https:/docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/export/pdf"
                     },
                     {
                       "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/15kAbl6wURUarsd0zcRk2L2pgbipuDA0EdgOufBbSNNI/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Presentation (Part 3)",
-                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                  "itemCat": "presentation",
-                  "links": [
-                    {
-                      "linkText": "Present Now (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1ab7_5cvV97yuGAG185aIHw0Of3SuRczHXukxOFzAU54/present"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1ab7_5cvV97yuGAG185aIHw0Of3SuRczHXukxOFzAU54/template/preview"
+                      "url": "https:/docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/template/preview"
                     }
                   ]
                 },
@@ -182,614 +126,52 @@
                   "links": [
                     {
                       "linkText": "PDF (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1QwKJsVLD9BZIsr_l_cXAX-cAEYCHos_2E3ChX7_0SSc/export?format=pdf"
+                      "url": "https:/docs.google.com/document/d/1w85Gg0xW3xewvVrXx87RI1wGdcDaftwY6iGESm79wOc/export?format=pdf"
                     },
                     {
                       "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1QwKJsVLD9BZIsr_l_cXAX-cAEYCHos_2E3ChX7_0SSc/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Student Worksheet (Part 3)",
-                  "itemDescription": "Print 1 per Student",
-                  "itemCat": "document",
-                  "links": [
-                    {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1uX2Ap8nNK7Xx97uDuL5qnIfqxO0tubL29PHj5oh_I3g/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1uX2Ap8nNK7Xx97uDuL5qnIfqxO0tubL29PHj5oh_I3g/template/preview"
+                      "url": "https:/docs.google.com/document/d/1w85Gg0xW3xewvVrXx87RI1wGdcDaftwY6iGESm79wOc/template/preview"
                     }
                   ]
                 }
               ]
             },
-            "part": "last",
-            "title": "Assessments",
-            "preface": "",
-            "itemList": [
-              {
-                "itemTitle": "Teacher Assessment",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Student Assessment",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Genetic Rescue Unit Assessment Rubric",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "grades": "Grades 9-12",
-          "gradePrefix": "G9-12",
-          "links": {
-            "linkText": "Download G9-12 Materials for All Parts",
-            "url": "https://drive.google.com/drive/folders/1GYe1ayZxTMKbRyMELDN0ejhsNENnm5yM"
-          },
-          "parts": {
-            "1": {
-              "part": "1",
-              "title": null,
+            {
+              "part": "4",
+              "title": "Electric crystals and their broken symmetries",
               "tags": [
-                null
+                ["comics", "puzzles"]
               ],
-              "preface": null,
+              "preface": "Students learn about how crystal molecular symmetry can cause the *piezoelectric effect*. They put on their engineering caps to solve puzzles related to common *piezo* devices (like a quartz watch) that use this effect to solve everyday problems.",
               "itemList": [
                 {
-                  "itemTitle": "Presentation (Part 1)",
-                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                  "itemCat": "presentation",
-                  "links": [
-                    {
-                      "linkText": "Present Now (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1r7nDwzvOiNYQ1YAIDFSs0ef4ADEApqygUh7Ph1Kk3vA/present"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1r7nDwzvOiNYQ1YAIDFSs0ef4ADEApqygUh7Ph1Kk3vA/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Teacher Worksheet (Part 1)",
+                  "itemTitle": "Teacher Worksheet (Part 4)",
                   "itemDescription": "Print 1 Copy",
                   "itemCat": "document",
                   "links": [
                     {
                       "linkText": "PDF (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1hQABDSFZ0k1cOHmxodHPJ81UnllLBnKgqVlRa60fAGk/export?format=pdf"
+                      "url": "https:/docs.google.com/document/d/1cgrhNQy_nwO8Ej7haVShtuO19RGreX4j_QB1VyoyQ8Q/export?format=pdf"
                     },
                     {
                       "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1hQABDSFZ0k1cOHmxodHPJ81UnllLBnKgqVlRa60fAGk/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Student Worksheet (Part 1)",
-                  "itemDescription": "Print 1 per Student",
-                  "itemCat": "document",
-                  "links": [
-                    {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1dToffqdaP8E_FqOCXPw5xv2ZCUVPqdXc2fE0M7ygUOk/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1dToffqdaP8E_FqOCXPw5xv2ZCUVPqdXc2fE0M7ygUOk/template/preview"
+                      "url": "https:/docs.google.com/document/d/1cgrhNQy_nwO8Ej7haVShtuO19RGreX4j_QB1VyoyQ8Q/template/preview"
                     }
                   ]
                 }
               ]
             },
-            "2": {
-              "part": "2",
-              "title": null,
-              "tags": [
-                null
-              ],
-              "preface": null,
-              "itemList": [
-                {
-                  "itemTitle": "Presentation (Part 2)",
-                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                  "itemCat": "presentation",
-                  "links": [
-                    {
-                      "linkText": "Present Now (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1cXDG0OWQ-fe9nZulUDFbfnBkj9eSc3MrSzU_s2o2Ldc/present"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1cXDG0OWQ-fe9nZulUDFbfnBkj9eSc3MrSzU_s2o2Ldc/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Teacher Worksheet (Part 2)",
-                  "itemDescription": "Print 1 Copy",
-                  "itemCat": "document",
-                  "links": [
-                    {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1Oei1L5GKGwKZHB0sEoEB8LT1GMGFhV_IJmvGkq-nrzo/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1Oei1L5GKGwKZHB0sEoEB8LT1GMGFhV_IJmvGkq-nrzo/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Student Worksheet (Part 2)",
-                  "itemDescription": "Print 1 per Student",
-                  "itemCat": "document",
-                  "links": [
-                    {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1LUUedpnoXmvd7nyPWDZMj-6JBJWIHjUu0U3KL70mVyo/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1LUUedpnoXmvd7nyPWDZMj-6JBJWIHjUu0U3KL70mVyo/template/preview"
-                    }
-                  ]
-                }
-              ]
-            },
-            "3": {
-              "part": "3",
-              "title": null,
-              "tags": [
-                null
-              ],
-              "preface": null,
-              "itemList": [
-                {
-                  "itemTitle": "Presentation (Part 3)",
-                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                  "itemCat": "presentation",
-                  "links": [
-                    {
-                      "linkText": "Present Now (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1CI3ANxJGwEYrEccSIF2hSYKILELFBoVSiOWEWlRSzLE/present"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1CI3ANxJGwEYrEccSIF2hSYKILELFBoVSiOWEWlRSzLE/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Handout/ Table (Part 3)",
-                  "itemDescription": "Print Classroom Set",
-                  "itemCat": "presentation",
-                  "links": [
-                    {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/13L5ZblefCyq12xLTXZgqNyvFNgnJiiOZ4BMVgl9Zsh4/export/pdf"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/13L5ZblefCyq12xLTXZgqNyvFNgnJiiOZ4BMVgl9Zsh4/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Teacher Worksheet (Part 3)",
-                  "itemDescription": "Print 1 Copy",
-                  "itemCat": "document",
-                  "links": [
-                    {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/12eV_YjKfMjOV8tyMQpe6n2Nun6mEU8Cd_WnIoF1i9Ds/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/12eV_YjKfMjOV8tyMQpe6n2Nun6mEU8Cd_WnIoF1i9Ds/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Student Worksheet (Part 3)",
-                  "itemDescription": "Print 1 per Student",
-                  "itemCat": "document",
-                  "links": [
-                    {
-                      "linkText": "PDF (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1Nrk_a8Q_iEULbQ7lBJnSdZmt0IccXCei8ZAQURJMbxg/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/document/d/1Nrk_a8Q_iEULbQ7lBJnSdZmt0IccXCei8ZAQURJMbxg/template/preview"
-                    }
-                  ]
-                }
-              ]
-            },
-            "part": "last",
-            "title": "Assessments",
-            "preface": "",
-            "itemList": [
-              {
-                "itemTitle": "Teacher Assessment",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Student Assessment",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Genetic Rescue Unit Assessment Rubric",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
-                  }
-                ]
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "remote": {
-      "gradeVariantNotes": [
-        {
-          "part": "1",
-          "partGradeVarNotes": null
-        },
-        {
-          "part": "2",
-          "partGradeVarNotes": null
-        },
-        {
-          "part": "3",
-          "partGradeVarNotes": null
-        }
-      ],
-      "resources": [
-        {
-          "grades": "Grades 5-6",
-          "gradePrefix": "G5-6",
-          "links": {
-            "linkText": "Download G5-6 Materials for All Parts",
-            "url": "https://drive.google.com/drive/folders/166k3F4gRGx5905iG8DB9-fmhR_arYjpZ"
-          },
-          "parts": {
-            "1": {
-              "part": "1",
-              "title": null,
-              "tags": [
-                null
-              ],
-              "preface": null,
-              "itemList": [
-                {
-                  "itemTitle": "Presentation (Part 1)",
-                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                  "itemCat": "presentation",
-                  "links": [
-                    {
-                      "linkText": "Present Now (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1emRmg4TdT8ZzBfQzgUuz9YAKBYlOKoBrfJyxtu2ZH0g/present"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1emRmg4TdT8ZzBfQzgUuz9YAKBYlOKoBrfJyxtu2ZH0g/template/preview"
-                    }
-                  ]
-                }
-              ]
-            },
-            "2": {
-              "part": "2",
-              "title": null,
-              "tags": [
-                null
-              ],
-              "preface": null,
-              "itemList": [
-                {
-                  "itemTitle": "Presentation (Part 2)",
-                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                  "itemCat": "presentation",
-                  "links": [
-                    {
-                      "linkText": "Present Now (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1ToEX7DF6toEaK0PCTxbBXj0nofwa7SAiDHMRrSa8WAo/present"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1ToEX7DF6toEaK0PCTxbBXj0nofwa7SAiDHMRrSa8WAo/template/preview"
-                    }
-                  ]
-                }
-              ]
-            },
-            "3": {
-              "part": "3",
-              "title": null,
-              "tags": [
-                null
-              ],
-              "preface": null,
-              "itemList": [
-                {
-                  "itemTitle": "Presentation (Part 3)",
-                  "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                  "itemCat": "presentation",
-                  "links": [
-                    {
-                      "linkText": "Present Now (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1DJ6d9nXNWYjVGReJDDg2r9Iu_fwydoKSxwj6m-Jr8kU/present"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https:/docs.google.com/presentation/d/1DJ6d9nXNWYjVGReJDDg2r9Iu_fwydoKSxwj6m-Jr8kU/template/preview"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Teacher Table (Part 3)",
-                  "itemDescription": null,
-                  "itemCat": "docx",
-                  "links": [
-                    {
-                      "linkText": "Download (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1qrkUcljPbjadum24UZHO9e884js0nCUL"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1qrkUcljPbjadum24UZHO9e884js0nCUL"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Student Table (Part 3)",
-                  "itemDescription": null,
-                  "itemCat": "docx",
-                  "links": [
-                    {
-                      "linkText": "Download (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1ggPJ_LVd6a6A5zmGNkgx95GeFcjwfTOk"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1ggPJ_LVd6a6A5zmGNkgx95GeFcjwfTOk"
-                    }
-                  ]
-                }
-              ]
-            },
-            "part": "last",
-            "title": "Assessments",
-            "preface": "",
-            "itemList": [
-              {
-                "itemTitle": "Teacher Assessment",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Student Assessment",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Genetic Rescue Unit Assessment Rubric",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "grades": "Grades 7-8",
-          "gradePrefix": "G7-8",
-          "links": {
-            "linkText": "Download G7-8 Materials for All Parts",
-            "url": "https://drive.google.com/drive/folders/1xvdnIyQ2O0rlARr6R2Ig7Q0QZqK72g-j"
-          },
-          "parts": {
-            "1": {
-              "part": "3",
-              "title": null,
-              "tags": [
-                null
-              ],
-              "preface": null,
-              "itemList": [
-                {
-                  "itemTitle": "Student Table (Part 3)",
-                  "itemDescription": null,
-                  "itemCat": "docx",
-                  "links": [
-                    {
-                      "linkText": "Download (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1yDvcGR4AYdj3t4WZJQ2P7FO5QBgOERsU"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1yDvcGR4AYdj3t4WZJQ2P7FO5QBgOERsU"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Teacher Table (Part 3)",
-                  "itemDescription": null,
-                  "itemCat": "docx",
-                  "links": [
-                    {
-                      "linkText": "Download (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1yIAjtt3rkpLyMkOW468F6OPZuoJH9qQB"
-                    },
-                    {
-                      "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                      "url": "https://docs.google.com/document/d/1yIAjtt3rkpLyMkOW468F6OPZuoJH9qQB"
-                    }
-                  ]
-                }
-              ]
-            },
-            "part": "last",
-            "title": "Assessments",
-            "preface": "",
-            "itemList": [
-              {
-                "itemTitle": "Teacher Assessment",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Student Assessment",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Genetic Rescue Unit Assessment Rubric",
-                "itemDescription": null,
-                "itemCat": "document",
-                "links": [
-                  {
-                    "linkText": "PDF (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                    "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
-                  }
-                ]
-              }
-            ]
-          }
+            null
+          ]
         }
       ]
     },
     "parts": [
       {
         "partNum": 1,
-        "partTitle": null,
+        "partTitle": "What is a crystal?",
         "partDur": null,
-        "partPreface": null,
+        "partPreface": "An original comic engages students in a card-based activity. Students will learn what a \"crystal\" is, and how it's structure and properties differ from \"amorphous solids\" like glass.",
         "partPrep": {
           "PrepTitle": "Prep",
           "PrepDur": 10,
@@ -861,9 +243,9 @@
       },
       {
         "partNum": 2,
-        "partTitle": null,
+        "partTitle": "Unit cells and their molecular building blocks.",
         "partDur": null,
-        "partPreface": null,
+        "partPreface": "Students do construct toothpick-and-grape models to understand atomic arrangements inside the crystal *unit cell*.",
         "partPrep": {
           "PrepTitle": "Prep",
           "PrepDur": null,
@@ -926,9 +308,9 @@
       },
       {
         "partNum": 3,
-        "partTitle": null,
+        "partTitle": "How do crystals get their shapes?",
         "partDur": null,
-        "partPreface": null,
+        "partPreface": "Students build multiple *unit cells* using paper foldables in order to understand different types of symmetry in crystal structures.",
         "partPrep": {
           "PrepTitle": null,
           "PrepDur": null,
@@ -991,9 +373,9 @@
       },
       {
         "partNum": 4,
-        "partTitle": null,
+        "partTitle": "Electric crystals and their broken symmetries",
         "partDur": null,
-        "partPreface": null,
+        "partPreface": "Students learn about how crystal molecular symmetry can cause the *piezoelectric effect*. They put on their engineering caps to solve puzzles related to common *piezo* devices (like a quartz watch) that use this effect to solve everyday problems.",
         "partPrep": {
           "PrepTitle": null,
           "PrepDur": null,

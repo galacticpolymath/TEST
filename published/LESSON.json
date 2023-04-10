@@ -1,42 +1,47 @@
 {
   "id": 999,
-  "UniqueID": "lesson2_locale_1",
-  "ShortTitle": "TEST",
+  "UniqueID": "lesson_6_locale_1",
+  "ShortTitle": "ElectricCrystals",
   "Language": "English",
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-05 11:50:01",
-  "MediumTitle": "'Purely a Test Project' |Science| G5-9 (en-US)",
+  "LastUpdated": "2023-04-10 12:58:55",
+  "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.4.2",
+  "TemplateVer": "0.4.3",
   "galacticPubsVer": "0.9.5",
-  "FirstPublicationDate": "2022-04-01 15:16:29",
+  "FirstPublicationDate": "2023-04-10 12:14:57",
   "URL": "https://galacticpolymath.com/lessons/999",
-  "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/origin\thttps://github.com/galacticpolymath/guardianFrogs_sci (fetch)/LESSON.json",
-  "GitHubPath": "git@github.com:galacticpolymath/TEST.git",
-  "GdriveDirName": "TEST",
-  "GdriveDirID": "1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
-  "GdriveMetaID": "1mApvrZPNcTPOFGQW8p8tmzjOPjXO77Ya",
-  "GdriveTeachItID": "1CAmIGdmCm7vwddNyfpf2ASLvnkPZOyBa7iWdoxMD170",
-  "GdriveStandardsID": "1xfKRECoOxhBEQUl2tLWCt4AjAwdGJsnJlh9_TQFzcr4",
-  "GdrivePublishedID": "1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE",
+  "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/LESSON.json",
+  "GitHubPath": "git@github.com:galacticpolymath/ElectricCrystals_en-US.git",
+  "GdriveDirName": "ElectricCrystals_en-US",
+  "GdriveDirID": "1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5",
+  "GdriveMetaID": "1dlkMAHfl7P-uFno3U_9lCheDFew3SjT5",
+  "GdriveTeachItID": "1cRlSHwEpGrcd0msr4ZInfQu_EnLKIeIkVymaN9BVo6o",
+  "GdriveStandardsID": "1uvcKiHf2CXaDJErtKRdg4IRhBxbZLWXKF2g1EX94PXI",
+  "GdrivePublishedID": "1dlN6OdrQXZi4YzV0-9sjsaPL3ZDAQK-C",
   "GdrivePublicID": null,
-  "GdriveDirURL": "https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
+  "GdriveDirURL": "https://drive.google.com/drive/folders/1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5",
   "PublicationStatus": "Draft",
   "RebuildAllMaterials": false,
-  "ReleaseDate": "2022-04-22",
-  "Title": "Purely a Test Project",
-  "Subtitle": "Contains pieces of multiple lessons",
-  "SponsorName": "Johana Goyes Vallejos",
-  "SponsoredBy": "- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/) — Postdoc in the Division of Biological Sciences, University of Missouri – Columbia",
+  "ReleaseDate": "2050-01-01",
+  "Title": "Electric Crystals",
+  "Subtitle": "A tour of crystal symmetry and function through comics",
+  "SponsorName": [
+    "NSF",
+    "FunsizePhysics",
+    "University of Nebraska-Lincoln"
+  ],
+  "SponsoredBy": "- University of Nebraska-Lincoln's [Funsize Physics](https://funsizephysics.com/). Whether you’re 7 or 107, a full-blown science fanatic or simply curious, this is the place for you.\n- National Science Foundation grant DMR 2048959",
   "SponsorImage": {
     "url": [
-      "https://catalog.galacticpolymath.com/lessons/TEST/Fitzpatrick_lab_logo-transparent.png",
-      "https://catalog.galacticpolymath.com/lessons/TEST/NSF_4-Color_bitmap_Logo.png"
+      "https://catalog.galacticpolymath.com/lessons/TEST/FunSizePhysics_logo.png",
+      "https://catalog.galacticpolymath.com/lessons/TEST/NSF_4-Color_bitmap_Logo@0.25x.png",
+      "https://catalog.galacticpolymath.com/lessons/TEST/R-UNL_RGB_logo.jpg"
     ]
   },
   "CoverImage": {
@@ -45,43 +50,40 @@
   "Section": {
     "overview": {
       "__component": "lesson-plan.overview",
-      "EstLessonTime": "150 min. (~3 classes)",
+      "EstLessonTime": "4 x 45 min classes",
       "GradesOrYears": "Grades",
-      "ForGrades": "5-9",
+      "ForGrades": "7-12",
       "TargetSubject": "Science",
-      "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are “competitive,” while females are “caring”, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with “competitive females” and “caring males”?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Learning Summary:\nOut of 8,000+ frog species, Guardian Frogs are one of the first to show females that call & males that care for offspring. Students will gain wonder and appreciation for how diverse animal mating systems are while doing fun activities and analyzing real data.\n#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist + use of authentic data \n",
+      "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhat are crystals and in addition to being pretty to look at, how are they relevant to our daily lives?\n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.\n#### Learning Summary:\nCrystals aren't magic, but they are amazing! In this student-driven, lecture-free lesson, students will do card sorts, build hands-on models, solve engineering design puzzles, and more! The whole experience is connected through a beautifully crafted comic.\nNA",
       "Tags": [
         {
-          "Value": "sex differences"
+          "Value": "crystals"
         },
         {
-          "Value": "frogs"
+          "Value": "symmetry"
         },
         {
-          "Value": "mating systems"
+          "Value": "hands-on"
         },
         {
-          "Value": "animal behavior"
+          "Value": "comics"
         },
         {
-          "Value": "parental care"
-        },
-        {
-          "Value": "sexual selection"
+          "Value": "engineering mindset"
         }
       ],
       "SteamEpaulette": {
-        "url": "https://catalog.galacticpolymath.com/lessons/TEST/GP-Learning-Epaulette.png"
+        "url": null
       },
       "SteamEpaulette_vert": {
-        "url": "https://catalog.galacticpolymath.com/lessons/TEST/GP-Learning-Epaulette_vert.png"
+        "url": null
       },
-      "Description": "This lesson puts students in the role of scientists, collecting and analyzing real data to answer questions. In Part 1, students \"collect\" data through a card-based activity called \"Role With It.\" Briefly, students get a male or female card of 1 out of 12 species. When their card is called, students introduce it with a \"song\" and dance that match the attributes of the species it represents. The class then records data on sexual signal exaggeration and parental investment for that species. \n\nOnce they have collected all 24 specimens (cards) students analyze this data (for Part 2) to generate a general observation: \"across nonhuman animal species, females tend to be more caring (contributing more parental investment), while males tend to be more adapted to attracting and competing for mates.\" These are known as *conventional sex roles.* Students then identify *sex-role-reversed species,* such as jacanas (a bird) and guardian frogs, which have \"caring males\" and \"competitive females\".\n\nPart 3 lets students use real data to test whether the Smooth Guardian Frog (*Limnonectes palavenensis*) is truly the first known sex-role-reversed frog species, with \"caring males\" and \"competitive females\". The lesson begins with an atmospheric video that immerses students in the sights, sounds, and mysteries of the island of Borneo. Students are then given a brief introduction to the geography of the region and learn that Borneo is claimed by three Asian countries (Malaysia, Indonesia and Brunei). The rest of the lesson focuses on Dr. Johana Goyes Vallejos' research in the forests of Brunei. Students test hypotheses by synthesizing information and analyzing a scatter plot to determine that this fascinating species is indeed the first frog known to have \"caring males\" and \"competitive females.\" \n\nThe lesson offers a wide variety of opportunities for student movement, collaboration, creativity, and active engagement.\n"
+      "Description": "NA"
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
       "SectionTitle": "Lesson Preview",
-      "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>",
+      "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
       "Multimedia": [
         null
       ],
@@ -105,37 +107,45 @@
             {
               "part": "3",
               "partGradeVarNotes": null
+            },
+            {
+              "part": "4",
+              "partGradeVarNotes": null
             }
           ],
           "resources": [
             {
-              "grades": "Grades 5-6",
-              "gradePrefix": "G5-6",
+              "grades": "Grades 7-12",
+              "gradePrefix": "G7-12",
               "links": {
-                "linkText": "Download G5-6 Materials for All Parts",
-                "url": "https://drive.google.com/drive/folders/192ElgQxyg9izVE0obqD4gjIbw30_jDh-"
+                "linkText": "Download G7-12 Materials for All Parts",
+                "url": "https://drive.google.com/drive/folders/1deOFzzAvZBO3S022aHBGqq3u6wGYSzCB"
               },
-              "parts": {
-                "1": {
+              "parts": [
+                {
                   "part": "1",
-                  "title": null,
+                  "title": "What is a crystal?",
                   "tags": [
-                    null
+                    [
+                      "comics",
+                      "cards",
+                      "hands-on"
+                    ]
                   ],
-                  "preface": null,
+                  "preface": "An original comic engages students in a card-based activity. Students will learn what a \"crystal\" is, and how it's structure and properties differ from \"amorphous solids\" like glass.",
                   "itemList": [
                     {
-                      "itemTitle": "Presentation (Part 1)",
-                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
+                      "itemTitle": "Handout/ Card (Part 1)",
+                      "itemDescription": "Print 1 per Student",
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Present Now (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/16Rt_jIkLXuTp2iE9sGKmiu8S1DgQ09PzDvCDY9OlNoA/present"
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/export/pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/16Rt_jIkLXuTp2iE9sGKmiu8S1DgQ09PzDvCDY9OlNoA/template/preview"
+                          "url": "https:/docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/template/preview"
                         }
                       ]
                     },
@@ -146,69 +156,27 @@
                       "links": [
                         {
                           "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1IsNwui58PWF3_cSEe3Bjdg7AcuIF0uADXUowo34vxbA/export?format=pdf"
+                          "url": "https:/docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/export?format=pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1IsNwui58PWF3_cSEe3Bjdg7AcuIF0uADXUowo34vxbA/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Student Worksheet (Part 1)",
-                      "itemDescription": "Print 1 per Student",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/12rxYRAuVjQBjqygfVPbM9IyecmJJ6LCGSz7IUlefHO4/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/12rxYRAuVjQBjqygfVPbM9IyecmJJ6LCGSz7IUlefHO4/template/preview"
+                          "url": "https:/docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                "2": {
+                {
                   "part": "2",
-                  "title": null,
+                  "title": "Unit cells and their molecular building blocks.",
                   "tags": [
-                    null
+                    [
+                      "comics",
+                      "hands-on"
+                    ]
                   ],
-                  "preface": null,
+                  "preface": "Students do construct toothpick-and-grape models to understand atomic arrangements inside the crystal *unit cell*.",
                   "itemList": [
-                    {
-                      "itemTitle": "Presentation (Part 2)",
-                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "Present Now (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1MuKAYLniZ1K9etoAv4Ja2_EEmDYn8APq2ZUAig6SCEE/present"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1MuKAYLniZ1K9etoAv4Ja2_EEmDYn8APq2ZUAig6SCEE/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Student Worksheet (Part 2)",
-                      "itemDescription": "Print 1 per Student",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1OJngiHOOP6jB316AxtDGeaWvei-nq2TC-2bfFUw_QBI/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1OJngiHOOP6jB316AxtDGeaWvei-nq2TC-2bfFUw_QBI/template/preview"
-                        }
-                      ]
-                    },
                     {
                       "itemTitle": "Teacher Worksheet (Part 2)",
                       "itemDescription": "Print 1 Copy",
@@ -216,51 +184,36 @@
                       "links": [
                         {
                           "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1fBYNc0yvfcEHwMerrVJaRJI_2pS-oE3WL4yCdQw1yu4/export?format=pdf"
+                          "url": "https:/docs.google.com/document/d/1AhRceruzn8ytn1FSJg-tdxcw0Qmiz6U3OWS8eHG--jc/export?format=pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1fBYNc0yvfcEHwMerrVJaRJI_2pS-oE3WL4yCdQw1yu4/template/preview"
+                          "url": "https:/docs.google.com/document/d/1AhRceruzn8ytn1FSJg-tdxcw0Qmiz6U3OWS8eHG--jc/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                "3": {
+                {
                   "part": "3",
-                  "title": null,
+                  "title": "How do crystals get their shapes?",
                   "tags": [
                     null
                   ],
-                  "preface": null,
+                  "preface": "Students build multiple *unit cells* using paper foldables in order to understand different types of symmetry in crystal structures.",
                   "itemList": [
                     {
-                      "itemTitle": "Table (Part 3)",
+                      "itemTitle": "Handout (Part 3)",
                       "itemDescription": null,
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "Download (DRAFT FILE)",
-                          "url": "https://docs.google.com/presentation/d/15kAbl6wURUarsd0zcRk2L2pgbipuDA0EdgOufBbSNNI"
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/export/pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/15kAbl6wURUarsd0zcRk2L2pgbipuDA0EdgOufBbSNNI/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Presentation (Part 3)",
-                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "Present Now (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1ab7_5cvV97yuGAG185aIHw0Of3SuRczHXukxOFzAU54/present"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1ab7_5cvV97yuGAG185aIHw0Of3SuRczHXukxOFzAU54/template/preview"
+                          "url": "https:/docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/template/preview"
                         }
                       ]
                     },
@@ -271,614 +224,55 @@
                       "links": [
                         {
                           "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1QwKJsVLD9BZIsr_l_cXAX-cAEYCHos_2E3ChX7_0SSc/export?format=pdf"
+                          "url": "https:/docs.google.com/document/d/1w85Gg0xW3xewvVrXx87RI1wGdcDaftwY6iGESm79wOc/export?format=pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1QwKJsVLD9BZIsr_l_cXAX-cAEYCHos_2E3ChX7_0SSc/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Student Worksheet (Part 3)",
-                      "itemDescription": "Print 1 per Student",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1uX2Ap8nNK7Xx97uDuL5qnIfqxO0tubL29PHj5oh_I3g/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1uX2Ap8nNK7Xx97uDuL5qnIfqxO0tubL29PHj5oh_I3g/template/preview"
+                          "url": "https:/docs.google.com/document/d/1w85Gg0xW3xewvVrXx87RI1wGdcDaftwY6iGESm79wOc/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                "part": "last",
-                "title": "Assessments",
-                "preface": "",
-                "itemList": [
-                  {
-                    "itemTitle": "Teacher Assessment",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
-                      }
-                    ]
-                  },
-                  {
-                    "itemTitle": "Student Assessment",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
-                      }
-                    ]
-                  },
-                  {
-                    "itemTitle": "Genetic Rescue Unit Assessment Rubric",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
-                      }
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "grades": "Grades 9-12",
-              "gradePrefix": "G9-12",
-              "links": {
-                "linkText": "Download G9-12 Materials for All Parts",
-                "url": "https://drive.google.com/drive/folders/1GYe1ayZxTMKbRyMELDN0ejhsNENnm5yM"
-              },
-              "parts": {
-                "1": {
-                  "part": "1",
-                  "title": null,
+                {
+                  "part": "4",
+                  "title": "Electric crystals and their broken symmetries",
                   "tags": [
-                    null
+                    [
+                      "comics",
+                      "puzzles"
+                    ]
                   ],
-                  "preface": null,
+                  "preface": "Students learn about how crystal molecular symmetry can cause the *piezoelectric effect*. They put on their engineering caps to solve puzzles related to common *piezo* devices (like a quartz watch) that use this effect to solve everyday problems.",
                   "itemList": [
                     {
-                      "itemTitle": "Presentation (Part 1)",
-                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "Present Now (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1r7nDwzvOiNYQ1YAIDFSs0ef4ADEApqygUh7Ph1Kk3vA/present"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1r7nDwzvOiNYQ1YAIDFSs0ef4ADEApqygUh7Ph1Kk3vA/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Worksheet (Part 1)",
+                      "itemTitle": "Teacher Worksheet (Part 4)",
                       "itemDescription": "Print 1 Copy",
                       "itemCat": "document",
                       "links": [
                         {
                           "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1hQABDSFZ0k1cOHmxodHPJ81UnllLBnKgqVlRa60fAGk/export?format=pdf"
+                          "url": "https:/docs.google.com/document/d/1cgrhNQy_nwO8Ej7haVShtuO19RGreX4j_QB1VyoyQ8Q/export?format=pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1hQABDSFZ0k1cOHmxodHPJ81UnllLBnKgqVlRa60fAGk/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Student Worksheet (Part 1)",
-                      "itemDescription": "Print 1 per Student",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1dToffqdaP8E_FqOCXPw5xv2ZCUVPqdXc2fE0M7ygUOk/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1dToffqdaP8E_FqOCXPw5xv2ZCUVPqdXc2fE0M7ygUOk/template/preview"
+                          "url": "https:/docs.google.com/document/d/1cgrhNQy_nwO8Ej7haVShtuO19RGreX4j_QB1VyoyQ8Q/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                "2": {
-                  "part": "2",
-                  "title": null,
-                  "tags": [
-                    null
-                  ],
-                  "preface": null,
-                  "itemList": [
-                    {
-                      "itemTitle": "Presentation (Part 2)",
-                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "Present Now (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1cXDG0OWQ-fe9nZulUDFbfnBkj9eSc3MrSzU_s2o2Ldc/present"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1cXDG0OWQ-fe9nZulUDFbfnBkj9eSc3MrSzU_s2o2Ldc/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Worksheet (Part 2)",
-                      "itemDescription": "Print 1 Copy",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1Oei1L5GKGwKZHB0sEoEB8LT1GMGFhV_IJmvGkq-nrzo/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1Oei1L5GKGwKZHB0sEoEB8LT1GMGFhV_IJmvGkq-nrzo/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Student Worksheet (Part 2)",
-                      "itemDescription": "Print 1 per Student",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1LUUedpnoXmvd7nyPWDZMj-6JBJWIHjUu0U3KL70mVyo/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1LUUedpnoXmvd7nyPWDZMj-6JBJWIHjUu0U3KL70mVyo/template/preview"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "3": {
-                  "part": "3",
-                  "title": null,
-                  "tags": [
-                    null
-                  ],
-                  "preface": null,
-                  "itemList": [
-                    {
-                      "itemTitle": "Presentation (Part 3)",
-                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "Present Now (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1CI3ANxJGwEYrEccSIF2hSYKILELFBoVSiOWEWlRSzLE/present"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1CI3ANxJGwEYrEccSIF2hSYKILELFBoVSiOWEWlRSzLE/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Handout/ Table (Part 3)",
-                      "itemDescription": "Print Classroom Set",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/13L5ZblefCyq12xLTXZgqNyvFNgnJiiOZ4BMVgl9Zsh4/export/pdf"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/13L5ZblefCyq12xLTXZgqNyvFNgnJiiOZ4BMVgl9Zsh4/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Worksheet (Part 3)",
-                      "itemDescription": "Print 1 Copy",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/12eV_YjKfMjOV8tyMQpe6n2Nun6mEU8Cd_WnIoF1i9Ds/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/12eV_YjKfMjOV8tyMQpe6n2Nun6mEU8Cd_WnIoF1i9Ds/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Student Worksheet (Part 3)",
-                      "itemDescription": "Print 1 per Student",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1Nrk_a8Q_iEULbQ7lBJnSdZmt0IccXCei8ZAQURJMbxg/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1Nrk_a8Q_iEULbQ7lBJnSdZmt0IccXCei8ZAQURJMbxg/template/preview"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "part": "last",
-                "title": "Assessments",
-                "preface": "",
-                "itemList": [
-                  {
-                    "itemTitle": "Teacher Assessment",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
-                      }
-                    ]
-                  },
-                  {
-                    "itemTitle": "Student Assessment",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
-                      }
-                    ]
-                  },
-                  {
-                    "itemTitle": "Genetic Rescue Unit Assessment Rubric",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
-                      }
-                    ]
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        "remote": {
-          "gradeVariantNotes": [
-            {
-              "part": "1",
-              "partGradeVarNotes": null
-            },
-            {
-              "part": "2",
-              "partGradeVarNotes": null
-            },
-            {
-              "part": "3",
-              "partGradeVarNotes": null
-            }
-          ],
-          "resources": [
-            {
-              "grades": "Grades 5-6",
-              "gradePrefix": "G5-6",
-              "links": {
-                "linkText": "Download G5-6 Materials for All Parts",
-                "url": "https://drive.google.com/drive/folders/166k3F4gRGx5905iG8DB9-fmhR_arYjpZ"
-              },
-              "parts": {
-                "1": {
-                  "part": "1",
-                  "title": null,
-                  "tags": [
-                    null
-                  ],
-                  "preface": null,
-                  "itemList": [
-                    {
-                      "itemTitle": "Presentation (Part 1)",
-                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "Present Now (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1emRmg4TdT8ZzBfQzgUuz9YAKBYlOKoBrfJyxtu2ZH0g/present"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1emRmg4TdT8ZzBfQzgUuz9YAKBYlOKoBrfJyxtu2ZH0g/template/preview"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "2": {
-                  "part": "2",
-                  "title": null,
-                  "tags": [
-                    null
-                  ],
-                  "preface": null,
-                  "itemList": [
-                    {
-                      "itemTitle": "Presentation (Part 2)",
-                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "Present Now (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1ToEX7DF6toEaK0PCTxbBXj0nofwa7SAiDHMRrSa8WAo/present"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1ToEX7DF6toEaK0PCTxbBXj0nofwa7SAiDHMRrSa8WAo/template/preview"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "3": {
-                  "part": "3",
-                  "title": null,
-                  "tags": [
-                    null
-                  ],
-                  "preface": null,
-                  "itemList": [
-                    {
-                      "itemTitle": "Presentation (Part 3)",
-                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                      "itemCat": "presentation",
-                      "links": [
-                        {
-                          "linkText": "Present Now (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1DJ6d9nXNWYjVGReJDDg2r9Iu_fwydoKSxwj6m-Jr8kU/present"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1DJ6d9nXNWYjVGReJDDg2r9Iu_fwydoKSxwj6m-Jr8kU/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Table (Part 3)",
-                      "itemDescription": null,
-                      "itemCat": "docx",
-                      "links": [
-                        {
-                          "linkText": "Download (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1qrkUcljPbjadum24UZHO9e884js0nCUL"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1qrkUcljPbjadum24UZHO9e884js0nCUL"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Student Table (Part 3)",
-                      "itemDescription": null,
-                      "itemCat": "docx",
-                      "links": [
-                        {
-                          "linkText": "Download (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1ggPJ_LVd6a6A5zmGNkgx95GeFcjwfTOk"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1ggPJ_LVd6a6A5zmGNkgx95GeFcjwfTOk"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "part": "last",
-                "title": "Assessments",
-                "preface": "",
-                "itemList": [
-                  {
-                    "itemTitle": "Teacher Assessment",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
-                      }
-                    ]
-                  },
-                  {
-                    "itemTitle": "Student Assessment",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
-                      }
-                    ]
-                  },
-                  {
-                    "itemTitle": "Genetic Rescue Unit Assessment Rubric",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
-                      }
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "grades": "Grades 7-8",
-              "gradePrefix": "G7-8",
-              "links": {
-                "linkText": "Download G7-8 Materials for All Parts",
-                "url": "https://drive.google.com/drive/folders/1xvdnIyQ2O0rlARr6R2Ig7Q0QZqK72g-j"
-              },
-              "parts": {
-                "1": {
-                  "part": "3",
-                  "title": null,
-                  "tags": [
-                    null
-                  ],
-                  "preface": null,
-                  "itemList": [
-                    {
-                      "itemTitle": "Student Table (Part 3)",
-                      "itemDescription": null,
-                      "itemCat": "docx",
-                      "links": [
-                        {
-                          "linkText": "Download (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1yDvcGR4AYdj3t4WZJQ2P7FO5QBgOERsU"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1yDvcGR4AYdj3t4WZJQ2P7FO5QBgOERsU"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Teacher Table (Part 3)",
-                      "itemDescription": null,
-                      "itemCat": "docx",
-                      "links": [
-                        {
-                          "linkText": "Download (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1yIAjtt3rkpLyMkOW468F6OPZuoJH9qQB"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1yIAjtt3rkpLyMkOW468F6OPZuoJH9qQB"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "part": "last",
-                "title": "Assessments",
-                "preface": "",
-                "itemList": [
-                  {
-                    "itemTitle": "Teacher Assessment",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1WLKUCec6hEEK0QcKa-TAXToscUtsegP2mQPYmFQ_Qls/template/preview"
-                      }
-                    ]
-                  },
-                  {
-                    "itemTitle": "Student Assessment",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1ImSfyDVf4mhEt7XCJIx-JsL0wpXVwuKw_7Vm9t9Nmpo/template/preview"
-                      }
-                    ]
-                  },
-                  {
-                    "itemTitle": "Genetic Rescue Unit Assessment Rubric",
-                    "itemDescription": null,
-                    "itemCat": "document",
-                    "links": [
-                      {
-                        "linkText": "PDF (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/export?format=pdf"
-                      },
-                      {
-                        "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                        "url": "https:/docs.google.com/document/d/1nf2LH-p0SzcCeOVmsTzlea5HDYD32udfcYV7OPlsL5I/template/preview"
-                      }
-                    ]
-                  }
-                ]
-              }
+                null
+              ]
             }
           ]
         },
         "parts": [
           {
             "partNum": 1,
-            "partTitle": null,
+            "partTitle": "What is a crystal?",
             "partDur": null,
-            "partPreface": null,
+            "partPreface": "An original comic engages students in a card-based activity. Students will learn what a \"crystal\" is, and how it's structure and properties differ from \"amorphous solids\" like glass.",
             "partPrep": {
               "PrepTitle": "Prep",
               "PrepDur": 10,
@@ -950,9 +344,9 @@
           },
           {
             "partNum": 2,
-            "partTitle": null,
+            "partTitle": "Unit cells and their molecular building blocks.",
             "partDur": null,
-            "partPreface": null,
+            "partPreface": "Students do construct toothpick-and-grape models to understand atomic arrangements inside the crystal *unit cell*.",
             "partPrep": {
               "PrepTitle": "Prep",
               "PrepDur": null,
@@ -1015,9 +409,9 @@
           },
           {
             "partNum": 3,
-            "partTitle": null,
+            "partTitle": "How do crystals get their shapes?",
             "partDur": null,
-            "partPreface": null,
+            "partPreface": "Students build multiple *unit cells* using paper foldables in order to understand different types of symmetry in crystal structures.",
             "partPrep": {
               "PrepTitle": null,
               "PrepDur": null,
@@ -1080,9 +474,9 @@
           },
           {
             "partNum": 4,
-            "partTitle": null,
+            "partTitle": "Electric crystals and their broken symmetries",
             "partDur": null,
-            "partPreface": null,
+            "partPreface": "Students learn about how crystal molecular symmetry can cause the *piezoelectric effect*. They put on their engineering caps to solve puzzles related to common *piezo* devices (like a quartz watch) that use this effect to solve everyday problems.",
             "partPrep": {
               "PrepTitle": null,
               "PrepDur": null,
@@ -1206,385 +600,11 @@
         "gatheredVocab": null
       }
     },
-    "background": {
-      "__component": "lesson-plan.collapsible-text-section",
-      "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n Instead of telling students that a pattern exists, we have them discover it for themselves. That is, rather than telling them, \"In animal species with *conventional sex roles,* males invest more in attracting and competing for mates, while females invest more in parental care,\" we have students collect data in a fun, interactive format and draw this conclusion from the data. They are then more invested in understanding cases of *sex role reversed species* that are the exceptions to this rule, and have \"caring males\" and \"competitive females.\" \n\nIn part 2, students follow in the footsteps of an early career Latina scientist, Dr. Johana Goyes Vallejos, testing the same hypotheses she did during her PhD research. Students analyze a real graph and table she collected on the island of Borneo to determine if the Smooth Guardian Frog (*Limnonectes palavanensis*) is the first sex-role-reversed frog species known to science. (It is!) \n#### Research Background\n Watch [ERROR: CHECK *{vid3}* REFERENCE. NO LINK FOUND]() to get a nice summary of Dr. Johana Goyes Vallejos’ scientific journey.\n\nWhile pursuing a PhD in ecology and evolutionary biology at the University of Connecticut, Johana heard about a poorly studied frog called the Smooth Guardian Frog (*Limnonectes palavanensis*), found only on the island of Borneo in Southeast Asia. In a couple of scientific papers in the 1980s, a researcher had described a highly unusual behavior--the males guard eggs hidden under the leaf litter (thus, the common name of the species). When the eggs hatch, the male then carries the tadpoles (on his back!) to small pools of water where they can develop into adult frogs.\nJohana, who was deeply interested in parental care behavior decided to fly to the tiny sultanate of Brunei (ruled by a sultan, rather than a king) and learn about this frog herself. She established a study population, tracking individuals and recording audio of frog calls, often on her own at night, wading through thick mud and fording streams. During her observations, she noticed a tiny peep. It sounded very different from the male calls she had been used to hearing. After careful observation, she confirmed that indeed, these were female calls, which had never been described before by anyone. (See [ERROR: CHECK *{vid4}* REFERENCE. NO LINK FOUND]())\n\nOut of 8,000+ known frog species, Johana had found one of only a couple that are known to have calling females. Previously, scientists had thought females might be physiologically incapable of producing calls. In contrast, when she started focusing on female calling behavior, she found that they were actually calling *more* than males! Students will recapitulate this finding by analyzing a figure showing male and female calling rates.\n\nAs [Borneo is now being heavily deforested](https://en.wikipedia.org/wiki/Deforestation_in_Borneo), populations of Guardian Frogs are declining. In the final assignment, students are asked to synthesize everything they’ve learned to write a persuasive paragraph about why these exceptional frogs matter and what we stand to lose if they are lost. \n\n#### Researcher Bio\nDr. Johana Goyes Vallejos is a Preparing Future Faculty for Faculty Diversity Postdoctoral Fellow in the Division of Biological Sciences at the University of Missouri, Columbia. She graduated with a B.Sc. in Biology with a minor in Genetics from the Universidad del Valle in Cali, Colombia. She received her Ph.D. in Ecology and Evolutionary Biology from the\nUniversity of Connecticut, studying mating systems, parental care behavior, and acoustic\ncommunication in frogs. Her research has taken her to many tropical forests across the\nworld, including Panama, Costa Rica, Guyana, the Philippines, Malaysia and Brunei\nDarussalam. \n\nAt the University of Missouri, Dr. Goyes Vallejos continues her research on\nmating behavior and parental care strategies using frogs with elaborate parental behaviors\nas study systems. In addition, since 2018, she serves as a research mentor for an NSF-\nfunded Research Experience for Undergraduates program in Costa Rica, providing\nhands-on training in animal behavior and field research to undergraduate students\nbelonging to minoritized groups in STEM. She is passionate about sharing her research findings with scientific and non-scientific audiences through various media outlets. When not chasing frogs in remote forests around the world Dr. Goyes Vallejos enjoys salsa dancing, storytelling and crocheting amigurumis. \n\n[Learn more about Johana at her website](https://jogoyesvallejos.weebly.com/)\n\n#### Further Reading and Listening\n- [The Shape of The World Podcast: When the girl frog sings](https://shapeoftheworldshow.com/2019/05/04/episode-10-when-the-girl-frog-sings/) (May 2019)\n- [FrogLife.org| Female communication in anurans: duets, ultrasonic calls and sex-role reversal](http://www.froglife.org/2019/08/29/croaking-science-female-communication-in-anurans-duets-ultrasonic-calls-and-sex-role-reversal/) (August 2019)\n- [National Geographic España| Los padrazos del mundo de los anfibios](https://www.nationalgeographic.com.es/ciencia/grandes-reportajes/padrazos-mundo-anfibios_13763) (March 2019)\n- [The New York Times| ​Devoted Dads of the Amphibian World](https://www.nytimes.com/2018/12/04/science/frogs-parenting-reproduction.html) (December 2018)\n- [KU Today| Extraordinary 'faithful father' revealed by study of smooth guardian frog of Borneo](https://today.ku.edu/2018/12/13/research-smooth-guardian-frog-borneo-details-extraordinary-faithful-father) (December 2018)\n- [Science Magazine: These female frogs are the first of their kind to croon to their guys](http://www.sciencemag.org/news/2017/06/these-female-frogs-are-first-their-kind-croon-their-guys)​ (June 2017)\n- [Science & Vie| Chez la grenouille de Bornéo, c'est madame qui chante](https://www.science-et-vie.com/nature-et-enviro/chez-la-grenouille-de-borneo-c-est-madame-qui-chante-8925) (June 2017)\n\n#### Related Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/TEST/goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=Calling+behavior+of+males+and+females+of+a+Bornean+frog+with+male+parental+care+and+possible+sex-role+reversal&btnG=)\n",
-      "InitiallyExpanded": true
-    },
-    "standards-header": {
-      "__component": "lesson-plan.section-heading",
-      "SectionTitle": "Learning Standards"
-    },
-    "learning-chart": {
-      "__component": "lesson-plan.learning-chart",
-      "Title": "About the GP Learning Chart",
-      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 18 standards across US grade band(s): 5-6, 7-8, 9-12.",
-      "Footnote": "",
-      "Badge": {
-        "url": "https://catalog.galacticpolymath.com/lessons/TEST/GP-Learning-Chart.png"
-      }
-    },
-    "standards": {
-      "__component": "lesson-plan.standards",
-      "LearningObj": "1. Explain how animal behavior facilitates survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n4. Understand that there is always variability in scientific data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why biological exceptions matter to science and society.\n",
-      "Data": [
-        {
-          "subject": "Math",
-          "target": false,
-          "sets": [
-            {
-              "slug": "CCM",
-              "name": "Common Core Math",
-              "dimensions": [
-                {
-                  "slug": "AGTC&HLT",
-                  "name": "Algebra, Geometry, Trig, Calculus & Higher Level Thinking",
-                  "standardsGroup": [
-                    {
-                      "parts": [],
-                      "codes": "HSS-IC.B.6",
-                      "grades": "9,10,11,12",
-                      "statements": "Evaluate reports based on data.",
-                      "alignmentNotes": "- In P1&2, students analyze the data they collect in the interactive \"Role with It\" activity. In P3 they interpret a real scientific figure to test the hypothesis that Guardian frogs are a sex-role-reversed species.",
-                      "subcat": null
-                    }
-                  ]
-                },
-                {
-                  "slug": "MDP&S",
-                  "name": "Measurement, Data, Probability & Statistics",
-                  "standardsGroup": [
-                    {
-                      "parts": [],
-                      "codes": "HSS-ID.A.3",
-                      "grades": "9,10,11,12",
-                      "statements": "Interpret differences in shape, center, and spread in the context of the data sets, accounting for possible effects of extreme data points (outliers).",
-                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
-                      "subcat": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "subject": "ELA",
-          "target": false,
-          "sets": [
-            {
-              "slug": "CCELA",
-              "name": "Common Core ELA",
-              "dimensions": [
-                {
-                  "slug": "LS&L",
-                  "name": "Language, Speaking & Listening",
-                  "standardsGroup": [
-                    {
-                      "parts": [
-                        "1",
-                        "2",
-                        "3"
-                      ],
-                      "codes": "SL.6.2",
-                      "grades": "6",
-                      "statements": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
-                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
-                      "subcat": null
-                    }
-                  ]
-                },
-                {
-                  "slug": "R",
-                  "name": "Reading",
-                  "standardsGroup": [
-                    {
-                      "parts": [
-                        "2"
-                      ],
-                      "codes": "RH.6-8.7",
-                      "grades": "6,7,8",
-                      "statements": "Integrate visual information (e.g., in charts, graphs, photographs, videos, or maps) with other information in print and digital texts.",
-                      "alignmentNotes": "- In P1-P2, students will combine data they collect into tables and interpret their findings to identify a pattern. In P3, they will use data provided in a table to label missing text in a graph; then interpret the graph and explain how it supports the finding that Guardian frogs are a sex-role-reversed species.",
-                      "subcat": null
-                    },
-                    {
-                      "parts": [],
-                      "codes": "RST.9-10.7",
-                      "grades": "9,10",
-                      "statements": "Translate quantitative or technical information expressed in words in a text into visual form (e.g., a table or chart) and translate information expressed visually or mathematically (e.g., in an equation) into words.",
-                      "alignmentNotes": "- In P1-P2, students will combine data they collect into tables and interpret their findings to identify a pattern. In P3, they will use data provided in a table to label missing text in a graph; then interpret the graph and explain how it supports the finding that Guardian frogs are a sex-role-reversed species.",
-                      "subcat": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "subject": "Science",
-          "target": false,
-          "sets": [
-            {
-              "slug": "NGSS",
-              "name": "NGSS",
-              "dimensions": [
-                {
-                  "slug": "SEP",
-                  "name": "Science & Engineering Practices",
-                  "standardsGroup": [
-                    {
-                      "parts": [],
-                      "codes": "CEDS-M4",
-                      "grades": "6,7,8",
-                      "statements": "Apply scientific ideas, principles, and/or evidence to construct, revise and/or use an explanation for real-world phenomena, examples, or events.",
-                      "alignmentNotes": "- Students will integrate data visualization of real biological data and scientific text, using scientific ideas and principles to investigate an real example of exceptions to the rule in nature, with evidence for sex role reversal in Guardian Frogs.",
-                      "subcat": "Constructing Explanations & Designing Solutions"
-                    },
-                    {
-                      "parts": [],
-                      "codes": "DATA-M4",
-                      "grades": "6,7,8",
-                      "statements": "Analyze and interpret data to provide evidence for phenomena.",
-                      "alignmentNotes": "- In P1-P2, students will combine data they collect into tables and interpret their findings to identify a pattern. In P3, they will use data provided in a table to label missing text in a graph; then interpret the graph and explain how it supports the finding that Guardian frogs are a sex-role-reversed species.",
-                      "subcat": "Analyzing Data"
-                    },
-                    {
-                      "parts": [],
-                      "codes": "DATA-M5",
-                      "grades": "6,7,8",
-                      "statements": "Apply concepts of statistics and probability (including mean, median, mode, and variability) to analyze and characterize data, using digital tools when feasible.",
-                      "alignmentNotes": "- Students calculate proportions of males and females of our sample of species. They use these statistics to derive a general pattern and identify exceptional species that buck the trend.",
-                      "subcat": "Analyzing Data"
-                    },
-                    {
-                      "parts": [],
-                      "codes": "AQDP-H1",
-                      "grades": "9,10,11,12",
-                      "statements": "Ask questions that arise from careful observation of phenomena, or unexpected results, to clarify and/or seek additional information.",
-                      "alignmentNotes": "- In P2, students are asked to identify surprising patterns and to explain which species they would study and why. This requires them to deeply understand the data they've collected.",
-                      "subcat": "Ask Questions & Define Problems"
-                    },
-                    {
-                      "parts": [],
-                      "codes": "CEDS-H4",
-                      "grades": "9,10,11,12",
-                      "statements": "Apply scientific reasoning, theory, and/or models to link evidence to the claims to assess the extent to which the reasoning and data support the explanation or conclusion.",
-                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
-                      "subcat": "Constructing Explanations & Designing Solutions"
-                    },
-                    {
-                      "parts": [],
-                      "codes": "DATA-H2",
-                      "grades": "9,10,11,12",
-                      "statements": "Apply concepts of statistics and probability (including determining function fits to data, slope, intercept, and correlation coefficient for linear fits) to scientific and engineering questions and problems, using digital tools when feasible.",
-                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
-                      "subcat": "Analyzing Data"
-                    }
-                  ]
-                },
-                {
-                  "slug": "DCI",
-                  "name": "Disciplinary Core ideas",
-                  "standardsGroup": [
-                    {
-                      "parts": [],
-                      "codes": "LS1.B-M2",
-                      "grades": "6,7,8",
-                      "statements": "Animals engage in characteristic behaviors that increase the odds of reproduction.",
-                      "alignmentNotes": "- Students will explore a wide variety of animal mate attraction and parental behaviors that increase the odds of survival and reproduction and reflect on both the general pattern of \"caring females, competitive males\" and exceptions to this pattern.",
-                      "subcat": "Growth & Development of Organisms"
-                    },
-                    {
-                      "parts": [],
-                      "codes": "LS4.B-H2",
-                      "grades": "9,10,11,12",
-                      "statements": "The traits that positively affect survival are more likely to be reproduced, and thus are more common in the population.",
-                      "alignmentNotes": "- This standard is not explicitly addressed, but can easily be connected by asking students to explain how some of the behaviors covered in the lesson should be favored by selection (i.e. how they increase survival and/or reproduction of individuals who behave that way, compared to those who do not).",
-                      "subcat": "Natural Selection"
-                    }
-                  ]
-                },
-                {
-                  "slug": "CCC",
-                  "name": "Cross-Cutting Concepts",
-                  "standardsGroup": [
-                    {
-                      "parts": [],
-                      "codes": "PAT-M3",
-                      "grades": "6,7,8",
-                      "statements": "Patterns can be used to identify cause-and-effect relationships.",
-                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
-                      "subcat": "Patterns"
-                    },
-                    {
-                      "parts": [],
-                      "codes": "PAT-M4",
-                      "grades": "6,7,8",
-                      "statements": "Graphs, charts, and images can be used to identify patterns in data.",
-                      "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through interpreting data represented in tables and scatter plots.",
-                      "subcat": "Patterns"
-                    },
-                    {
-                      "parts": [],
-                      "codes": "PAT-H5",
-                      "grades": "9,10,11,12",
-                      "statements": "Empirical evidence is needed to identify patterns.",
-                      "alignmentNotes": "- Students interpret differences (in an authentic scientific graph) between male and female frog calling patterns to test a hypothesis.",
-                      "subcat": "Patterns"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "subject": "Social Studies",
-          "target": false,
-          "sets": [
-            {
-              "slug": "C3",
-              "name": "C3",
-              "dimensions": [
-                {
-                  "slug": "ESCCTA",
-                  "name": "Evaluating Sources, Communicating Conclusions & Taking Action",
-                  "standardsGroup": [
-                    {
-                      "parts": [
-                        "2"
-                      ],
-                      "codes": "D4.1.6-8",
-                      "grades": "6,7,8",
-                      "statements": "Construct arguments using claims and evidence from multiple sources, while acknowledging the strengths and limitations of the arguments.",
-                      "alignmentNotes": "- In P1-P2, students interpret data they collect and organize in a table. In P3, they synthesize multiple lines of evidence to determine whether Guardian frogs are a sex-role-reversed species and argue for why they should be studied further.",
-                      "subcat": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "subject": "Science",
-          "target": true,
-          "sets": [
-            {
-              "slug": "NGSS",
-              "name": "NGSS",
-              "dimensions": [
-                {
-                  "slug": "SEP",
-                  "name": "Science & Engineering Practices",
-                  "standardsGroup": [
-                    {
-                      "parts": [],
-                      "codes": "AQDP-M1",
-                      "grades": "6,7,8",
-                      "statements": "Ask questions that arise from careful observation of phenomena, models, or unexpected results, to clarify and/or seek additional information.",
-                      "alignmentNotes": "- Students will practice looking at real data that is variable, and become familiar with looking at mean and variability, through experience plotting boxplots and follow-up interpretation of data and discussion.",
-                      "subcat": "Ask Questions & Define Problems"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     "feedback": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Feedback",
-      "Content": "### Please let us know how it went with your class! \nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/bZeaTqPEedQMjMV59)\n- [For students](https://forms.gle/YnBorosBjWQHobgX7)\n",
+      "Content": "### Please let us know how it went with your class!\n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)\n- [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)\n",
       "InitiallyExpanded": true
-    },
-    "credits": {
-      "__component": "lesson-plan.collapsible-text-section",
-      "SectionTitle": "Credits",
-      "Content": "#### Lead Author and Creative Director:\nMatt Wilkins, PhD  \nIf you liked this lesson, please help spread the word! Feel free to tag me ([@mattwilkinsbio](https://twitter.com/mattwilkinsbio)) and GP ([@galacticPM](https://twitter.com/galacticPM)) on Twitter with your experiences and student questions! \n\nAnd please [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what’s coming up next!\n\n#### Sponsor and Producer\n[Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/)\n\n#### \"Role with It\" Animal Diversity Cards Illustrator\n[Anna Wilkins](https://www.annamationvisdev.com)",
-      "InitiallyExpanded": true
-    },
-    "acknowledgments": {
-      "__component": "lesson-plan.acknowledgments",
-      "SectionTitle": "Acknowledgments",
-      "Data": [
-        {
-          "role": "Education Consultant",
-          "def": "(Initial lesson development)",
-          "records": [
-            {
-              "name": "Tracy Burkhard, PhD",
-              "url": "https://twitter.com/ttburk",
-              "title": "Postdoctoral Fellow",
-              "affiliation": "Centre d’Ecologie Fonctionnelle et Evolutive",
-              "location": "Montpellier, France"
-            },
-            {
-              "name": "Rachel Neurath, PhD",
-              "url": "https://www.linkedin.com/in/rachel-neurath/",
-              "title": "Soil Microbial Ecologist | STEM Educator | Writer",
-              "affiliation": null,
-              "location": "New England, USA"
-            }
-          ]
-        }
-      ]
-    },
-    "versions": {
-      "__component": "lesson-plan.versions",
-      "SectionTitle": "Version Notes",
-      "Data": [
-        {
-          "major_release": "Beta",
-          "sub_releases": [
-            {
-              "version": "0.1.0",
-              "date": "Apr 02, 2022",
-              "summary": "Initial lesson build. ",
-              "notes": null,
-              "acknowledgments": null
-            }
-          ]
-        },
-        {
-          "major_release": "1",
-          "sub_releases": [
-            {
-              "version": "1.0.0",
-              "date": "Apr 22, 2022",
-              "summary": "Worldwide release!",
-              "notes": null,
-              "acknowledgments": null
-            },
-            {
-              "version": "1.0.1",
-              "date": "Apr 22, 2022",
-              "summary": "Tweaks to acknowledgments & procedure",
-              "notes": null,
-              "acknowledgments": null
-            },
-            {
-              "version": "1.0.2",
-              "date": "Apr 26, 2022",
-              "summary": "Reorganized P2: Table 2 to match Table 1 order.",
-              "notes": null,
-              "acknowledgments": "Wilkins found this error when teaching 7th grade class."
-            },
-            {
-              "version": "1.0.3",
-              "date": "May 26, 2022",
-              "summary": "Tweaks to worksheets and expanded to G5-9",
-              "notes": null,
-              "acknowledgments": "Erica Valerie suggested changes, all of which were incorporated. "
-            }
-          ]
-        }
-      ]
     }
   }
 }
