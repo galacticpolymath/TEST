@@ -6,7 +6,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-10 12:58:55",
+  "LastUpdated": "2023-04-10 14:26:18",
   "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
   "lang": "en",
   "lng": "eng",
@@ -39,13 +39,13 @@
   "SponsoredBy": "- University of Nebraska-Lincoln's [Funsize Physics](https://funsizephysics.com/). Whether you’re 7 or 107, a full-blown science fanatic or simply curious, this is the place for you.\n- National Science Foundation grant DMR 2048959",
   "SponsorImage": {
     "url": [
-      "https://catalog.galacticpolymath.com/lessons/TEST/FunSizePhysics_logo.png",
-      "https://catalog.galacticpolymath.com/lessons/TEST/NSF_4-Color_bitmap_Logo@0.25x.png",
-      "https://catalog.galacticpolymath.com/lessons/TEST/R-UNL_RGB_logo.jpg"
+      "https://gp-catalog.vercel.app/lessons/TEST/FunSizePhysics_logo.png",
+      "https://gp-catalog.vercel.app/lessons/TEST/NSF_4-Color_bitmap_Logo@0.25x.png",
+      "https://gp-catalog.vercel.app/lessons/TEST/R-UNL_RGB_logo.jpg"
     ]
   },
   "CoverImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/TEST/banner.png"
+    "url": "https://gp-catalog.vercel.app/lessons/TEST/banner.png"
   },
   "Section": {
     "overview": {
