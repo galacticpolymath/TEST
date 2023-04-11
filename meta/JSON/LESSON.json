@@ -6,7 +6,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-10 14:56:52",
+  "LastUpdated": "2023-04-10 19:33:37",
   "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
   "lang": "en",
   "lng": "eng",
@@ -103,6 +103,7 @@
       "__component": "teaching-resources.teaching-resources",
       "SectionTitle": "Teaching Materials",
       "Data": {
+        "lessonDur": "Part 1: NA min, Part 0:  min",
         "classroom": {
           "gradeVariantNotes": [
             {
@@ -279,35 +280,331 @@
         "parts": [
           {
             "partNum": 1,
-            "partTitle": null,
+            "partTitle": "What is a crystal?",
             "partDur": null,
-            "partPreface": null,
-            "chunks": null,
-            "partExtension": null
+            "partPreface": "An original comic engages students in a card-based activity. Students will learn what a \"crystal\" is, and how its structure and properties differ from \"amorphous solids\" like glass.",
+            "partPrep": {
+              "PrepTitle": "Prep",
+              "PrepDur": 10,
+              "PrepQuickDescription": "Print out handouts. Assemble supplies.",
+              "PrepDetails": "Make a bulleted list like this:\n- First thing needed (hit ALT+Enter for new line)\n- Second thing needed",
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": "We expect a basic understanding of...X. If they need background, read [this article](paste URL)."
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Placeholder",
+                "chunkStart": 0,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Chunk 2 Title",
+                "chunkStart": 10,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "Step 2 Title. Need 1 per Step.",
+                    "StepQuickDescription": "Concise Description",
+                    "StepDetails": "Students will play with the Cards handout: [ERROR: CHECK *{item3}* REFERENCE. NO LINK FOUND]()  (This would expand item3 to have a title and link to a pdf if it were listed in the Multimedia tab",
+                    "Vocab": null,
+                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
+                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Chunk 3 Title",
+                "chunkStart": 20,
+                "chunkDur": 25,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": "Step 4 Title",
+                    "StepQuickDescription": "Concise Description",
+                    "StepDetails": "More Detailed description",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 4,
+                    "StepTitle": "Step 4 Title",
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "partExt": null
           },
           {
             "partNum": 2,
-            "partTitle": null,
+            "partTitle": "Unit cells and their molecular building blocks.",
             "partDur": null,
-            "partPreface": null,
-            "chunks": null,
-            "partExtension": null
+            "partPreface": "Students do construct toothpick-and-grape models to understand atomic arrangements inside the crystal *unit cell*.",
+            "partPrep": {
+              "PrepTitle": "Prep",
+              "PrepDur": null,
+              "PrepQuickDescription": null,
+              "PrepDetails": null,
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Chunk 1 Title",
+                "chunkStart": 0,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Step 1 Title",
+                    "StepQuickDescription": null,
+                    "StepDetails": "READ THIS ↓",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Chunk 2 Title",
+                "chunkStart": 10,
+                "chunkDur": 30,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Chunk 3 Title",
+                "chunkStart": 40,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": null,
+                    "StepQuickDescription": "READ THIS →",
+                    "StepDetails": "When you've looked at this example text and understand how it works, select cells A4:K21 and delete. Don't delete the top row!",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "partExt": null
           },
           {
             "partNum": 3,
-            "partTitle": null,
+            "partTitle": "How do crystals get their shapes?",
             "partDur": null,
-            "partPreface": null,
-            "chunks": null,
-            "partExtension": null
+            "partPreface": "Students build multiple *unit cells* using paper foldables in order to understand different types of symmetry in crystal structures.",
+            "partPrep": {
+              "PrepTitle": null,
+              "PrepDur": null,
+              "PrepQuickDescription": null,
+              "PrepDetails": "READ THIS ↑",
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": null,
+                "chunkStart": 0,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": null,
+                "chunkStart": 10,
+                "chunkDur": 15,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": null,
+                "chunkStart": 25,
+                "chunkDur": null,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "partExt": null
           },
           {
             "partNum": 4,
+            "partTitle": "Electric crystals and their broken symmetries",
+            "partDur": null,
+            "partPreface": "Students learn about how crystal molecular symmetry can cause the *piezoelectric effect*. They put on their engineering caps to solve puzzles related to common *piezo* devices (like a quartz watch) that use this effect to solve everyday problems.",
+            "partPrep": {
+              "PrepTitle": null,
+              "PrepDur": null,
+              "PrepQuickDescription": null,
+              "PrepDetails": null,
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": null,
+                "chunkStart": 0,
+                "chunkDur": null,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": null,
+                "chunkStart": null,
+                "chunkDur": null,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "partExt": null
+          },
+          {
+            "partNum": 5,
             "partTitle": null,
             "partDur": null,
             "partPreface": null,
-            "chunks": null,
-            "partExtension": null
+            "partPrep": {
+              "PrepTitle": null,
+              "PrepDur": null,
+              "PrepQuickDescription": null,
+              "PrepDetails": null,
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": null,
+                "chunkStart": 0,
+                "chunkDur": null,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 2,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "partExt": null
+          },
+          {
+            "partNum": 6,
+            "partTitle": null,
+            "partDur": null,
+            "partPreface": null,
+            "partPrep": {
+              "PrepTitle": null,
+              "PrepDur": null,
+              "PrepQuickDescription": null,
+              "PrepDetails": null,
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": null,
+                "chunkStart": 0,
+                "chunkDur": null,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "partExt": null
           }
         ],
         "gatheredVocab": null
