@@ -1,35 +1,37 @@
 id: 999
 UniqueID: lesson_6_locale_1
-ShortTitle: ElectricCrystals
+ShortTitle: TEST
 Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-04-12 09:57:50
-MediumTitle: '''Electric Crystals'' |Science| G7-12 (en-US)'
+LastUpdated: 2023-04-17 12:55:58
+MediumTitle: '''TESTf'' |Science| G7-12 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.4.3
+TemplateVer: 0.4.4
 galacticPubsVer: 0.9.5
 FirstPublicationDate: 2023-04-10 12:14:57
 URL: https://galacticpolymath.com/lessons/999
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/LESSON.json
-GitHubPath: git@github.com:galacticpolymath/ElectricCrystals_en-US.git
-GdriveDirName: ElectricCrystals_en-US
-GdriveDirID: 1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5
-GdriveMetaID: 1dlkMAHfl7P-uFno3U_9lCheDFew3SjT5
-GdriveTeachItID: 1cRlSHwEpGrcd0msr4ZInfQu_EnLKIeIkVymaN9BVo6o
-GdriveStandardsID: 1uvcKiHf2CXaDJErtKRdg4IRhBxbZLWXKF2g1EX94PXI
-GdrivePublishedID: 1dlN6OdrQXZi4YzV0-9sjsaPL3ZDAQK-C
+GitHubPath: git@github.com:galacticpolymath/TEST.git
+GdriveHome: GP-Studio
+GdriveDirName: TEST
+GdriveDirID: 1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2
+GdriveMetaID: 1mApvrZPNcTPOFGQW8p8tmzjOPjXO77Ya
+GdriveTeachMatID: 1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM
+GdriveTeachItID: 1UMg2Cu5dMQW5GPTpChIMkMIZIXESB6V7gAW8SFCqjv4
+GdriveStandardsID: 1V-c6lwWeEbAaAWJh5Eh-bLZp-6d4rxKJo7NDkXE9Juo
+GdrivePublishedID: 1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE
 GdrivePublicID: .na
-GdriveDirURL: https://drive.google.com/drive/folders/1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5
-PublicationStatus: Draft
+GdriveDirURL: https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2
+PublicationStatus: Live
 RebuildAllMaterials: no
 ReleaseDate: '2050-01-01'
-Title: Electric Crystals
-Subtitle: A tour of crystal symmetry and function through comics
+Title: TESTf
+Subtitle: Tryin' somethin' out
 SponsorName:
 - NSF
 - FunsizePhysics
@@ -114,3 +116,4 @@ Versions:
   ver_summary: ''
   ver_notes: ''
   ver_acknowledgments: ''
+GdriveTeachMat: 1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM
