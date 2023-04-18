@@ -1,36 +1,38 @@
 {
   "id": 999,
   "UniqueID": "lesson_6_locale_1",
-  "ShortTitle": "ElectricCrystals",
+  "ShortTitle": "TEST",
+  "PublicationStatus": "Draft",
   "Language": "English",
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-17 12:55:58",
-  "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
+  "LastUpdated": "2023-04-18 13:33:12",
+  "FirstPublicationDate": "2023-04-10 12:14:57",
+  "MediumTitle": "'TEST' |Science| G7-12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.4.3",
+  "TemplateVer": "0.4.5",
   "galacticPubsVer": "0.9.5",
-  "FirstPublicationDate": "2023-04-10 12:14:57",
   "URL": "https://galacticpolymath.com/lessons/999",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/LESSON.json",
-  "GitHubPath": "git@github.com:galacticpolymath/ElectricCrystals_en-US.git",
-  "GdriveDirName": "ElectricCrystals_en-US",
-  "GdriveDirID": "1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5",
-  "GdriveMetaID": "1dlkMAHfl7P-uFno3U_9lCheDFew3SjT5",
-  "GdriveTeachItID": "1cRlSHwEpGrcd0msr4ZInfQu_EnLKIeIkVymaN9BVo6o",
-  "GdriveStandardsID": "1uvcKiHf2CXaDJErtKRdg4IRhBxbZLWXKF2g1EX94PXI",
-  "GdrivePublishedID": "1dlN6OdrQXZi4YzV0-9sjsaPL3ZDAQK-C",
+  "GitHubPath": "git@github.com:galacticpolymath/TEST.git",
+  "GdriveHome": "GP-Studio",
+  "GdriveDirName": "TEST",
+  "GdriveDirID": "1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
+  "GdriveMetaID": "1mApvrZPNcTPOFGQW8p8tmzjOPjXO77Ya",
+  "GdriveTeachMatID": "1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM",
+  "GdriveTeachItID": "1UMg2Cu5dMQW5GPTpChIMkMIZIXESB6V7gAW8SFCqjv4",
+  "GdriveStandardsID": "1V-c6lwWeEbAaAWJh5Eh-bLZp-6d4rxKJo7NDkXE9Juo",
+  "GdrivePublishedID": "1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE",
   "GdrivePublicID": null,
-  "GdriveDirURL": "https://drive.google.com/drive/folders/1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5",
-  "PublicationStatus": "Draft",
+  "GdriveDirURL": "https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
   "RebuildAllMaterials": false,
   "ReleaseDate": "2050-01-01",
-  "Title": "Electric Crystals",
-  "Subtitle": "A tour of crystal symmetry and function through comics",
+  "Title": "TEST",
+  "Subtitle": "Tryin' somethin' out again",
   "SponsorName": [
     "NSF",
     "FunsizePhysics",
@@ -86,14 +88,36 @@
       "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
       "Multimedia": [
         {
-          "order": "1",
-          "type": "pdf",
-          "title": "Crystal Cards Handout",
+          "order": "2",
+          "type": "video",
+          "title": "Cool beans",
           "description": null,
-          "lessonRelevance": "These cards are part of a group activity that helps students understand properties and structures of crystals versus amorphous solids (like glass).",
+          "lessonRelevance": "Intro to the issues.",
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "mainLink": "https://docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/preview",
+          "mainLink": "https://www.youtube.com/embed/PGmPIHPX9eQ",
+          "otherLink": null
+        },
+        {
+          "order": "4",
+          "type": "pdf",
+          "title": "What's next?",
+          "description": null,
+          "lessonRelevance": "Go deeper.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/preview?slide=id.p",
+          "otherLink": null
+        },
+        {
+          "order": "3",
+          "type": "shiny-app",
+          "title": "Hear ya go!",
+          "description": null,
+          "lessonRelevance": "Wow, I never knew that!",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "mainLink": "https://www.youtube.com/embed/AiXyHxv4Sx4",
           "otherLink": null
         }
       ],
@@ -129,20 +153,16 @@
               "gradePrefix": "G7-12",
               "links": {
                 "linkText": "Download G7-12 Materials for All Parts",
-                "url": "https://drive.google.com/drive/folders/1deOFzzAvZBO3S022aHBGqq3u6wGYSzCB"
+                "url": "https://drive.google.com/drive/folders/1gGRMiK0xybbS6ljqYykpmBOZniVeV3GV"
               },
               "parts": [
                 {
                   "part": "1",
-                  "title": "What is a crystal?",
+                  "title": "Engagement hook",
                   "tags": [
-                    [
-                      "comics",
-                      "cards",
-                      "hands-on"
-                    ]
+                    null
                   ],
-                  "preface": "An original comic engages students in a card-based activity. Students will learn what a \"crystal\" is, and how its structure and properties differ from \"amorphous solids\" like glass.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Handout/ Card (Part 1)",
@@ -151,11 +171,11 @@
                       "links": [
                         {
                           "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/export/pdf"
+                          "url": "https:/docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/export/pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/template/preview"
+                          "url": "https:/docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/template/preview"
                         }
                       ]
                     },
@@ -166,11 +186,11 @@
                       "links": [
                         {
                           "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/export?format=pdf"
+                          "url": "https:/docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/export?format=pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/template/preview"
+                          "url": "https:/docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/template/preview"
                         }
                       ]
                     }
@@ -178,14 +198,11 @@
                 },
                 {
                   "part": "2",
-                  "title": "Unit cells and their molecular building blocks.",
+                  "title": "Explore",
                   "tags": [
-                    [
-                      "comics",
-                      "hands-on"
-                    ]
+                    null
                   ],
-                  "preface": "Students do construct toothpick-and-grape models to understand atomic arrangements inside the crystal *unit cell*.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Teacher Worksheet (Part 2)",
@@ -194,11 +211,11 @@
                       "links": [
                         {
                           "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1AhRceruzn8ytn1FSJg-tdxcw0Qmiz6U3OWS8eHG--jc/export?format=pdf"
+                          "url": "https:/docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/export?format=pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1AhRceruzn8ytn1FSJg-tdxcw0Qmiz6U3OWS8eHG--jc/template/preview"
+                          "url": "https:/docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/template/preview"
                         }
                       ]
                     }
@@ -206,11 +223,11 @@
                 },
                 {
                   "part": "3",
-                  "title": "How do crystals get their shapes?",
+                  "title": "Extend",
                   "tags": [
                     null
                   ],
-                  "preface": "Students build multiple *unit cells* using paper foldables in order to understand different types of symmetry in crystal structures.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Handout (Part 3)",
@@ -219,11 +236,11 @@
                       "links": [
                         {
                           "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/export/pdf"
+                          "url": "https:/docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/export/pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/template/preview"
+                          "url": "https:/docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/template/preview"
                         }
                       ]
                     },
@@ -234,11 +251,11 @@
                       "links": [
                         {
                           "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1w85Gg0xW3xewvVrXx87RI1wGdcDaftwY6iGESm79wOc/export?format=pdf"
+                          "url": "https:/docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/export?format=pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1w85Gg0xW3xewvVrXx87RI1wGdcDaftwY6iGESm79wOc/template/preview"
+                          "url": "https:/docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/template/preview"
                         }
                       ]
                     }
@@ -246,14 +263,11 @@
                 },
                 {
                   "part": "4",
-                  "title": "Electric crystals and their broken symmetries",
+                  "title": "Investigate on your own",
                   "tags": [
-                    [
-                      "comics",
-                      "puzzles"
-                    ]
+                    null
                   ],
-                  "preface": "Students learn about how crystal molecular symmetry can cause the *piezoelectric effect*. They put on their engineering caps to solve puzzles related to common *piezo* devices (like a quartz watch) that use this effect to solve everyday problems.",
+                  "preface": null,
                   "itemList": [
                     {
                       "itemTitle": "Teacher Worksheet (Part 4)",
@@ -262,11 +276,11 @@
                       "links": [
                         {
                           "linkText": "PDF (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1cgrhNQy_nwO8Ej7haVShtuO19RGreX4j_QB1VyoyQ8Q/export?format=pdf"
+                          "url": "https:/docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/export?format=pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https:/docs.google.com/document/d/1cgrhNQy_nwO8Ej7haVShtuO19RGreX4j_QB1VyoyQ8Q/template/preview"
+                          "url": "https:/docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/template/preview"
                         }
                       ]
                     }
@@ -280,9 +294,9 @@
         "parts": [
           {
             "partNum": 1,
-            "partTitle": "What is a crystal?",
+            "partTitle": "Engagement hook",
             "partDur": null,
-            "partPreface": "An original comic engages students in a card-based activity. Students will learn what a \"crystal\" is, and how its structure and properties differ from \"amorphous solids\" like glass.",
+            "partPreface": null,
             "partPrep": {
               "PrepTitle": "Prep",
               "PrepDur": 10,
@@ -293,18 +307,18 @@
             },
             "chunks": [
               {
-                "chunkTitle": "Placeholder",
+                "chunkTitle": "******\nWrite Over This Text A2:K:4  (but don't delete row!)\n******\nChunk 1 Title; you don't need to repeat this across steps in the same chunk.",
                 "chunkStart": 0,
                 "chunkDur": 10,
                 "steps": [
                   {
                     "Step": 1,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
+                    "StepTitle": "******\nWrite Title; Be sure to refer to notes in each column header\n******\nStep 1 Title. Need 1 per Step.",
+                    "StepQuickDescription": "Concise Description",
+                    "StepDetails": "Details about this step. In this column, as well as StepQuickDescription, and Variant Notes, you can embed a link to a video. Ex: To insert a link to the video listed in the Multimedia tab with Order=1, simply add [▶ Cool beans](https://www.youtube.com/watch?v=PGmPIHPX9eQ&t=70s) anywhere in the text description. A formatted link with the video title will be added to the Procedure.JSON used to generate the lesson plan webpage.",
                     "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
+                    "VariantNotes": "Notes about either classroom or remote differences or grade level differences if there are multiple grade variants (e.g. high school vs middle school)",
+                    "TeachingTips": "Teaching Tips"
                   }
                 ]
               },
@@ -350,13 +364,20 @@
                 ]
               }
             ],
-            "partExt": null
+            "partExt": [
+              {
+                "item": 1,
+                "itemTitle": "Read this",
+                "itemDescription": "Remember when this was a destination?",
+                "itemLink": "yahoo.com"
+              }
+            ]
           },
           {
             "partNum": 2,
-            "partTitle": "Unit cells and their molecular building blocks.",
+            "partTitle": "Explore",
             "partDur": null,
-            "partPreface": "Students do construct toothpick-and-grape models to understand atomic arrangements inside the crystal *unit cell*.",
+            "partPreface": null,
             "partPrep": {
               "PrepTitle": "Prep",
               "PrepDur": null,
@@ -419,9 +440,9 @@
           },
           {
             "partNum": 3,
-            "partTitle": "How do crystals get their shapes?",
+            "partTitle": "Extend",
             "partDur": null,
-            "partPreface": "Students build multiple *unit cells* using paper foldables in order to understand different types of symmetry in crystal structures.",
+            "partPreface": null,
             "partPrep": {
               "PrepTitle": null,
               "PrepDur": null,
@@ -484,9 +505,9 @@
           },
           {
             "partNum": 4,
-            "partTitle": "Electric crystals and their broken symmetries",
+            "partTitle": "Investigate on your own",
             "partDur": null,
-            "partPreface": "Students learn about how crystal molecular symmetry can cause the *piezoelectric effect*. They put on their engineering caps to solve puzzles related to common *piezo* devices (like a quartz watch) that use this effect to solve everyday problems.",
+            "partPreface": null,
             "partPrep": {
               "PrepTitle": null,
               "PrepDur": null,
@@ -519,81 +540,6 @@
                 "steps": [
                   {
                     "Step": 2,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              }
-            ],
-            "partExt": null
-          },
-          {
-            "partNum": 5,
-            "partTitle": null,
-            "partDur": null,
-            "partPreface": null,
-            "partPrep": {
-              "PrepTitle": null,
-              "PrepDur": null,
-              "PrepQuickDescription": null,
-              "PrepDetails": null,
-              "PrepVariantNotes": null,
-              "PrepTeachingTips": null
-            },
-            "chunks": [
-              {
-                "chunkTitle": null,
-                "chunkStart": 0,
-                "chunkDur": null,
-                "steps": [
-                  {
-                    "Step": 1,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 2,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              }
-            ],
-            "partExt": null
-          },
-          {
-            "partNum": 6,
-            "partTitle": null,
-            "partDur": null,
-            "partPreface": null,
-            "partPrep": {
-              "PrepTitle": null,
-              "PrepDur": null,
-              "PrepQuickDescription": null,
-              "PrepDetails": null,
-              "PrepVariantNotes": null,
-              "PrepTeachingTips": null
-            },
-            "chunks": [
-              {
-                "chunkTitle": null,
-                "chunkStart": 0,
-                "chunkDur": null,
-                "steps": [
-                  {
-                    "Step": 1,
                     "StepTitle": null,
                     "StepQuickDescription": null,
                     "StepDetails": null,
