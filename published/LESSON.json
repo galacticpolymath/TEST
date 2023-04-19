@@ -2,12 +2,12 @@
   "id": 999,
   "UniqueID": "lesson_6_locale_1",
   "ShortTitle": "TEST",
-  "PublicationStatus": "Draft",
+  "PublicationStatus": "Live",
   "Language": "English",
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-18 13:33:12",
+  "LastUpdated": "2023-04-19 10:17:20",
   "FirstPublicationDate": "2023-04-10 12:14:57",
   "MediumTitle": "'TEST' |Science| G7-12 (en-US)",
   "lang": "en",
@@ -19,15 +19,15 @@
   "URL": "https://galacticpolymath.com/lessons/999",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/TEST.git",
-  "GdriveHome": "GP-Studio",
+  "GdriveHome": "GP-LIVE",
   "GdriveDirName": "TEST",
   "GdriveDirID": "1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
   "GdriveMetaID": "1mApvrZPNcTPOFGQW8p8tmzjOPjXO77Ya",
-  "GdriveTeachMatID": "1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM",
+  "GdriveTeachMatID": null,
   "GdriveTeachItID": "1UMg2Cu5dMQW5GPTpChIMkMIZIXESB6V7gAW8SFCqjv4",
   "GdriveStandardsID": "1V-c6lwWeEbAaAWJh5Eh-bLZp-6d4rxKJo7NDkXE9Juo",
   "GdrivePublishedID": "1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE",
-  "GdrivePublicID": null,
+  "GdrivePublicID": "1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
   "RebuildAllMaterials": false,
   "ReleaseDate": "2050-01-01",
@@ -170,11 +170,11 @@
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "PDF (DRAFT FILE)",
+                          "linkText": "PDF",
                           "url": "https:/docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/export/pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "linkText": "Copy/Edit in Google Docs",
                           "url": "https:/docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/template/preview"
                         }
                       ]
@@ -185,11 +185,11 @@
                       "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF (DRAFT FILE)",
+                          "linkText": "PDF",
                           "url": "https:/docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "linkText": "Copy/Edit in Google Docs",
                           "url": "https:/docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/template/preview"
                         }
                       ]
@@ -210,11 +210,11 @@
                       "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF (DRAFT FILE)",
+                          "linkText": "PDF",
                           "url": "https:/docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "linkText": "Copy/Edit in Google Docs",
                           "url": "https:/docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/template/preview"
                         }
                       ]
@@ -235,11 +235,11 @@
                       "itemCat": "presentation",
                       "links": [
                         {
-                          "linkText": "PDF (DRAFT FILE)",
+                          "linkText": "PDF",
                           "url": "https:/docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/export/pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "linkText": "Copy/Edit in Google Docs",
                           "url": "https:/docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/template/preview"
                         }
                       ]
@@ -250,11 +250,11 @@
                       "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF (DRAFT FILE)",
+                          "linkText": "PDF",
                           "url": "https:/docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "linkText": "Copy/Edit in Google Docs",
                           "url": "https:/docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/template/preview"
                         }
                       ]
@@ -275,11 +275,11 @@
                       "itemCat": "document",
                       "links": [
                         {
-                          "linkText": "PDF (DRAFT FILE)",
+                          "linkText": "PDF",
                           "url": "https:/docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "linkText": "Copy/Edit in Google Docs",
                           "url": "https:/docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/template/preview"
                         }
                       ]
