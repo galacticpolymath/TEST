@@ -7,14 +7,14 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-19 10:17:20",
+  "LastUpdated": "2023-04-21 17:32:46",
   "FirstPublicationDate": "2023-04-10 12:14:57",
   "MediumTitle": "'TEST' |Science| G7-12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.4.5",
+  "TemplateVer": "0.4.7",
   "galacticPubsVer": "0.9.5",
   "URL": "https://galacticpolymath.com/lessons/999",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/LESSON.json",
@@ -29,7 +29,7 @@
   "GdrivePublishedID": "1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE",
   "GdrivePublicID": "1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
-  "RebuildAllMaterials": false,
+  "RebuildAllMaterials": true,
   "ReleaseDate": "2050-01-01",
   "Title": "TEST",
   "Subtitle": "Tryin' somethin' out again",
@@ -39,6 +39,16 @@
     "University of Nebraska-Lincoln"
   ],
   "SponsoredBy": "- University of Nebraska-Lincoln's [Funsize Physics](https://funsizephysics.com/). Whether you’re 7 or 107, a full-blown science fanatic or simply curious, this is the place for you.\n- National Science Foundation grant DMR 2048959",
+  "SponsorLogo": [
+    "assets/_banners_logos_etc/FunSizePhysics_logo.png",
+    "assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo@0.25x.png",
+    "assets/_banners_logos_etc/R-UNL_RGB_logo.jpg"
+  ],
+  "LessonBanner": "assets/_banners_logos_etc/banner.png",
+  "TargetSubject": "Science",
+  "LessonEnvir": "Classroom",
+  "ForGrades": "7-12",
+  "GradesOrYears": "Grades",
   "SponsorImage": {
     "url": [
       "https://gp-catalog.vercel.app/lessons/TEST/FunSizePhysics_logo.png",
@@ -52,11 +62,12 @@
   "Section": {
     "overview": {
       "__component": "lesson-plan.overview",
+      "LearningSummary": "Crystals aren't magic, but they are amazing! In this student-driven, lecture-free lesson, students will do card sorts, build hands-on models, solve engineering design puzzles, and more! The whole experience is connected through a beautifully crafted comic.",
       "EstLessonTime": "4 x 45 min classes",
       "GradesOrYears": "Grades",
       "ForGrades": "7-12",
       "TargetSubject": "Science",
-      "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhat are crystals and in addition to being pretty to look at, how are they relevant to our daily lives?\n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.\n#### Learning Summary:\nCrystals aren't magic, but they are amazing! In this student-driven, lecture-free lesson, students will do card sorts, build hands-on models, solve engineering design puzzles, and more! The whole experience is connected through a beautifully crafted comic.\nNA",
+      "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhat are crystals and in addition to being pretty to look at, how are they relevant to our daily lives? \n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.\nNA",
       "Tags": [
         {
           "Value": "crystals"
@@ -75,10 +86,10 @@
         }
       ],
       "SteamEpaulette": {
-        "url": null
+        "url": "https://gp-catalog.vercel.app/lessons/TEST/GP-Learning-Epaulette.png"
       },
       "SteamEpaulette_vert": {
-        "url": null
+        "url": "https://gp-catalog.vercel.app/lessons/TEST/GP-Learning-Epaulette_vert.png"
       },
       "Description": "NA"
     },
@@ -127,7 +138,6 @@
       "__component": "teaching-resources.teaching-resources",
       "SectionTitle": "Teaching Materials",
       "Data": {
-        "lessonDur": "Part 1: NA min, Part 0:  min",
         "classroom": {
           "gradeVariantNotes": [
             {
@@ -198,7 +208,7 @@
                 },
                 {
                   "part": "2",
-                  "title": "Explore",
+                  "title": "Explorer (with Dora)",
                   "tags": [
                     null
                   ],
@@ -223,7 +233,7 @@
                 },
                 {
                   "part": "3",
-                  "title": "Extend",
+                  "title": "Game day",
                   "tags": [
                     null
                   ],
@@ -294,273 +304,467 @@
         "parts": [
           {
             "partNum": 1,
-            "partTitle": "Engagement hook",
+            "partTitle": "Part 1| Procedure not documented yet",
             "partDur": null,
             "partPreface": null,
-            "partPrep": {
-              "PrepTitle": "Prep",
-              "PrepDur": 10,
-              "PrepQuickDescription": "Print out handouts. Assemble supplies.",
-              "PrepDetails": "Make a bulleted list like this:\n- First thing needed (hit ALT+Enter for new line)\n- Second thing needed",
-              "PrepVariantNotes": null,
-              "PrepTeachingTips": "We expect a basic understanding of...X. If they need background, read [this article](paste URL)."
-            },
-            "chunks": [
-              {
-                "chunkTitle": "******\nWrite Over This Text A2:K:4  (but don't delete row!)\n******\nChunk 1 Title; you don't need to repeat this across steps in the same chunk.",
-                "chunkStart": 0,
-                "chunkDur": 10,
-                "steps": [
-                  {
-                    "Step": 1,
-                    "StepTitle": "******\nWrite Title; Be sure to refer to notes in each column header\n******\nStep 1 Title. Need 1 per Step.",
-                    "StepQuickDescription": "Concise Description",
-                    "StepDetails": "Details about this step. In this column, as well as StepQuickDescription, and Variant Notes, you can embed a link to a video. Ex: To insert a link to the video listed in the Multimedia tab with Order=1, simply add [▶ Cool beans](https://www.youtube.com/watch?v=PGmPIHPX9eQ&t=70s) anywhere in the text description. A formatted link with the video title will be added to the Procedure.JSON used to generate the lesson plan webpage.",
-                    "Vocab": null,
-                    "VariantNotes": "Notes about either classroom or remote differences or grade level differences if there are multiple grade variants (e.g. high school vs middle school)",
-                    "TeachingTips": "Teaching Tips"
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Chunk 2 Title",
-                "chunkStart": 10,
-                "chunkDur": 10,
-                "steps": [
-                  {
-                    "Step": 2,
-                    "StepTitle": "Step 2 Title. Need 1 per Step.",
-                    "StepQuickDescription": "Concise Description",
-                    "StepDetails": "Students will play with the Cards handout: [ERROR: CHECK *{item3}* REFERENCE. NO LINK FOUND]()  (This would expand item3 to have a title and link to a pdf if it were listed in the Multimedia tab",
-                    "Vocab": null,
-                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
-                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Chunk 3 Title",
-                "chunkStart": 20,
-                "chunkDur": 25,
-                "steps": [
-                  {
-                    "Step": 3,
-                    "StepTitle": "Step 4 Title",
-                    "StepQuickDescription": "Concise Description",
-                    "StepDetails": "More Detailed description",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 4,
-                    "StepTitle": "Step 4 Title",
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              }
-            ],
-            "partExt": [
-              {
-                "item": 1,
-                "itemTitle": "Read this",
-                "itemDescription": "Remember when this was a destination?",
-                "itemLink": "yahoo.com"
-              }
-            ]
+            "chunks": null,
+            "partExtension": null
           },
           {
             "partNum": 2,
-            "partTitle": "Explore",
+            "partTitle": "Part 2| Procedure not documented yet",
             "partDur": null,
             "partPreface": null,
-            "partPrep": {
-              "PrepTitle": "Prep",
-              "PrepDur": null,
-              "PrepQuickDescription": null,
-              "PrepDetails": null,
-              "PrepVariantNotes": null,
-              "PrepTeachingTips": null
-            },
-            "chunks": [
-              {
-                "chunkTitle": "Chunk 1 Title",
-                "chunkStart": 0,
-                "chunkDur": 10,
-                "steps": [
-                  {
-                    "Step": 1,
-                    "StepTitle": "Step 1 Title",
-                    "StepQuickDescription": null,
-                    "StepDetails": "READ THIS ↓",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Chunk 2 Title",
-                "chunkStart": 10,
-                "chunkDur": 30,
-                "steps": [
-                  {
-                    "Step": 2,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Chunk 3 Title",
-                "chunkStart": 40,
-                "chunkDur": 5,
-                "steps": [
-                  {
-                    "Step": 3,
-                    "StepTitle": null,
-                    "StepQuickDescription": "READ THIS →",
-                    "StepDetails": "When you've looked at this example text and understand how it works, select cells A4:K21 and delete. Don't delete the top row!",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              }
-            ],
-            "partExt": null
+            "chunks": null,
+            "partExtension": null
           },
           {
             "partNum": 3,
-            "partTitle": "Extend",
+            "partTitle": "Part 3| Procedure not documented yet",
             "partDur": null,
             "partPreface": null,
-            "partPrep": {
-              "PrepTitle": null,
-              "PrepDur": null,
-              "PrepQuickDescription": null,
-              "PrepDetails": "READ THIS ↑",
-              "PrepVariantNotes": null,
-              "PrepTeachingTips": null
-            },
-            "chunks": [
-              {
-                "chunkTitle": null,
-                "chunkStart": 0,
-                "chunkDur": 10,
-                "steps": [
-                  {
-                    "Step": 1,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": null,
-                "chunkStart": 10,
-                "chunkDur": 15,
-                "steps": [
-                  {
-                    "Step": 2,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": null,
-                "chunkStart": 25,
-                "chunkDur": null,
-                "steps": [
-                  {
-                    "Step": 3,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              }
-            ],
-            "partExt": null
+            "chunks": null,
+            "partExtension": null
           },
           {
             "partNum": 4,
-            "partTitle": "Investigate on your own",
+            "partTitle": "Part 4| Procedure not documented yet",
             "partDur": null,
             "partPreface": null,
-            "partPrep": {
-              "PrepTitle": null,
-              "PrepDur": null,
-              "PrepQuickDescription": null,
-              "PrepDetails": null,
-              "PrepVariantNotes": null,
-              "PrepTeachingTips": null
-            },
-            "chunks": [
-              {
-                "chunkTitle": null,
-                "chunkStart": 0,
-                "chunkDur": null,
-                "steps": [
-                  {
-                    "Step": 1,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": null,
-                "chunkStart": null,
-                "chunkDur": null,
-                "steps": [
-                  {
-                    "Step": 2,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              }
-            ],
-            "partExt": null
+            "chunks": null,
+            "partExtension": null
           }
         ],
         "gatheredVocab": null
       }
+    },
+    "extensions": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Extensions",
+      "Content": "NA",
+      "InitiallyExpanded": true
+    },
+    "bonus": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Bonus Content",
+      "Content": "NA",
+      "InitiallyExpanded": true
+    },
+    "background": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Background",
+      "Content": "#### Connection to Research\n NA \n#### Research Background\n NA",
+      "InitiallyExpanded": true
+    },
+    "standards-header": {
+      "__component": "lesson-plan.section-heading",
+      "SectionTitle": "Learning Standards"
+    },
+    "learning-chart": {
+      "__component": "lesson-plan.learning-chart",
+      "Title": "About the GP Learning Chart",
+      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 18 standards across US grade band(s): .",
+      "Footnote": "",
+      "Badge": {
+        "url": "https://gp-catalog.vercel.app/lessons/TEST/GP-Learning-Chart.png"
+      }
+    },
+    "standards": {
+      "__component": "lesson-plan.standards",
+      "LearningObj": "NA",
+      "Data": [
+        {
+          "subject": "Math",
+          "target": false,
+          "sets": [
+            {
+              "slug": "CCM",
+              "name": "Common Core Math",
+              "dimensions": [
+                {
+                  "slug": "AGTC&HLT",
+                  "name": "Algebra, Geometry, Trig, Calculus & Higher Level Thinking",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "7.EE.B.4",
+                      "grades": "7",
+                      "statements": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    },
+                    {
+                      "parts": [
+                        "3"
+                      ],
+                      "codes": "8.G.A.1",
+                      "grades": "8",
+                      "statements": "Verify experimentally the properties of rotations, reflections, and translations:",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "ELA",
+          "target": false,
+          "sets": [
+            {
+              "slug": "CCELA",
+              "name": "Common Core ELA",
+              "dimensions": [
+                {
+                  "slug": "W",
+                  "name": "Writing",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "W.7.1b",
+                      "grades": "7",
+                      "statements": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    },
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "W.8.1b",
+                      "grades": "8",
+                      "statements": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    },
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "W.9-10.1",
+                      "grades": [
+                        "9",
+                        "10"
+                      ],
+                      "statements": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "CEDS-M2",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Construct an explanation using models or representations.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Constructing Explanations & Designing Solutions"
+                    }
+                  ]
+                },
+                {
+                  "slug": "CCC",
+                  "name": "Cross-Cutting Concepts",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "SF-M2",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Structures can be designed to serve particular functions by taking into account properties of different materials, and how materials can be shaped and used.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Function"
+                    },
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "PAT-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Macroscopic patterns are related to the nature of microscopic and atomic-level structure.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Patterns"
+                    },
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "SF-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Investigating or designing new systems or structures requires a detailed examination of the properties of different materials, the structures of different components, and connections of components to reveal its function and/or solve a problem.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Function"
+                    },
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "PAT-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Different patterns may be observed at each of the scales at which a system is studied and can provide evidence for causality in explanations of phenomena.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Patterns"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "MOD-M5",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Develop and/or use a model to predict and/or describe phenomena.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Developing & Using Models"
+                    },
+                    {
+                      "parts": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "MOD-H4",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Develop and/or use multiple types of models to provide mechanistic accounts and/or predict phenomena, and move flexibly between model types based on merits and limitations.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Developing & Using Models"
+                    },
+                    {
+                      "parts": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "MOD-H5",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Use a model to provide mechanistic accounts of phenomena.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Developing & Using Models"
+                    }
+                  ]
+                },
+                {
+                  "slug": "CCC",
+                  "name": "Cross-Cutting Concepts",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "SF-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Complex and microscopic structures and systems can be visualized, modeled, and used to describe how their function depends on the shapes, composition, and relationships among its parts, therefore complex natural structures/systems can be analyzed to determine how they function.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Function"
+                    },
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "SF-H2",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "The functions and properties of natural and designed objects and systems can be inferred from their overall structure, the way their components are shaped and used, and the molecular substructures of its various materials.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Function"
+                    }
+                  ]
+                },
+                {
+                  "slug": "DCI",
+                  "name": "Disciplinary Core ideas",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3"
+                      ],
+                      "codes": "PS1.A-M5",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Solids may be formed from molecules, or they may be extended structures with repeating subunits (e.g., crystals).",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Properties of Matter"
+                    },
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "PS1.A-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Each atom has a charged substructure consisting of a nucleus, which is made of protons and neutrons, surrounded by electrons.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Properties of Matter"
+                    },
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "PS1.A-H3",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "The structure and interactions of matter at the bulk scale are determined by electrical forces within and between atoms.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Properties of Matter"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     "feedback": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Feedback",
       "Content": "### Please let us know how it went with your class!\n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)\n- [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)\n",
       "InitiallyExpanded": true
+    },
+    "credits": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Credits",
+      "Content": "NA",
+      "InitiallyExpanded": true
+    },
+    "acknowledgments": {
+      "__component": "lesson-plan.acknowledgments",
+      "SectionTitle": "Acknowledgments",
+      "Data": null
+    },
+    "versions": {
+      "__component": "lesson-plan.versions",
+      "SectionTitle": "Version Notes",
+      "Data": [
+        {
+          "major_release": "Beta",
+          "sub_releases": [
+            {
+              "version": "0.1.0",
+              "date": "April 21, 2023",
+              "summary": "Lesson initialized",
+              "notes": null,
+              "acknowledgments": null
+            }
+          ]
+        }
+      ]
     }
   }
 }

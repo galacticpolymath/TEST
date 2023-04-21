@@ -6,14 +6,14 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-04-19 10:17:20
+LastUpdated: 2023-04-21 17:32:46
 FirstPublicationDate: 2023-04-10 12:14:57
 MediumTitle: '''TEST'' |Science| G7-12 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.4.5
+TemplateVer: 0.4.7
 galacticPubsVer: 0.9.5
 URL: https://galacticpolymath.com/lessons/999
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/LESSON.json
@@ -51,12 +51,12 @@ GradesOrYears: Grades
 EstLessonTime: 4 x 45 min classes
 PullStandardsInfoFrom: myFile
 LearningPlotCorrection: yes
-LearningChartFriendly: .na
-LearningEpaulette: .na
-LearningEpaulette_vert: .na
+LearningChartFriendly: yes
+LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
+LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
 LearningEpaulette_params_randomSeed: 101.0
-LearningChart: .na
+LearningChart: assets/_learning-plots/GP-Learning-Chart.png
 LearningChart_params_centralText: .na
 LearningChart_params_caption: .na
 LearningChart_params_captionN: yes
@@ -64,8 +64,8 @@ SupportingMedia: assets/_other-media-to-publish/vocab.csv
 DrivingQ: |-
   - What are crystals and how do they form?
   - How is molecular microstructure connected to functionality and properties we can easily observe?
-EssentialQ: What are crystals and in addition to being pretty to look at, how are
-  they relevant to our daily lives?
+EssentialQ: 'What are crystals and in addition to being pretty to look at, how are
+  they relevant to our daily lives? '
 Hooks: An engaging, original comic weaves together background information, hands-on
   activities, puzzles, and problem sets. Quick videos stoke curiosity and provide
   support for activities.
@@ -98,10 +98,6 @@ Feedback: |
   - [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)
   - [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)
 Credits: NA
-ScriptsToRun: ''
-ReadyToCompile:
-- Front Matter
-- Teaching Materials
 Acknowledgments:
   Role: ''
   Role_def: ''
@@ -111,9 +107,13 @@ Acknowledgments:
   Location: ''
   Link: ''
 Versions:
-  ver_num: ''
-  date: ''
-  ver_summary: ''
+  ver_num: 0.1.0
+  date: April 21, 2023
+  ver_summary: Lesson initialized
   ver_notes: ''
   ver_acknowledgments: ''
-GdriveTeachMat: 1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM
+ScriptsToRun: ''
+ReadyToCompile:
+- Front Matter
+- Standards Alignment
+- Teaching Materials

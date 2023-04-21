@@ -2,7 +2,6 @@
   "__component": "teaching-resources.teaching-resources",
   "SectionTitle": "Teaching Materials",
   "Data": {
-    "lessonDur": "Part 1: NA min, Part 0:  min",
     "classroom": {
       "gradeVariantNotes": [
         {
@@ -73,7 +72,7 @@
             },
             {
               "part": "2",
-              "title": "Explore",
+              "title": "Explorer (with Dora)",
               "tags": [
                 null
               ],
@@ -98,7 +97,7 @@
             },
             {
               "part": "3",
-              "title": "Extend",
+              "title": "Game day",
               "tags": [
                 null
               ],
@@ -169,263 +168,35 @@
     "parts": [
       {
         "partNum": 1,
-        "partTitle": "Engagement hook",
+        "partTitle": "Part 1| Procedure not documented yet",
         "partDur": null,
         "partPreface": null,
-        "partPrep": {
-          "PrepTitle": "Prep",
-          "PrepDur": 10,
-          "PrepQuickDescription": "Print out handouts. Assemble supplies.",
-          "PrepDetails": "Make a bulleted list like this:\n- First thing needed (hit ALT+Enter for new line)\n- Second thing needed",
-          "PrepVariantNotes": null,
-          "PrepTeachingTips": "We expect a basic understanding of...X. If they need background, read [this article](paste URL)."
-        },
-        "chunks": [
-          {
-            "chunkTitle": "******\nWrite Over This Text A2:K:4  (but don't delete row!)\n******\nChunk 1 Title; you don't need to repeat this across steps in the same chunk.",
-            "chunkStart": 0,
-            "chunkDur": 10,
-            "steps": [
-              {
-                "Step": 1,
-                "StepTitle": "******\nWrite Title; Be sure to refer to notes in each column header\n******\nStep 1 Title. Need 1 per Step.",
-                "StepQuickDescription": "Concise Description",
-                "StepDetails": "Details about this step. In this column, as well as StepQuickDescription, and Variant Notes, you can embed a link to a video. Ex: To insert a link to the video listed in the Multimedia tab with Order=1, simply add [▶ Cool beans](https://www.youtube.com/watch?v=PGmPIHPX9eQ&t=70s) anywhere in the text description. A formatted link with the video title will be added to the Procedure.JSON used to generate the lesson plan webpage.",
-                "Vocab": null,
-                "VariantNotes": "Notes about either classroom or remote differences or grade level differences if there are multiple grade variants (e.g. high school vs middle school)",
-                "TeachingTips": "Teaching Tips"
-              }
-            ]
-          },
-          {
-            "chunkTitle": "Chunk 2 Title",
-            "chunkStart": 10,
-            "chunkDur": 10,
-            "steps": [
-              {
-                "Step": 2,
-                "StepTitle": "Step 2 Title. Need 1 per Step.",
-                "StepQuickDescription": "Concise Description",
-                "StepDetails": "Students will play with the Cards handout: [ERROR: CHECK *{item3}* REFERENCE. NO LINK FOUND]()  (This would expand item3 to have a title and link to a pdf if it were listed in the Multimedia tab",
-                "Vocab": null,
-                "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
-                "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
-              }
-            ]
-          },
-          {
-            "chunkTitle": "Chunk 3 Title",
-            "chunkStart": 20,
-            "chunkDur": 25,
-            "steps": [
-              {
-                "Step": 3,
-                "StepTitle": "Step 4 Title",
-                "StepQuickDescription": "Concise Description",
-                "StepDetails": "More Detailed description",
-                "Vocab": null,
-                "VariantNotes": null,
-                "TeachingTips": null
-              },
-              {
-                "Step": 4,
-                "StepTitle": "Step 4 Title",
-                "StepQuickDescription": null,
-                "StepDetails": null,
-                "Vocab": null,
-                "VariantNotes": null,
-                "TeachingTips": null
-              }
-            ]
-          }
-        ],
-        "partExt": [
-          {
-            "item": 1,
-            "itemTitle": "Read this",
-            "itemDescription": "Remember when this was a destination?",
-            "itemLink": "yahoo.com"
-          }
-        ]
+        "chunks": null,
+        "partExtension": null
       },
       {
         "partNum": 2,
-        "partTitle": "Explore",
+        "partTitle": "Part 2| Procedure not documented yet",
         "partDur": null,
         "partPreface": null,
-        "partPrep": {
-          "PrepTitle": "Prep",
-          "PrepDur": null,
-          "PrepQuickDescription": null,
-          "PrepDetails": null,
-          "PrepVariantNotes": null,
-          "PrepTeachingTips": null
-        },
-        "chunks": [
-          {
-            "chunkTitle": "Chunk 1 Title",
-            "chunkStart": 0,
-            "chunkDur": 10,
-            "steps": [
-              {
-                "Step": 1,
-                "StepTitle": "Step 1 Title",
-                "StepQuickDescription": null,
-                "StepDetails": "READ THIS ↓",
-                "Vocab": null,
-                "VariantNotes": null,
-                "TeachingTips": null
-              }
-            ]
-          },
-          {
-            "chunkTitle": "Chunk 2 Title",
-            "chunkStart": 10,
-            "chunkDur": 30,
-            "steps": [
-              {
-                "Step": 2,
-                "StepTitle": null,
-                "StepQuickDescription": null,
-                "StepDetails": null,
-                "Vocab": null,
-                "VariantNotes": null,
-                "TeachingTips": null
-              }
-            ]
-          },
-          {
-            "chunkTitle": "Chunk 3 Title",
-            "chunkStart": 40,
-            "chunkDur": 5,
-            "steps": [
-              {
-                "Step": 3,
-                "StepTitle": null,
-                "StepQuickDescription": "READ THIS →",
-                "StepDetails": "When you've looked at this example text and understand how it works, select cells A4:K21 and delete. Don't delete the top row!",
-                "Vocab": null,
-                "VariantNotes": null,
-                "TeachingTips": null
-              }
-            ]
-          }
-        ],
-        "partExt": null
+        "chunks": null,
+        "partExtension": null
       },
       {
         "partNum": 3,
-        "partTitle": "Extend",
+        "partTitle": "Part 3| Procedure not documented yet",
         "partDur": null,
         "partPreface": null,
-        "partPrep": {
-          "PrepTitle": null,
-          "PrepDur": null,
-          "PrepQuickDescription": null,
-          "PrepDetails": "READ THIS ↑",
-          "PrepVariantNotes": null,
-          "PrepTeachingTips": null
-        },
-        "chunks": [
-          {
-            "chunkTitle": null,
-            "chunkStart": 0,
-            "chunkDur": 10,
-            "steps": [
-              {
-                "Step": 1,
-                "StepTitle": null,
-                "StepQuickDescription": null,
-                "StepDetails": null,
-                "Vocab": null,
-                "VariantNotes": null,
-                "TeachingTips": null
-              }
-            ]
-          },
-          {
-            "chunkTitle": null,
-            "chunkStart": 10,
-            "chunkDur": 15,
-            "steps": [
-              {
-                "Step": 2,
-                "StepTitle": null,
-                "StepQuickDescription": null,
-                "StepDetails": null,
-                "Vocab": null,
-                "VariantNotes": null,
-                "TeachingTips": null
-              }
-            ]
-          },
-          {
-            "chunkTitle": null,
-            "chunkStart": 25,
-            "chunkDur": null,
-            "steps": [
-              {
-                "Step": 3,
-                "StepTitle": null,
-                "StepQuickDescription": null,
-                "StepDetails": null,
-                "Vocab": null,
-                "VariantNotes": null,
-                "TeachingTips": null
-              }
-            ]
-          }
-        ],
-        "partExt": null
+        "chunks": null,
+        "partExtension": null
       },
       {
         "partNum": 4,
-        "partTitle": "Investigate on your own",
+        "partTitle": "Part 4| Procedure not documented yet",
         "partDur": null,
         "partPreface": null,
-        "partPrep": {
-          "PrepTitle": null,
-          "PrepDur": null,
-          "PrepQuickDescription": null,
-          "PrepDetails": null,
-          "PrepVariantNotes": null,
-          "PrepTeachingTips": null
-        },
-        "chunks": [
-          {
-            "chunkTitle": null,
-            "chunkStart": 0,
-            "chunkDur": null,
-            "steps": [
-              {
-                "Step": 1,
-                "StepTitle": null,
-                "StepQuickDescription": null,
-                "StepDetails": null,
-                "Vocab": null,
-                "VariantNotes": null,
-                "TeachingTips": null
-              }
-            ]
-          },
-          {
-            "chunkTitle": null,
-            "chunkStart": null,
-            "chunkDur": null,
-            "steps": [
-              {
-                "Step": 2,
-                "StepTitle": null,
-                "StepQuickDescription": null,
-                "StepDetails": null,
-                "Vocab": null,
-                "VariantNotes": null,
-                "TeachingTips": null
-              }
-            ]
-          }
-        ],
-        "partExt": null
+        "chunks": null,
+        "partExtension": null
       }
     ],
     "gatheredVocab": null
