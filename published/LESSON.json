@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-21 17:32:46",
+  "LastUpdated": "2023-04-21 18:49:07",
   "FirstPublicationDate": "2023-04-10 12:14:57",
   "MediumTitle": "'TEST' |Science| G7-12 (en-US)",
   "lang": "en",
@@ -29,7 +29,7 @@
   "GdrivePublishedID": "1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE",
   "GdrivePublicID": "1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
-  "RebuildAllMaterials": true,
+  "RebuildAllMaterials": false,
   "ReleaseDate": "2050-01-01",
   "Title": "TEST",
   "Subtitle": "Tryin' somethin' out again",
@@ -304,7 +304,7 @@
         "parts": [
           {
             "partNum": 1,
-            "partTitle": "Part 1| Procedure not documented yet",
+            "partTitle": "Procedure not documented yet",
             "partDur": null,
             "partPreface": null,
             "chunks": null,
@@ -312,7 +312,7 @@
           },
           {
             "partNum": 2,
-            "partTitle": "Part 2| Procedure not documented yet",
+            "partTitle": "Procedure not documented yet",
             "partDur": null,
             "partPreface": null,
             "chunks": null,
@@ -320,7 +320,7 @@
           },
           {
             "partNum": 3,
-            "partTitle": "Part 3| Procedure not documented yet",
+            "partTitle": "Procedure not documented yet",
             "partDur": null,
             "partPreface": null,
             "chunks": null,
@@ -328,7 +328,7 @@
           },
           {
             "partNum": 4,
-            "partTitle": "Part 4| Procedure not documented yet",
+            "partTitle": "Procedure not documented yet",
             "partDur": null,
             "partPreface": null,
             "chunks": null,
