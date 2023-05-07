@@ -6,19 +6,19 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-05-06 21:08:48
+LastUpdated: 2023-05-07 12:10:00
 FirstPublicationDate: 2023-04-10 12:14:57
 MediumTitle: '''TEST'' |Science| G7-12 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.5.0
+TemplateVer: 0.5.2
 galacticPubsVer: 0.9.6
+isTestRepo: yes
 URL: https://galacticpolymath.com/lessons/999
 GPCatalogURL: https://gp-catalog.vercel.app/lessons/TEST/LESSON.json
-GPCatalogPath: https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/LESSON.json
-GitHubPath: git@github.com:galacticpolymath/TEST.git
+GitHubURL: git@github.com:galacticpolymath/TEST.git
 GdriveHome: GP-LIVE
 GdriveDirName: TEST
 GdriveTeachMatPath: GalacticPolymath/'TEST' |Science| G7-12 (en-US)
@@ -53,14 +53,14 @@ GradesOrYears: Grades
 EstLessonTime: 4 x 45 min classes
 PullStandardsInfoFrom: myFile
 LearningPlotCorrection: yes
-LearningChartFriendly: yes
+LearningChartFriendly: ''
 LearningEpaulette: assets/_learning-plots/GP-Learning-Epaulette.png
 LearningEpaulette_vert: assets/_learning-plots/GP-Learning-Epaulette_vert.png
 LearningEpaulette_params_heightScalar: 0.5
-LearningEpaulette_params_randomSeed: 101.0
+LearningEpaulette_params_randomSeed: 101
 LearningChart: assets/_learning-plots/GP-Learning-Chart.png
-LearningChart_params_centralText: .na
-LearningChart_params_caption: .na
+LearningChart_params_centralText: ''
+LearningChart_params_caption: ''
 LearningChart_params_captionN: yes
 SupportingMedia: assets/_other-media-to-publish/vocab.csv
 DrivingQ: |-
@@ -75,31 +75,31 @@ LearningSummary: Crystals aren't magic, but they are amazing! In this student-dr
   lecture-free lesson, students will do card sorts, build hands-on models, solve engineering
   design puzzles, and more! The whole experience is connected through a beautifully
   crafted comic.
-MiscMD: .na
-LearningObj: .na
+MiscMD: NA
+LearningObj: NA
 Tags:
 - crystals
 - symmetry
 - hands-on
 - comics
 - engineering mindset
-Description: .na
+Description: NA
 QuickPrep: |
   1. Check out lesson multimedia below
   2. Look over [Teaching Materials](#teaching_materials)
   3. Read our easy [Procedure](#procedure)
   4. Teach it and [let us know what you think!](#feedback)
-Bonus: .na
-Extensions: .na
-Background: .na
-ConnectionToResearch: .na
+Bonus: NA
+Extensions: NA
+Background: NA
+ConnectionToResearch: NA
 Feedback: |
   ### Please let us know how it went with your class!
   #### We want to know what you (and/or your students) think!
   Share your feedback in < 5 min with these forms:
   - [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)
   - [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)
-Credits: .na
+Credits: NA
 Acknowledgments:
   Role: .na
   Role_def: .na
@@ -114,7 +114,7 @@ Versions:
   ver_summary: Lesson initialized
   ver_notes: .na
   ver_acknowledgments: .na
-ScriptsToRun: .na
+ScriptsToRun: ''
 ReadyToCompile:
 - Front Matter
 - Standards Alignment
