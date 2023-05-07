@@ -6,27 +6,29 @@ Language: English
 Country: United States
 DefaultLanguage: English
 DefaultCountry: United States
-LastUpdated: 2023-04-21 19:04:48
+LastUpdated: 2023-05-06 21:08:48
 FirstPublicationDate: 2023-04-10 12:14:57
 MediumTitle: '''TEST'' |Science| G7-12 (en-US)'
 lang: en
 lng: eng
 locale: en-US
 DefaultLocale: en-US
-TemplateVer: 0.4.7
-galacticPubsVer: 0.9.5
+TemplateVer: 0.5.0
+galacticPubsVer: 0.9.6
 URL: https://galacticpolymath.com/lessons/999
+GPCatalogURL: https://gp-catalog.vercel.app/lessons/TEST/LESSON.json
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/TEST.git
 GdriveHome: GP-LIVE
 GdriveDirName: TEST
+GdriveTeachMatPath: GalacticPolymath/'TEST' |Science| G7-12 (en-US)
+GdriveTeachMatID: .na
+GdrivePublicID: 1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM
 GdriveDirID: 1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2
 GdriveMetaID: 1mApvrZPNcTPOFGQW8p8tmzjOPjXO77Ya
-GdriveTeachMatID: .na
 GdriveTeachItID: 1UMg2Cu5dMQW5GPTpChIMkMIZIXESB6V7gAW8SFCqjv4
 GdriveStandardsID: 1V-c6lwWeEbAaAWJh5Eh-bLZp-6d4rxKJo7NDkXE9Juo
 GdrivePublishedID: 1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE
-GdrivePublicID: 1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM
 GdriveDirURL: https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2
 RebuildAllMaterials: no
 ReleaseDate: '2050-01-01'
@@ -73,46 +75,46 @@ LearningSummary: Crystals aren't magic, but they are amazing! In this student-dr
   lecture-free lesson, students will do card sorts, build hands-on models, solve engineering
   design puzzles, and more! The whole experience is connected through a beautifully
   crafted comic.
-MiscMD: NA
-LearningObj: NA
+MiscMD: .na
+LearningObj: .na
 Tags:
 - crystals
 - symmetry
 - hands-on
 - comics
 - engineering mindset
-Description: NA
+Description: .na
 QuickPrep: |
   1. Check out lesson multimedia below
   2. Look over [Teaching Materials](#teaching_materials)
   3. Read our easy [Procedure](#procedure)
   4. Teach it and [let us know what you think!](#feedback)
-Bonus: NA
-Extensions: NA
-Background: NA
-ConnectionToResearch: NA
+Bonus: .na
+Extensions: .na
+Background: .na
+ConnectionToResearch: .na
 Feedback: |
   ### Please let us know how it went with your class!
   #### We want to know what you (and/or your students) think!
   Share your feedback in < 5 min with these forms:
   - [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)
   - [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)
-Credits: NA
+Credits: .na
 Acknowledgments:
-  Role: ''
-  Role_def: ''
-  Name: ''
-  Title: ''
-  Affiliation: ''
-  Location: ''
-  Link: ''
+  Role: .na
+  Role_def: .na
+  Name: .na
+  Title: .na
+  Affiliation: .na
+  Location: .na
+  Link: .na
 Versions:
   ver_num: 0.1.0
   date: April 21, 2023
   ver_summary: Lesson initialized
-  ver_notes: ''
-  ver_acknowledgments: ''
-ScriptsToRun: ''
+  ver_notes: .na
+  ver_acknowledgments: .na
+ScriptsToRun: .na
 ReadyToCompile:
 - Front Matter
 - Standards Alignment

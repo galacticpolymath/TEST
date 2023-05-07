@@ -2,6 +2,7 @@
   "__component": "teaching-resources.teaching-resources",
   "SectionTitle": "Teaching Materials",
   "Data": {
+    "lessonPreface": null,
     "classroom": {
       "gradeVariantNotes": [
         {
@@ -26,7 +27,7 @@
           "grades": "Grades 7-12",
           "gradePrefix": "G7-12",
           "links": {
-            "linkText": "Download G7-12 Materials for All Parts",
+            "linkText": "Browse & Download All G7-12 Materials",
             "url": "https://drive.google.com/drive/folders/1gGRMiK0xybbS6ljqYykpmBOZniVeV3GV"
           },
           "parts": [
@@ -45,11 +46,11 @@
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https:/docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/export/pdf"
+                      "url": "https://docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/export/pdf"
                     },
                     {
                       "linkText": "Copy/Edit in Google Docs",
-                      "url": "https:/docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/template/preview"
+                      "url": "https://docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/template/preview"
                     }
                   ]
                 },
@@ -60,11 +61,11 @@
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https:/docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/export?format=pdf"
                     },
                     {
                       "linkText": "Copy/Edit in Google Docs",
-                      "url": "https:/docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/template/preview"
+                      "url": "https://docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/template/preview"
                     }
                   ]
                 }
@@ -85,11 +86,11 @@
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https:/docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/export?format=pdf"
                     },
                     {
                       "linkText": "Copy/Edit in Google Docs",
-                      "url": "https:/docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/template/preview"
+                      "url": "https://docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/template/preview"
                     }
                   ]
                 }
@@ -110,11 +111,11 @@
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https:/docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/export/pdf"
+                      "url": "https://docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/export/pdf"
                     },
                     {
                       "linkText": "Copy/Edit in Google Docs",
-                      "url": "https:/docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/template/preview"
+                      "url": "https://docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/template/preview"
                     }
                   ]
                 },
@@ -125,11 +126,11 @@
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https:/docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/export?format=pdf"
                     },
                     {
                       "linkText": "Copy/Edit in Google Docs",
-                      "url": "https:/docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/template/preview"
+                      "url": "https://docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/template/preview"
                     }
                   ]
                 }
@@ -150,17 +151,16 @@
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https:/docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/export?format=pdf"
                     },
                     {
                       "linkText": "Copy/Edit in Google Docs",
-                      "url": "https:/docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/template/preview"
+                      "url": "https://docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/template/preview"
                     }
                   ]
                 }
               ]
-            },
-            null
+            }
           ]
         }
       ]

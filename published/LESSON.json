@@ -7,27 +7,29 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-21 19:04:48",
+  "LastUpdated": "2023-05-06 21:08:48",
   "FirstPublicationDate": "2023-04-10 12:14:57",
   "MediumTitle": "'TEST' |Science| G7-12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.4.7",
-  "galacticPubsVer": "0.9.5",
+  "TemplateVer": "0.5.0",
+  "galacticPubsVer": "0.9.6",
   "URL": "https://galacticpolymath.com/lessons/999",
+  "GPCatalogURL": "https://gp-catalog.vercel.app/lessons/TEST/LESSON.json",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/TEST.git",
   "GdriveHome": "GP-LIVE",
   "GdriveDirName": "TEST",
+  "GdriveTeachMatPath": "GalacticPolymath/'TEST' |Science| G7-12 (en-US)",
+  "GdriveTeachMatID": null,
+  "GdrivePublicID": "1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM",
   "GdriveDirID": "1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
   "GdriveMetaID": "1mApvrZPNcTPOFGQW8p8tmzjOPjXO77Ya",
-  "GdriveTeachMatID": null,
   "GdriveTeachItID": "1UMg2Cu5dMQW5GPTpChIMkMIZIXESB6V7gAW8SFCqjv4",
   "GdriveStandardsID": "1V-c6lwWeEbAaAWJh5Eh-bLZp-6d4rxKJo7NDkXE9Juo",
   "GdrivePublishedID": "1nAz4WEnsvhixGmT0COv3r9qtegbYqEeE",
-  "GdrivePublicID": "1xkeDnmP-ymqrfPL9q_X22hitwIkgtzvM",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1m8SVQpK_XZishGFUiia7RGxdrFUrbTY2",
   "RebuildAllMaterials": false,
   "ReleaseDate": "2050-01-01",
@@ -67,7 +69,7 @@
       "GradesOrYears": "Grades",
       "ForGrades": "7-12",
       "TargetSubject": "Science",
-      "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhat are crystals and in addition to being pretty to look at, how are they relevant to our daily lives? \n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.\nNA",
+      "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhat are crystals and in addition to being pretty to look at, how are they relevant to our daily lives? \n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.",
       "Tags": [
         {
           "Value": "crystals"
@@ -91,7 +93,7 @@
       "SteamEpaulette_vert": {
         "url": "https://gp-catalog.vercel.app/lessons/TEST/GP-Learning-Epaulette_vert.png"
       },
-      "Description": "NA"
+      "Description": null
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -101,6 +103,7 @@
         {
           "order": "2",
           "type": "video",
+          "forPart": "1",
           "title": "Cool beans",
           "description": null,
           "lessonRelevance": "Intro to the issues.",
@@ -112,6 +115,7 @@
         {
           "order": "4",
           "type": "pdf",
+          "forPart": "2",
           "title": "What's next?",
           "description": null,
           "lessonRelevance": "Go deeper.",
@@ -123,6 +127,7 @@
         {
           "order": "3",
           "type": "shiny-app",
+          "forPart": "3",
           "title": "Hear ya go!",
           "description": null,
           "lessonRelevance": "Wow, I never knew that!",
@@ -138,6 +143,7 @@
       "__component": "teaching-resources.teaching-resources",
       "SectionTitle": "Teaching Materials",
       "Data": {
+        "lessonPreface": null,
         "classroom": {
           "gradeVariantNotes": [
             {
@@ -162,7 +168,7 @@
               "grades": "Grades 7-12",
               "gradePrefix": "G7-12",
               "links": {
-                "linkText": "Download G7-12 Materials for All Parts",
+                "linkText": "Browse & Download All G7-12 Materials",
                 "url": "https://drive.google.com/drive/folders/1gGRMiK0xybbS6ljqYykpmBOZniVeV3GV"
               },
               "parts": [
@@ -181,11 +187,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https:/docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/export/pdf"
+                          "url": "https://docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/export/pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs",
-                          "url": "https:/docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/template/preview"
+                          "url": "https://docs.google.com/presentation/d/1scNToDdJAckvn2eVq0QuMfTKqmF_FsCLthRpua8649I/template/preview"
                         }
                       ]
                     },
@@ -196,11 +202,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https:/docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/export?format=pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs",
-                          "url": "https:/docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/template/preview"
+                          "url": "https://docs.google.com/document/d/19vB7HdYeHAr9ericAYOPDmNV-cNZluSJtoDR7kz0S-w/template/preview"
                         }
                       ]
                     }
@@ -221,11 +227,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https:/docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/export?format=pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs",
-                          "url": "https:/docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/template/preview"
+                          "url": "https://docs.google.com/document/d/1sY7UyQgcR9s9BlgYGL2TDxrfNw5ji1nurZbQuGA4YnM/template/preview"
                         }
                       ]
                     }
@@ -246,11 +252,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https:/docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/export/pdf"
+                          "url": "https://docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/export/pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs",
-                          "url": "https:/docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/template/preview"
+                          "url": "https://docs.google.com/presentation/d/1t3QZY_ofGlTjcEYPiT0fjzVyPQLdT-Z9k5KNxg8vARg/template/preview"
                         }
                       ]
                     },
@@ -261,11 +267,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https:/docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/export?format=pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs",
-                          "url": "https:/docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/template/preview"
+                          "url": "https://docs.google.com/document/d/19uONOtDB6jbJzldCo1NLW1qsXj771jeWQeyusUCABCQ/template/preview"
                         }
                       ]
                     }
@@ -286,17 +292,16 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https:/docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/export?format=pdf"
                         },
                         {
                           "linkText": "Copy/Edit in Google Docs",
-                          "url": "https:/docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/template/preview"
+                          "url": "https://docs.google.com/document/d/1a7tEpCIFtAoLOIw4pqp81RdvqQvfF80rqGPoGVMBLQ0/template/preview"
                         }
                       ]
                     }
                   ]
-                },
-                null
+                }
               ]
             }
           ]
@@ -337,18 +342,6 @@
         ],
         "gatheredVocab": null
       }
-    },
-    "extensions": {
-      "__component": "lesson-plan.collapsible-text-section",
-      "SectionTitle": "Extensions",
-      "Content": "NA",
-      "InitiallyExpanded": true
-    },
-    "bonus": {
-      "__component": "lesson-plan.collapsible-text-section",
-      "SectionTitle": "Bonus Content",
-      "Content": "NA",
-      "InitiallyExpanded": true
     },
     "background": {
       "__component": "lesson-plan.collapsible-text-section",

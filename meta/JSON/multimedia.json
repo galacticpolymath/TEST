@@ -2,6 +2,7 @@
   {
     "order": "2",
     "type": "video",
+    "forPart": "1",
     "title": "Cool beans",
     "description": null,
     "lessonRelevance": "Intro to the issues.",
@@ -13,6 +14,7 @@
   {
     "order": "4",
     "type": "pdf",
+    "forPart": "2",
     "title": "What's next?",
     "description": null,
     "lessonRelevance": "Go deeper.",
@@ -24,6 +26,7 @@
   {
     "order": "3",
     "type": "shiny-app",
+    "forPart": "3",
     "title": "Hear ya go!",
     "description": null,
     "lessonRelevance": "Wow, I never knew that!",
